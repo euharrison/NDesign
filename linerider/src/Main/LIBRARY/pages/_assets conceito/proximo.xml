@@ -1,0 +1,23 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets conceito/proximo" itemID="4dfd3e9b-0000039b" sourceLibraryItemHRef="Symbol 1" symbolType="button" lastModified="1308442273">
+  <timeline>
+    <DOMTimeline name="proximo" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-avancar.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-avancar.png"/>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-avancar-over.png"/>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

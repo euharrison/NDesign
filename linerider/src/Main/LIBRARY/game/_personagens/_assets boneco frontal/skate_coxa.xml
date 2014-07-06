@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco frontal/skate_coxa" itemID="4e03d050-0000052e" sourceLibraryItemHRef="Symbol 1" lastModified="1308872784">
+  <timeline>
+    <DOMTimeline name="skate_coxa">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!32 -163[24 -175 11 -179!11 -179|1 -181!1 -181[-17 -181 -29 -169!-29 -169[-40 -156 -39 -138!-39 -138|-41 137!-41 137[-41 155 -29 167!-29 167[-17 180 -1 181!-1 181[17 180 29 169!29 169[39 154 39 138!39 138|40 -137!40 -137[40 -152 32 -163"/>
+                    <Edge fillStyle1="1" edges="!47 -176[60 -158 60 -137!60 -137|60 138!60 138[60 162 41 182!41 182[23 201 -1 200!-1 200[-7 201 -16 198!-16 198[-36 192 -48 176!-48 176[-60 158 -60 137!-60 137|-60 -138!-60 -138[-59 -165 -41 -182!-41 -182[-24 -202 1 -200!1 -200[7 -201
+ 16 -198!16 -198[35 -192 47 -176"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

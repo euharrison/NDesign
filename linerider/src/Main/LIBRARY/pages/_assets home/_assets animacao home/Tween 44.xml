@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/Tween 44" itemID="4e0417d3-000001c1" symbolType="graphic" lastModified="1308893948">
+  <timeline>
+    <DOMTimeline name="Tween 44">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F62E8D"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!-146 -79|-66 0!-66 0|-146 78!-146 78|145 78!145 78|145 -79!145 -79|-146 -79"/>
+                    <Edge cubics="!145 78(;145,78 145,-79 145,-79q145 78 145 -79);"/>
+                    <Edge cubics="!145 -79(;145,-79 -146,-79 -146,-79q145 -79 -146 -79);"/>
+                    <Edge cubics="!-146 -79(;-146,-79 -66,0 -66,0q-146 -79 -66 0);"/>
+                    <Edge cubics="!-66 0(;-66,0 -146,78 -146,78q-66 0 -146 78);"/>
+                    <Edge cubics="!-146 78(;-146,78 145,78 145,78q-146 78 145 78);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

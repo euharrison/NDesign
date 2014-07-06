@@ -1,0 +1,58 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/raio luz vermelho" itemID="4deea5a8-000002db" sourceLibraryItemHRef="Symbol 2" lastModified="1310537164" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="raio luz vermelho">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" current="true" isSelected="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="1300" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3057 -2284S2|3057 146!3057 146|-1012 146!-1012 146|-1012 -2284!-1012 -2284|3057 -2284"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" parentLayerIndex="0" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="1299" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="pages/_assets home/_assets animacao home/raio-vermelho.png">
+                  <matrix>
+                    <Matrix a="0.840744018554688" d="0.837005615234375" tx="-42.45" ty="-96"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="113" y="113.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1299" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/Tween 10" name="" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="52.5" ty="0.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

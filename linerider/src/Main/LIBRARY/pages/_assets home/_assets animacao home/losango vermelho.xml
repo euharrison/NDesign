@@ -1,0 +1,80 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/losango vermelho" itemID="4e03904b-0000031f" sourceLibraryItemHRef="Symbol 2" lastModified="1308856397">
+  <timeline>
+    <DOMTimeline name="losango vermelho">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-156.45" ty="-300.4"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFC17E"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3156 6113[3203 6007 3350 6007!3350 6007|3139 6218!3139 6218[3133 6165 3156 6113"/>
+                        <Edge cubics="!3139 6218(;3139,6218 3115,6007 3350,6007q3139 6218Q3133 6165q3156 6113Q3203 6007q3350 6007);"/>
+                        <Edge cubics="!3350 6007(;3244,6112 3244,6112 3139,6218q3350 6007 3139 6218);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-156.45" ty="-300.4"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F62E8D"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!3140 6218[3146 6165 3123 6113!3123 6113[3076 6007 2929 6007!2929 6007|3140 6218"/>
+                        <Edge cubics="!3140 6218(;3140,6218 3164,6007 2929,6007q3140 6218Q3146 6165q3123 6113Q3076 6007q2929 6007);"/>
+                        <Edge cubics="!2929 6007(;3034,6112 3034,6112 3140,6218q2929 6007 3140 6218);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-156.45" ty="-300.4"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFC17E"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!3123 5902[3076 6007 2929 6007!2929 6007|3140 5797!3140 5797|3140 5830!3140 5830[3137 5869 3123 5902"/>
+                        <Edge cubics="!3140 5797(3140,5797;3140,5797 3164,6007 2929,6007q3140 5797Q3140 5797q3140 5830Q3137 5869q3123 5902Q3076 6007q2929 6007);"/>
+                        <Edge cubics="!2929 6007(2929,6007;3034,5902 3034,5902 3140,5797q2929 6007 3140 5797);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-156.45" ty="-300.4"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F62E8D"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!3156 5902[3203 6007 3350 6007!3350 6007|3139 5797!3139 5797|3139 5830!3139 5830[3142 5869 3156 5902"/>
+                        <Edge cubics="!3139 5797(;3139,5797 3115,6007 3350,6007q3139 5797Q3139 5797q3139 5830Q3142 5869q3156 5902Q3203 6007q3350 6007);"/>
+                        <Edge cubics="!3350 6007(;3244,5902 3244,5902 3139,5797q3350 6007 3139 5797);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

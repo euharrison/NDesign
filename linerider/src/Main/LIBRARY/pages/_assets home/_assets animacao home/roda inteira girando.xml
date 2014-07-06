@@ -1,0 +1,406 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/roda inteira girando" itemID="4d6fc0f9-00000047" sourceLibraryItemHRef="roda inteira" sourceLastModified="1299106673" lastModified="1301070401" lastUniqueIdentifier="96">
+  <timeline>
+    <DOMTimeline name="roda inteira girando" currentFrame="176">
+      <layers>
+        <DOMLayer name="mastro" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/pirulito" name="" centerPoint3DX="63.35" centerPoint3DY="72.55">
+                  <matrix>
+                    <Matrix tx="42.7" ty="34.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.1" y="34.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/pirulito" name="" centerPoint3DX="63.35" centerPoint3DY="72.55">
+                  <matrix>
+                    <Matrix tx="42.7" ty="34.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="19.1" y="34.6"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="roda" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="300" tweenType="motion" motionTweenRotate="counter-clockwise" motionTweenRotateTimes="1" motionTweenOrientToPath="true" motionTweenSync="true" motionTweenSnap="true" keyMode="24321">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/roda" name="" centerPoint3DX="63.2" centerPoint3DY="59.55">
+                  <matrix>
+                    <Matrix tx="9.25" ty="5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.95" y="53.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/roda" name="" centerPoint3DX="63.2" centerPoint3DY="59.55">
+                  <matrix>
+                    <Matrix tx="9.25" ty="5.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="53.95" y="53.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="guide radial" color="#FF4FFF" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="301" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2013 1934[1704 2244 1266 2244!1266 2244[827 2244 517 1934!517 1934[208 1625 208 1187!208 1187[208 748 517 438!517 438[827 129 1266 129!1266 129[1704 129 2013 438!2013 438[2323 748 2323 1187!2323 1187[2323 1625 2013 1934"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 1" color="#4FFFFF" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="115.8" centerPoint3DY="59.4">
+                  <matrix>
+                    <Matrix tx="105.4" ty="53"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="10.4" centerPoint3DY="59.4">
+                  <matrix>
+                    <Matrix ty="53"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="116" centerPoint3DY="60.5">
+                  <matrix>
+                    <Matrix tx="105.6" ty="54.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 2" color="#4F80FF" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="100.4" centerPoint3DY="22.15">
+                  <matrix>
+                    <Matrix tx="90" ty="15.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="25.6" centerPoint3DY="96.95">
+                  <matrix>
+                    <Matrix tx="15.2" ty="90.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="101.6" centerPoint3DY="22.9">
+                  <matrix>
+                    <Matrix tx="91.2" ty="16.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 3" color="#4FFF4F" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="63.2" centerPoint3DY="6.4">
+                  <matrix>
+                    <Matrix tx="52.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="62.35" centerPoint3DY="112.2">
+                  <matrix>
+                    <Matrix tx="51.95" ty="105.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="64.2" centerPoint3DY="6.4">
+                  <matrix>
+                    <Matrix tx="53.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 4" color="#9933CC" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="26.45" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix tx="16.05" ty="15.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="99.6" centerPoint3DY="98.25">
+                  <matrix>
+                    <Matrix tx="89.2" ty="91.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="27.3" centerPoint3DY="20.7">
+                  <matrix>
+                    <Matrix tx="16.9" ty="14.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 5" color="#FF800A" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="10.4" centerPoint3DY="59.4">
+                  <matrix>
+                    <Matrix ty="53"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" selected="true" centerPoint3DX="116.15" centerPoint3DY="60.55">
+                  <matrix>
+                    <Matrix tx="105.75" ty="54.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" selected="true" centerPoint3DX="10.4" centerPoint3DY="58.15">
+                  <matrix>
+                    <Matrix ty="51.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 6" color="#808080" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="25.85" centerPoint3DY="97.2">
+                  <matrix>
+                    <Matrix tx="15.45" ty="90.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="100.8" centerPoint3DY="22.6">
+                  <matrix>
+                    <Matrix tx="90.4" ty="16.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="25.3" centerPoint3DY="96.15">
+                  <matrix>
+                    <Matrix tx="14.9" ty="89.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 7" color="#FF4F4F" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="63.2" centerPoint3DY="112.4">
+                  <matrix>
+                    <Matrix tx="52.8" ty="106"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="63.7" centerPoint3DY="6.4">
+                  <matrix>
+                    <Matrix tx="53.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="62.45" centerPoint3DY="112.4">
+                  <matrix>
+                    <Matrix tx="52.05" ty="106"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cabine 8" color="#4FFFFF" parentLayerIndex="2" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="100.75" centerPoint3DY="97.1">
+                  <matrix>
+                    <Matrix tx="90.35" ty="90.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="150" duration="150" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="26.45" centerPoint3DY="21.85">
+                  <matrix>
+                    <Matrix tx="16.05" ty="15.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="300" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cabine" name="" centerPoint3DX="99.85" centerPoint3DY="97.95">
+                  <matrix>
+                    <Matrix tx="89.45" ty="91.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.4" y="5.85"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

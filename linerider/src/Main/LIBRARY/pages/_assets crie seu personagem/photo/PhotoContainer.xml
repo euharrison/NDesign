@@ -1,0 +1,182 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/PhotoContainer" itemID="4e1bd3fb-0000039d" linkageExportForAS="true" linkageClassName="projeto.gui.PhotoContainer" sourceLibraryItemHRef="Symbol 1" lastModified="1311043818" lastUniqueIdentifier="8">
+  <timeline>
+    <DOMTimeline name="PhotoContainer">
+      <layers>
+        <DOMLayer name="rotateBar" color="#FF4FFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/RotateBar" name="rotateBar" centerPoint3DX="-38.15" centerPoint3DY="82.7">
+                  <matrix>
+                    <Matrix tx="-59.2" ty="13.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="21.05" y="69.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zoomBar" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/ZoomBar" name="zoomBar" selected="true" centerPoint3DX="68.55" centerPoint3DY="169.2">
+                  <matrix>
+                    <Matrix tx="-1.25" ty="156.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.8" y="12.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btConfirm" color="#808080" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/btConfirm" name="btConfirm" symbolType="button">
+                  <matrix>
+                    <Matrix tx="148" ty="49"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="20.5" y="20.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="btCancel" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/btCancel" name="btCancel" symbolType="button">
+                  <matrix>
+                    <Matrix tx="156" ty="12"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="12.9" y="12.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="borda" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#C759F1"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1811 306S2[1674 242 1509 215!1509 215[1375 202 1369 202!1369 202|1368 202!1368 202[1311 203 1232 215!1232 215[1066 242 929 306!929 306[492 509 483 1024!483 1024[471 1652 686 2091!686 2091[927 2585 1371 2620!1371 2620[1814 2585 2055 2091
+!2055 2091[2269 1652 2258 1024!2258 1024[2249 510 1811 306!2318 1023[2331 1736 2069 2192!2069 2192[1808 2648 1371 2680!1371 2680|1370 2680!1370 2680[933 2648 672 2192!672 2192[410 1736 423 1023!423 1023[432 477 899 256!899 256[1131 145
+ 1368 142!1368 142[1371 142 1373 142!1373 142|1373 143!1373 143[1396 144 1520 157!1520 157[1695 186 1842 256!1842 256[2308 477 2318 1023"/>
+                    <Edge cubics="!1371 2620(;2003,2569 2271,1783 2258,1024q1371 2620Q1814 2585q2055 2091Q2269 1652q2258 1024)2258,1024;"/>
+                    <Edge cubics="!2258 1024(2258,1024;2252,683 2101,441 1811,306q2258 1024Q2249 510q1811 306)1811,306;"/>
+                    <Edge cubics="!1811 306(1811,306;1613,213 1413,203 1369,202q1811 306Q1674 242q1509 215 1369 202)1369,202;"/>
+                    <Edge cubics="!1369 202(;1370,202 1368,202 1368,202q1369 202 1368 202)1368,202;"/>
+                    <Edge cubics="!1373 143(;1465,144 2303,192 2318,1023q1373 143 1520 157Q1695 186q1842 256Q2308 477q2318 1023)2318,1023;"/>
+                    <Edge cubics="!2318 1023(2318,1023;2335,1973 1954,2639 1371,2680q2318 1023Q2331 1736q2069 2192Q1808 2648q1371 2680)1371,2680;"/>
+                    <Edge cubics="!1371 2680(;1370,2680 1370,2680 1370,2680q1371 2680 1370 2680)1370,2680;"/>
+                    <Edge cubics="!1370 2680(;787,2639 406,1973 423,1023q1370 2680Q933 2648q672 2192Q410 1736q423 1023)423,1023;"/>
+                    <Edge cubics="!423 1023(;438,178 1303,143 1368,142q423 1023Q432 477q899 256Q1131 145q1368 142);"/>
+                    <Edge cubics="!1368 142(1368,142;1372,142 1373,142 1373,142q1368 142 1373 142);"/>
+                    <Edge cubics="!1373 142(;1373,142 1373,143 1373,143q1373 142 1373 143);"/>
+                    <Edge cubics="!1368 202(;1355,202 1141,206 929,306q1368 202 1232 215Q1066 242q929 306)929,306;"/>
+                    <Edge cubics="!929 306(;639,441 489,683 483,1024q929 306Q492 509q483 1024);"/>
+                    <Edge cubics="!483 1024(;469,1785 740,2573 1371,2620q483 1024Q471 1652q686 2091Q927 2585q1371 2620);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF99"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!1811 306S1[1674 242 1509 215!1509 215[1375 202 1369 202!1369 202|1368 202!1368 202[1311 203 1232 215!1232 215[1066 242 929 306!929 306[492 509 483 1024!483 1024[471 1652 686 2091!686 2091[927 2585 1371 2620!1371 2620[1814 2585 2055 2091
+!2055 2091[2269 1652 2258 1024!2258 1024[2249 510 1811 306"/>
+                    <Edge cubics="!1371 2620(;2003,2569 2271,1783 2258,1024q1371 2620Q1814 2585q2055 2091Q2269 1652q2258 1024)2258,1024;"/>
+                    <Edge cubics="!2258 1024(2258,1024;2252,683 2101,441 1811,306q2258 1024Q2249 510q1811 306)1811,306;"/>
+                    <Edge cubics="!1811 306(1811,306;1613,213 1413,203 1369,202q1811 306Q1674 242q1509 215 1369 202)1369,202;"/>
+                    <Edge cubics="!1369 202(;1370,202 1368,202 1368,202q1369 202 1368 202)1368,202;"/>
+                    <Edge cubics="!1368 202(;1355,202 1141,206 929,306q1368 202 1232 215Q1066 242q929 306)929,306;"/>
+                    <Edge cubics="!929 306(;639,441 489,683 483,1024q929 306Q492 509q483 1024);"/>
+                    <Edge cubics="!483 1024(;469,1785 740,2573 1371,2620q483 1024Q471 1652q686 2091Q927 2585q1371 2620);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="real" color="#FF4FFF" parentLayerIndex="5" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/container" name="real">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FF99"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!0 0|2771 0!2771 0|2771 2771!2771 2771|0 2771!0 2771|0 0"/>
+                    <Edge cubics="!0 0(;0,0 2771,0 2771,0q0 0 2771 0);"/>
+                    <Edge cubics="!2771 0(;2771,0 2771,2771 2771,2771q2771 0 2771 2771);"/>
+                    <Edge cubics="!2771 2771(;2771,2771 0,2771 0,2771q2771 2771 0 2771);"/>
+                    <Edge cubics="!0 2771(;0,2771 0,0 0,0q0 2771 0 0);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fake" color="#4FFFFF" parentLayerIndex="7" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/container" name="fake" selected="true">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

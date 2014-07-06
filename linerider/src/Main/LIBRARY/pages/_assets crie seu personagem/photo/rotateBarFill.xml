@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/rotateBarFill" itemID="4e053c25-000002b8" sourceLibraryItemHRef="Symbol 1" lastModified="1308965925">
+  <timeline>
+    <DOMTimeline name="rotateBarFill">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.88397216796875" d="0.88397216796875" tx="-1023.05" ty="-257.9"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#C759F1"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!23896 6031.5|23985 6097!23985 6097[23926 6178 23855 6317!23855 6317[23714 6594 23645 6897!23645 6897[23536 7374 23624 7837!23624 7837[23711 8301 23993 8741!23993 8741|23622 8979!23622 8979[23246 8390 23167 7750!23167 7750[23107 7263
+ 23220 6780!23220 6780[23304 6424 23472 6101!23472 6101[23556 5937 23631 5835!23631 5835|23918 6048.5!23918 6048.5|23896 6031.5"/>
+                        <Edge cubics="!23622 8979(;23067,8110 23097,7303 23220,6780q23622 8979Q23246 8390q23167 7750Q23107 7263q23220 6780);"/>
+                        <Edge cubics="!23220 6780(;23354,6213 23620,5850 23631,5835q23220 6780Q23304 6424q23472 6101Q23556 5937q23631 5835);"/>
+                        <Edge cubics="!23631 5835(;23631,5835 23918,6049 23918,6049q23631 5835 23918 6049);"/>
+                        <Edge cubics="!23918 6048(;23918,6048 23896,6032 23896,6032q23918 6049 23896 6032);"/>
+                        <Edge cubics="!23896 6031(;23896,6031 23985,6097 23985,6097q23896 6032 23985 6097);"/>
+                        <Edge cubics="!23985 6097(;23982,6100 23755,6414 23645,6897q23985 6097Q23926 6178q23855 6317Q23714 6594q23645 6897);"/>
+                        <Edge cubics="!23645 6897(23645,6897;23500,7533 23617,8154 23993,8741q23645 6897Q23536 7374q23624 7837Q23711 8301q23993 8741)23993,8741;"/>
+                        <Edge cubics="!23993 8741(;23993,8741 23622,8979 23622,8979q23993 8741 23622 8979);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

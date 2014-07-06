@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/_animacoes/pergunta animacao" itemID="4e23c7db-000009fc" sourceLibraryItemHRef="Symbol 2" lastModified="1310967785" lastUniqueIdentifier="4">
+  <timeline>
+    <DOMTimeline name="pergunta animacao">
+      <layers>
+        <DOMLayer name="bolinha verde" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/bolinha verde" name="" centerPoint3DX="-388.6" centerPoint3DY="-48.75">
+                  <matrix>
+                    <Matrix tx="-389.1" ty="-48.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="-0.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bola praia azul voando pouco" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/bola praia azul voando pouco" name="" centerPoint3DX="-300.75" centerPoint3DY="-102.45">
+                  <matrix>
+                    <Matrix a="0.80767822265625" d="0.80767822265625" tx="-301.15" ty="-92.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="-12.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

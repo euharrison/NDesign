@@ -1,0 +1,40 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_ferramentas/_ajuda/box ajuda completo" itemID="4e1eeb96-000004ef" sourceLibraryItemHRef="Symbol 1" lastModified="1310650039" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="box ajuda completo">
+      <layers>
+        <DOMLayer name="fechar_bt" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_ajuda/fechar ajuda" name="fechar_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="527" ty="28"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="box" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_ajuda/box ajuda" name="box" centerPoint3DX="825" centerPoint3DY="246.65">
+                  <matrix>
+                    <Matrix tx="550" ty="3.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-275" y="243.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

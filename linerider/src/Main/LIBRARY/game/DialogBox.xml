@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/DialogBox" itemID="4e12827d-00000395" linkageExportForAS="true" linkageClassName="projeto.game.ui.DialogBox" sourceLibraryItemHRef="game/Levels copy" lastModified="1311097198" lastUniqueIdentifier="18" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="DialogBox" guides='&lt;guidelines&gt;&lt;guideline direction="h"&gt;-60&lt;/guideline&gt;&lt;guideline direction="v"&gt;371&lt;/guideline&gt;&lt;/guidelines&gt;'>
+      <layers>
+        <DOMLayer name="pergunta" color="#4FFF4F" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/pergunta" name="pergunta" selected="true" centerPoint3DX="411" centerPoint3DY="82">
+                  <transformationPoint>
+                    <Point x="411" y="82"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="transicao" color="#9933CC" autoNamed="false" visible="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/transicao" name="transicao" selected="true" centerPoint3DX="278.45" centerPoint3DY="102.45">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="last" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/last" name="last" selected="true" centerPoint3DX="318.25" centerPoint3DY="203.25">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

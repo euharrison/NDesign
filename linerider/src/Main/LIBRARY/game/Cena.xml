@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/Cena" itemID="4e13d240-000004fb" linkageExportForAS="true" linkageClassName="projeto.game.ui.Cena" sourceLibraryItemHRef="Symbol 1" lastModified="1311097181" lastUniqueIdentifier="5" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="Cena">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_cena/lastClickIcon" name="lastClickIcon" centerPoint3DX="11.75" centerPoint3DY="9.4">
+                  <matrix>
+                    <Matrix tx="11.75" ty="9.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="game/_cena/startIcon" name="startIcon" centerPoint3DX="72.95" centerPoint3DY="30.45">
+                  <matrix>
+                    <Matrix tx="43.95" ty="10.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="29" y="19.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

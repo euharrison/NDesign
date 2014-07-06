@@ -1,0 +1,48 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_cabecas/papacapim" itemID="4e0d431b-00000338" sourceLibraryItemHRef="game/_assets game/_cabecas/moicano copy" lastModified="1309493151">
+  <timeline>
+    <DOMTimeline name="papacapim">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <transformationPoint>
+                    <Point x="0.05" y="-12.6"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!375 -24[377 -51 377 -76!377 -76[377 -219 317 -339!317 -339[227 -516 24 -516!24 -516[-95 -516 -256 -454!-256 -454|-252 -446!-252 -446[-351 -405 -370 -218!-370 -218[-375 -170 -375 -120!-375 -120[-375 -55 -366 10!-366 10[-357 12 -352 12
+!-352 12[-347 12 -344 10!-344 10[-227 -69 -164 -193!-164 -193[-153 -217 -144 -238!-144 -238[-136 -227 -126 -216!-126 -216[39 -19 291 -19!291 -19[332 -19 375 -24"/>
+                        <Edge cubics="!-256 -454(;-256,-454 -254,-449 -252,-446q-256 -454 -252 -446);"/>
+                        <Edge cubics="!-144 -238(;-171,-171 -227,-69 -344,10q-144 -238 -164 -193Q-227 -69q-344 10)-344,10;"/>
+                        <Edge cubics="!317 -339(317,-339;257,-457 159,-516 24,-516q317 -339Q227 -516q24 -516)24,-516;"/>
+                        <Edge cubics="!291 -19(;318,-19 347,-21 375,-24q291 -19Q332 -19q375 -24);"/>
+                        <Edge cubics="!377 -76(;377,-172 357,-260 317,-339q377 -76Q377 -219q317 -339);"/>
+                        <Edge cubics="!375 -24(;376,-42 377,-59 377,-76q375 -24Q377 -51q377 -76);"/>
+                        <Edge cubics="!-375 -120(-375,-120;-375,-153 -373,-185 -370,-218q-375 -120Q-375 -170q-370 -218);"/>
+                        <Edge cubics="!-144 -238(;-139,-231 -133,-224 -126,-216q-144 -238Q-136 -227q-126 -216);"/>
+                        <Edge cubics="!-370 -218(;-357,-342 -318,-419 -252,-446q-370 -218Q-351 -405q-252 -446);"/>
+                        <Edge cubics="!-352 12(;-355,12 -360,11 -366,10q-352 12Q-357 12q-366 10);"/>
+                        <Edge cubics="!-344 10(;-346,11 -349,12 -352,12q-344 10Q-347 12q-352 12);"/>
+                        <Edge cubics="!-366 10(;-372,-34 -375,-76 -375,-120q-366 10Q-375 -55q-375 -120);"/>
+                        <Edge cubics="!24 -516(;-55,-516 -148,-495 -256,-454q24 -516Q-95 -516q-256 -454);"/>
+                        <Edge cubics="!-126 -216(;-16,-85 123,-19 291,-19q-126 -216Q39 -19q291 -19);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

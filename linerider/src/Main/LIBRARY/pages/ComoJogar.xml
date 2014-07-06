@@ -1,0 +1,405 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/ComoJogar" itemID="4dfcf830-000002ac" linkageExportForAS="true" linkageClassName="projeto.pages.ComoJogar" sourceLibraryItemHRef="pages/Home copy" lastModified="1311183592" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="ComoJogar">
+      <layers>
+        <DOMLayer name="animacao" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets como jogar/_animacao/animacao" name="animacao" centerPoint3DX="-249.4" centerPoint3DY="12.1">
+                  <matrix>
+                    <Matrix a="0.783401489257813" d="0.783401489257813" tx="-295.4" ty="52.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="9.1" y="-19.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="comojogar-ilustracao.png" color="#9933CC" current="true" isSelected="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" selected="true" libraryItemName="bmp/comojogar-ilustracao.png">
+                  <matrix>
+                    <Matrix tx="-444" ty="-10"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ilustracao" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FBE954"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="0.05" pixelHinting="true" solidStyle="hairline">
+                        <fill>
+                          <SolidColor color="#FBE954"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!4220 -3020/-740 -3020!-740 -3020|-740 -3000!-740 -3000/4220 -3000!4220 -3000/4220 -3020"/>
+                    <Edge strokeStyle="1" edges="!4560 -3760|5220 -3100!5220 -3100|4560 -2440"/>
+                    <Edge fillStyle1="1" edges="!7380 -2120|-720 -2120!-720 -2120|-720 -2140!-720 -2140|7380 -2140!7380 -2140|7380 -2120!7400 -1200|-700 -1200!-700 -1200|-700 -1220!-700 -1220|7400 -1220!7400 -1220|7400 -1200!7420 -320|-680 -320!-680 -320|-680 -340!-680 -340|7420 -340
+!7420 -340|7420 -320!-680 580|7420 580!7420 580|7420 600!7420 600|-680 600!-680 600|-680 580!-680 1480|7420 1480!7420 1480|7420 1500!7420 1500|-680 1500!-680 1500|-680 1480!-680 2380|7420 2380!7420 2380|7420 2400!7420 2400|-680 2400!-680
+ 2400|-680 2380"/>
+                    <Edge cubics="!4220 -3000(;4220,-3000 4220,-3020 4220,-3020q4220 -3000 4220 -3020);"/>
+                    <Edge cubics="!-740 -3020(;-740,-3020 -740,-3000 -740,-3000q-740 -3020 -740 -3000);"/>
+                    <Edge cubics="!-720 -2140(-720,-2140;-720,-2140 -720,-2120 -720,-2120q-720 -2140 -720 -2120)-720,-2120;"/>
+                    <Edge cubics="!-680 -340(;-680,-340 -680,-320 -680,-320q-680 -340 -680 -320);"/>
+                    <Edge cubics="!-700 -1220(;-700,-1220 -700,-1200 -700,-1200q-700 -1220 -700 -1200);"/>
+                    <Edge cubics="!-680 580(;-680,580 -680,600 -680,600q-680 580 -680 600);"/>
+                    <Edge cubics="!-740 -3000(;-740,-3000 4220,-3000 4220,-3000q-740 -3000 4220 -3000);"/>
+                    <Edge cubics="!4220 -3020(;4220,-3020 -740,-3020 -740,-3020q4220 -3020 -740 -3020);"/>
+                    <Edge cubics="!4560 -3760(;4560,-3760 5220,-3100 5220,-3100q4560 -3760 5220 -3100);"/>
+                    <Edge cubics="!5220 -3100(;5220,-3100 4560,-2440 4560,-2440q5220 -3100 4560 -2440);"/>
+                    <Edge cubics="!7380 -2140(;7380,-2140 -720,-2140 -720,-2140q7380 -2140 -720 -2140);"/>
+                    <Edge cubics="!-720 -2120(;-720,-2120 7380,-2120 7380,-2120q-720 -2120 7380 -2120);"/>
+                    <Edge cubics="!7380 -2140(;7380,-2140 7380,-2120 7380,-2120q7380 -2140 7380 -2120);"/>
+                    <Edge cubics="!7400 -1220(;7400,-1220 -700,-1220 -700,-1220q7400 -1220 -700 -1220);"/>
+                    <Edge cubics="!-700 -1200(;-700,-1200 7400,-1200 7400,-1200q-700 -1200 7400 -1200);"/>
+                    <Edge cubics="!7400 -1220(;7400,-1220 7400,-1200 7400,-1200q7400 -1220 7400 -1200);"/>
+                    <Edge cubics="!7420 -340(;7420,-340 -680,-340 -680,-340q7420 -340 -680 -340);"/>
+                    <Edge cubics="!-680 -320(;-680,-320 7420,-320 7420,-320q-680 -320 7420 -320);"/>
+                    <Edge cubics="!7420 580(7420,580;7420,580 -680,580 -680,580q7420 580 -680 580);"/>
+                    <Edge cubics="!-680 600(;-680,600 7420,600 7420,600q-680 600 7420 600);"/>
+                    <Edge cubics="!7420 -340(7420,-340;7420,-340 7420,-320 7420,-320q7420 -340 7420 -320)7420,-320;"/>
+                    <Edge cubics="!7420 580(;7420,580 7420,600 7420,600q7420 580 7420 600);"/>
+                    <Edge cubics="!7420 1480(7420,1480;7420,1480 7420,1500 7420,1500q7420 1480 7420 1500)7420,1500;"/>
+                    <Edge cubics="!7420 2380(;7420,2380 7420,2400 7420,2400q7420 2380 7420 2400);"/>
+                    <Edge cubics="!-680 1500(;-680,1500 -680,1480 -680,1480q-680 1500 -680 1480);"/>
+                    <Edge cubics="!-680 2400(;-680,2400 -680,2380 -680,2380q-680 2400 -680 2380);"/>
+                    <Edge cubics="!-680 1480(;-680,1480 7420,1480 7420,1480q-680 1480 7420 1480);"/>
+                    <Edge cubics="!7420 1500(;7420,1500 -680,1500 -680,1500q7420 1500 -680 1500);"/>
+                    <Edge cubics="!-680 2380(-680,2380;-680,2380 7420,2380 7420,2380q-680 2380 7420 2380)7420,2380;"/>
+                    <Edge cubics="!7420 2400(7420,2400;7420,2400 -680,2400 -680,2400q7420 2400 -680 2400)-680,2400;"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FBE954"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!7426 -4158|-764 -4158!-764 -4158|-764 -4098!-764 -4098|7426 -4098!7426 -4098|7426 -4158"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMStaticText width="152.6" height="47.25" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix tx="-39" ty="-252"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>FERRAMENTAS</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" lineSpacing="0" size="46" bitmapSize="920" face="Knockout-HTF27-JuniorBantamwt" fillColor="#17201B"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-erase.png">
+                  <matrix>
+                    <Matrix tx="-9.55" ty="-97"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-hand.png">
+                  <matrix>
+                    <Matrix tx="-10.05" ty="-51.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-line.png">
+                  <matrix>
+                    <Matrix tx="-7.05" ty="-142.4"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-pencil.png">
+                  <matrix>
+                    <Matrix tx="-7.55" ty="-187.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-zoom.png">
+                  <matrix>
+                    <Matrix tx="-7.55" ty="-6.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 22" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="190.75" height="331.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="40.3" ty="-175"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Traça caminho livremente&#xD;&#xD;Traça o caminho em retas&#xD;&#xD;Apaga caminho&#xD;&#xD;Move a tela&#xD;&#xD;ZOOM&#xD;&#xD;PLAY: Inicia a ação&#xD;&#xD;STOP: Pára ação e volta à edição&#xD;&#xD;Recomeça a fase</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="6.4" size="14" bitmapSize="280" face="Whitney-Medium" fillColor="#58595B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="158.5" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="152" ty="-82"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>(ctrl+Z volta até 01 ação)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1.2" lineSpacing="6.4" bitmapSize="240" face="Whitney-Medium" fillColor="#8A8C8E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="105" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="130" ty="-39"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>(segurar espaço)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1.2" lineSpacing="6.4" bitmapSize="240" face="Whitney-Medium" fillColor="#8A8C8E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="46.45" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="103" ty="6.1"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>(scroll)</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1.2" lineSpacing="6.4" bitmapSize="240" face="Whitney-Medium" fillColor="#8A8C8E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="43" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="297" ty="-179"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>normal</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1.2" lineSpacing="6.4" bitmapSize="240" face="Whitney-Medium" fillColor="#8A8C8E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="65.8" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="297" ty="-153.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>acelerador</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1.2" lineSpacing="6.4" bitmapSize="240" face="Whitney-Medium" fillColor="#8A8C8E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="65.35" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="297.5" ty="-129.9"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>decorativo</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1.2" lineSpacing="6.4" bitmapSize="240" face="Whitney-Medium" fillColor="#8A8C8E"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 23" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FBE954"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="
+!-9240 -1740|-1740 -1740!-1740 -1740|-1740 -1800!-1740 -1800|-9240 -1800!-9240 -1800|-9240 -1740"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText width="208.5" height="47.25" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-463.85" ty="-135"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>DESENHE </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" size="46" bitmapSize="920" face="Knockout-HTF27-JuniorBantamwt" fillColor="#17201B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>&amp;</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" size="46" bitmapSize="920" face="Knockout-HTF27-JuniorBantamwt" fillColor="#F6E451"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> DESLIZE</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" lineSpacing="0" size="46" bitmapSize="920" face="Knockout-HTF27-JuniorBantamwt" fillColor="#17201B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText width="401.05" height="32.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-464" ty="-73"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Após feita a pergunta, construa o traço que  leva a sua escolha&#xD;Aperte o PLAY, deixando a gravidade fazer o resto</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.2" lineSpacing="0" size="14" bitmapSize="280" face="Whitney-Medium" fillColor="#58595B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 24" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="pages/_assets como jogar/exemplos" name="exemplos_bt" selected="true" symbolType="button">
+                      <matrix>
+                        <Matrix a="1.00065612792969" tx="-227.35" ty="164.5"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="48.5" y="30.5"/>
+                      </transformationPoint>
+                    </DOMSymbolInstance>
+                    <DOMStaticText selected="true" width="379.4" height="16.15" autoExpand="true" isSelectable="false">
+                      <matrix>
+                        <Matrix a="1.00065612792969" tx="-464" ty="165.9"/>
+                      </matrix>
+                      <textRuns>
+                        <DOMTextRun>
+                          <characters>Divirta-se e abuse de sua criatividade,  </characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" letterSpacing="0.3" lineSpacing="0" size="14" bitmapSize="280" face="Whitney-Medium" fillColor="#58595B"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                        <DOMTextRun>
+                          <characters>veja alguns exemplos.</characters>
+                          <textAttrs>
+                            <DOMTextAttrs aliasText="false" letterSpacing="0.3" lineSpacing="0" size="14" bitmapSize="280" face="Whitney-Bold" fillColor="#58595B"/>
+                          </textAttrs>
+                        </DOMTextRun>
+                      </textRuns>
+                    </DOMStaticText>
+                  </members>
+                </DOMGroup>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-play.png">
+                  <matrix>
+                    <Matrix tx="-5.05" ty="39.2"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-stop.png">
+                  <matrix>
+                    <Matrix tx="-7.05" ty="84.6"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-trash.png">
+                  <matrix>
+                    <Matrix tx="-8.05" ty="130"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="next_bt" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets como jogar/next" name="next_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="395" ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-traco-decorativo.png">
+                  <matrix>
+                    <Matrix tx="274" ty="-132"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-traco-normal.png">
+                  <matrix>
+                    <Matrix tx="274" ty="-180"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/ferramentas-traco-acelerador.png">
+                  <matrix>
+                    <Matrix tx="274" ty="-156"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="comojogar-titulo.png" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/comojogar-titulo.png">
+                  <matrix>
+                    <Matrix tx="-496" ty="-295"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

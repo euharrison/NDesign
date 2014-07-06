@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/btConfirm" itemID="4e1bcd9c-00000343" sourceLibraryItemHRef="Symbol 1" symbolType="button" lastModified="1310446926">
+  <timeline>
+    <DOMTimeline name="btConfirm" currentFrame="1">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A" locked="true" outline="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/hit" name="" centerPoint3DX="23.05" centerPoint3DY="24.2">
+                  <matrix>
+                    <Matrix tx="-1.95" ty="-0.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/personagem-foto-confirmar.png">
+                  <matrix>
+                    <Matrix tx="-7.45" ty="-4.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/personagem-foto-confirmar-over.png">
+                  <matrix>
+                    <Matrix tx="-7.45" ty="-4.8"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

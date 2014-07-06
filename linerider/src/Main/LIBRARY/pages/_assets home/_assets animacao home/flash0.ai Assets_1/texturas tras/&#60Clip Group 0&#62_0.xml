@@ -1,0 +1,75 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/flash0.ai Assets_1/texturas tras/&lt;Clip Group 0&gt;_0" itemID="4e02d729-00000b85" lastModified="1310413221">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_0" currentFrame="146">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="250" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="250" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!2087 978[2087 1298 1871 1534!1871 1534[1656 1769 1341 1798!1341 1798[1274 1795 1264 1795!1264 1795|1180 1807!1180 1807[877 1763 662 1526!662 1526[441 1284 441 978!441 978[441 637 682 396!682 396[923 155 1264 155!1264 155[1605 155 1846
+ 396!1846 396[2087 637 2087 978"/>
+                    <Edge cubics="!1180 1807(;783,1749 441,1392 441,978q1180 1807Q877 1763q662 1526Q441 1284q441 978);"/>
+                    <Edge cubics="!441 978(;441,523 809,155 1264,155q441 978Q441 637q682 396Q923 155q1264 155);"/>
+                    <Edge cubics="!1264 155(;1718,155 2087,523 2087,978q1264 155Q1605 155q1846 396Q2087 637q2087 978);"/>
+                    <Edge cubics="!2087 978(;2087,1407 1759,1759 1341,1798q2087 978Q2087 1298q1871 1534Q1656 1769q1341 1798);"/>
+                    <Edge cubics="!1341 1798(;1331,1799 1274,1795 1264,1795q1341 1798Q1274 1795q1264 1795);"/>
+                    <Edge cubics="!1264 1795(;1222,1801 1222,1801 1180,1807q1264 1795 1180 1807);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="249" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/Tween 100" name="" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="107.95" ty="66.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="249" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/Tween 101" name="" selected="true" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="21.45" ty="66.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="250" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

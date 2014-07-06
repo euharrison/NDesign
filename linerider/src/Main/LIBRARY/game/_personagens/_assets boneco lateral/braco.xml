@@ -1,0 +1,41 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco lateral/braco" itemID="4e1e73b7-00000565" sourceLibraryItemHRef="Symbol 1" lastModified="1310618551">
+  <timeline>
+    <DOMTimeline name="braco">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!-32 -139[-19 -153 1 -154!1 -154[19 -154 32 -141!32 -141[44 -127 45 -108!45 -108|45 110!45 110[47 130 33 142!33 142[20 153 3 155!3 155[-17 153 -30 140!-30 140[-43 128 -44 110!-44 110|-44 -108!-44 -108[-45 -126 -32 -139"/>
+                    <Edge cubics="!47 309(;21,309 2,288 0,264q47 309Q27 307q14 294Q1 282q0 264);"/>
+                    <Edge cubics="!0 264(;0,264 0,46 0,46q0 264 0 46);"/>
+                    <Edge cubics="!0 46(;-1,21 19,0 45,0q0 46Q-1 28q12 15Q25 1q45 0);"/>
+                    <Edge cubics="!45 0(;70,1 89,21 89,46q45 0Q63 0q76 13Q88 27q89 46);"/>
+                    <Edge cubics="!89 46(;89,46 89,264 89,264q89 46 89 264);"/>
+                    <Edge cubics="!89 264(;90,288 70,307 47,309q89 264Q91 284q77 296Q64 307q47 309);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

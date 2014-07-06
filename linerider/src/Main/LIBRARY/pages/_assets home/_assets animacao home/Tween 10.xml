@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/Tween 10" itemID="4deea5b9-000002f7" symbolType="graphic" lastModified="1307485625">
+  <timeline>
+    <DOMTimeline name="Tween 10">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/raios luz.ai Assets/Layer 1/&lt;Path&gt;_1_0" name="" selected="true" blendMode="layer">
+                  <matrix>
+                    <Matrix tx="-94.95" ty="-94.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.95" y="94.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.6484375"/>
+                  </color>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/raios luz.ai Assets/Layer 1/&lt;Path&gt;_0" name="" selected="true" blendMode="layer" centerPoint3DY="0.05">
+                  <matrix>
+                    <Matrix tx="-94.95" ty="-94.9"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="94.95" y="94.95"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.8984375"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

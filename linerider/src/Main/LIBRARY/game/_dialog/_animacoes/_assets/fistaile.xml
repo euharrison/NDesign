@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/_animacoes/_assets/fistaile" itemID="4e169ca3-000011c4" sourceLibraryItemHRef="Symbol 2" lastModified="1310104834" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="fistaile">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/bandeira vermelha curta" name="" centerPoint3DX="-284.7" centerPoint3DY="-133.2">
+                  <matrix>
+                    <Matrix a="-1" d="-1" tx="-62.8" ty="-132.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="222.15" y="0.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="game/_dialog/_animacoes/_assets/fistaile-inicio-fase.png">
+                  <matrix>
+                    <Matrix tx="-449.5" ty="-97"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/bola vermelha voando arco" name="" centerPoint3DX="-384.6" centerPoint3DY="-7.6">
+                  <matrix>
+                    <Matrix a="0" b="1" c="-1" d="0" tx="-384.1" ty="-8.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

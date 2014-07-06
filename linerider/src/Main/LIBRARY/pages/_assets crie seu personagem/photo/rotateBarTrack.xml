@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/rotateBarTrack" itemID="4e053c34-000002c0" sourceLibraryItemHRef="Symbol 1" lastModified="1308969530">
+  <timeline>
+    <DOMTimeline name="rotateBarTrack">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-125" ty="-2.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!0 0|566 0!566 0|566 89!566 89|0 89!0 89|0 0"/>
+                    <Edge cubics="!0 89(;0,89 0,0 0,0q0 89p0 0);"/>
+                    <Edge cubics="!0 0(;0,0 566,0 566,0q0 0p566 0);"/>
+                    <Edge cubics="!566 0(;566,0 566,89 566,89q566 0p566 89)566,89;"/>
+                    <Edge cubics="!566 89(;566,89 0,89 0,89q566 89p0 89);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

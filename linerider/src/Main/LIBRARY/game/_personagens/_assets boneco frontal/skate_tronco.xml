@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco frontal/skate_tronco" itemID="4e1e61b0-00000330" sourceLibraryItemHRef="Symbol 1" lastModified="1310613936">
+  <timeline>
+    <DOMTimeline name="skate_tronco">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!106 -250[150 -220 150 -179!150 -179|150 177!150 177[150 220 106 249!106 249[63 280 0 280!0 280[-63 280 -107 249!-107 249[-150 220 -150 177!-150 177|-150 -179!-150 -179[-150 -220 -107 -250!-107 -250[-62 -280 0 -280!0 -280[62 -280 106
+ -250"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="
+!87 -232[51 -255 0 -255!0 -255[-51 -255 -88 -232!-88 -232[-125 -210 -125 -179!-125 -179|-125 177!-125 177[-125 209 -88 231!-88 231[-51 254 0 254!0 254[51 254 87 231!87 231[125 208 125 177!125 177|125 -179!125 -179[125 -210 87 -232"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

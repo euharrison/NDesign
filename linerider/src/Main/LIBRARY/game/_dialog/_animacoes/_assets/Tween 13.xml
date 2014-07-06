@@ -1,0 +1,76 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/_animacoes/_assets/Tween 13" itemID="4e036103-0000016d" sourceFlashFilepath=".\home_linerider_CS4_3.fla" sourceLibraryItemHRef="Tween 13" sourceLastModified="1308844291" symbolType="graphic" lastModified="1308844291">
+  <timeline>
+    <DOMTimeline name="Tween 13">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-726.5" ty="-90.45"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!14648 1861[14626 1910 14576 1929!14576 1929[14526 1949 14478 1927!14478 1927[14429 1905 14409 1855!14409 1855[14390 1805 14412 1756!14412 1756[14433 1707 14483 1688!14483 1688[14533 1669 14582 1690!14582 1690[14632 1712 14651 1762!14651
+ 1762[14670 1812 14648 1861"/>
+                        <Edge cubics="!14576 1929(14576,1929;14510,1955 14435,1922 14409,1855q14576 1929Q14526 1949q14478 1927Q14429 1905q14409 1855);"/>
+                        <Edge cubics="!14409 1855(14409,1855;14383,1788 14417,1713 14483,1688q14409 1855Q14390 1805q14412 1756Q14433 1707q14483 1688);"/>
+                        <Edge cubics="!14483 1688(;14550,1662 14625,1695 14651,1762q14483 1688Q14533 1669q14582 1690Q14632 1712q14651 1762);"/>
+                        <Edge cubics="!14651 1762(;14676,1829 14643,1903 14576,1929q14651 1762Q14670 1812q14648 1861Q14626 1910q14576 1929);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-726.5" ty="-90.45"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#69F3E5"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!14638 1835[14613 1874 14563 1894!14563 1894[14513 1913 14468 1901!14468 1901[14423 1889 14409 1854!14409 1854[14395 1818 14420 1779!14420 1779[14446 1740 14496 1720!14496 1720[14546 1701 14591 1713!14591 1713[14637 1725 14650 1760!14650
+ 1760[14664 1796 14638 1835"/>
+                        <Edge cubics="!14563 1894(;14496,1919 14427,1901 14409,1854q14563 1894Q14513 1913q14468 1901Q14423 1889q14409 1854);"/>
+                        <Edge cubics="!14409 1854(;14390,1806 14429,1746 14496,1720q14409 1854Q14395 1818q14420 1779Q14446 1740q14496 1720);"/>
+                        <Edge cubics="!14496 1720(;14563,1695 14632,1713 14650,1760q14496 1720Q14546 1701q14591 1713Q14637 1725q14650 1760);"/>
+                        <Edge cubics="!14650 1760(14650,1760;14669,1808 14629,1868 14563,1894q14650 1760Q14664 1796q14638 1835Q14613 1874q14563 1894);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-726.5" ty="-90.45"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!14624 1798[14592 1822 14543 1841!14543 1841[14493 1860 14453 1864!14453 1864[14414 1867 14408 1853!14408 1853[14403 1839 14434 1815!14434 1815[14466 1791 14516 1772!14516 1772[14565 1753 14605 1749!14605 1749[14644 1746 14650 1760!14650
+ 1760[14655 1774 14624 1798"/>
+                        <Edge cubics="!14543 1841(;14476,1867 14416,1872 14408,1853q14543 1841Q14493 1860q14453 1864Q14414 1867q14408 1853);"/>
+                        <Edge cubics="!14408 1853(;14401,1834 14449,1797 14516,1772q14408 1853Q14403 1839q14434 1815Q14466 1791q14516 1772);"/>
+                        <Edge cubics="!14516 1772(;14582,1746 14642,1741 14650,1760q14516 1772Q14565 1753q14605 1749Q14644 1746q14650 1760);"/>
+                        <Edge cubics="!14650 1760(;14657,1779 14609,1816 14543,1841q14650 1760Q14655 1774q14624 1798Q14592 1822q14543 1841);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

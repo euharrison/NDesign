@@ -1,0 +1,136 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/CarrinhoCompras" itemID="4e1d38d7-0000049c" linkageExportForAS="true" linkageClassName="projeto.game.ui.personagens.CarrinhoCompras" sourceLibraryItemHRef="game/_personagens/Treno copy" lastModified="1310625379" lastUniqueIdentifier="65" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="CarrinhoCompras">
+      <layers>
+        <DOMLayer name="cabeca_mc" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_cabecas/_cabecas" name="cabeca_mc" selected="true" centerPoint3DX="17.2" centerPoint3DY="23.25">
+                  <matrix>
+                    <Matrix a="0.999984741210938" d="0.999984741210938"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.35" y="0.4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="maoD_mc" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco lateral/mao" name="maoD_mc" centerPoint3DX="20.6" centerPoint3DY="37.15">
+                  <matrix>
+                    <Matrix a="0.292388916015625" b="-0.955322265625" c="0.955322265625" d="0.292388916015625" tx="15" ty="40"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.3" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="antebracoD_mc" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco lateral/antebraco" name="antebracoD_mc" centerPoint3DX="9.05" centerPoint3DY="36.25">
+                  <matrix>
+                    <Matrix a="0.498992919921875" b="-0.864273071289062" c="0.864273071289062" d="0.498992919921875" tx="8" ty="38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bracoD_mc" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco lateral/braco" name="bracoD_mc" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix a="0.87200927734375" b="-0.483367919921875" c="0.483367919921875" d="0.87200927734375" ty="30"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="carrinho_mc" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco lateral/carrinho_carrinhocompras" name="carrinho_mc" centerPoint3DX="35.35" centerPoint3DY="60.25">
+                  <matrix>
+                    <Matrix tx="8" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.25" y="0.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="peD_mc" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco lateral/pe" name="peD_mc" centerPoint3DX="19.35" centerPoint3DY="42.1">
+                  <matrix>
+                    <Matrix a="0.797378540039062" b="-0.600860595703125" c="0.600860595703125" d="0.797378540039062" tx="10" ty="38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.3" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="coxaD_mc" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco lateral/coxa" name="coxaD_mc" centerPoint3DX="6.1" centerPoint3DY="29.05">
+                  <matrix>
+                    <Matrix a="-0.7647705078125" b="-0.6417236328125" c="0.6417236328125" d="-0.7647705078125" tx="2" ty="38"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="-0.1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tronco_mc" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco lateral/tronco" name="tronco_mc" centerPoint3DX="-2" centerPoint3DY="33">
+                  <matrix>
+                    <Matrix b="1.52587890625e-05" c="-1.52587890625e-05" tx="-2" ty="33"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

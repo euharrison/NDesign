@@ -1,0 +1,56 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/Home" itemID="4dfcf1fd-00000289" linkageExportForAS="true" linkageClassName="projeto.pages.Home" sourceLibraryItemHRef="Symbol 1" lastModified="1311098522" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="Home">
+      <layers>
+        <DOMLayer name="fistaile_bt" color="#FF800A" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/botao fistaile" name="fistaile_bt" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="37.3" ty="138"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="jogo_bt" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/botao fases" name="jogo_bt" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-175.7" ty="109"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="animacao_home" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/animacao_home" name="" selected="true" centerPoint3DX="2.45" centerPoint3DY="-103.45">
+                  <matrix>
+                    <Matrix tx="-790" ty="-276"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="799.2" y="199.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

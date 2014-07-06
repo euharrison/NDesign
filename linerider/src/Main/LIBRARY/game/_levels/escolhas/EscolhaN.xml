@@ -1,0 +1,29 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_levels/escolhas/EscolhaN" itemID="4e23a14b-00000503" linkageExportForAS="true" linkageBaseClass="projeto.game.ui.Escolha" linkageClassName="EscolhaN" sourceLibraryItemHRef="Symbol 1" lastModified="1310964780" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="EscolhaN">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-escolha-n.png">
+                  <matrix>
+                    <Matrix tx="-40.5" ty="-40.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="mc/hit" name="hit">
+                  <matrix>
+                    <Matrix a="0.399993896484375" d="0.399993896484375" tx="-10" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

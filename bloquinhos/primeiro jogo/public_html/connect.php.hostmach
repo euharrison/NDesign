@@ -1,0 +1,11 @@
+<?
+
+if(!($id = mysql_connect("oqueeon021.com.br:3309", "oqueeon021_user", "oqueeon021_pass"))) {
+   echo "Não foi possível estabelecer uma conexão com o gerenciador MySQL. Favor Contactar o Administrador.";
+   exit;
+}
+if(!($con=mysql_select_db("oqueeon021_db",$id))) {
+   echo "Não foi possível estabelecer uma conexão com o gerenciador MySQL. Favor Contactar o Administrador.";
+   exit;
+}
+?>

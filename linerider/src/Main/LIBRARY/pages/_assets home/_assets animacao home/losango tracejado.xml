@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/losango tracejado" itemID="4e152edf-00000305" sourceLibraryItemHRef="Symbol 1" lastModified="1310011103">
+  <timeline>
+    <DOMTimeline name="losango tracejado">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/Tween 106" name="" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="8.65" ty="14.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="8.65" y="14.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

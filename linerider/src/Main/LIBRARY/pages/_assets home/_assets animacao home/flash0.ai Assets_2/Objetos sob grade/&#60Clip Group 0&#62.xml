@@ -1,0 +1,66 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/flash0.ai Assets_2/Objetos sob grade/&lt;Clip Group 0&gt;" itemID="4e0397f8-00000347" lastModified="1308858360">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 513[107 619 258 619!258 619[409 619 515 513!515 513[622 407 622 257!622 257[622 107 515 0!515 0|0 513"/>
+                    <Edge cubics="!0 513(;142,654 373,654 515,513q0 513Q107 619q258 619Q409 619q515 513);"/>
+                    <Edge cubics="!515 513(;658,371 658,142 515,0q515 513Q622 407q622 257Q622 107q515 0);"/>
+                    <Edge cubics="!515 0(;257,256 257,256 0,513q515 0 0 513);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!422 408|422 83!422 83[440 83 440 65!440 65|457 65!457 65|457 408!457 408|422 408"/>
+                    <Edge cubics="!422 408(;422,408 422,83 422,83q422 408 422 83);"/>
+                    <Edge cubics="!422 83(;435,83 440,74 440,65q422 83Q440 83q440 65);"/>
+                    <Edge cubics="!440 65(;440,65 457,65 457,65q440 65 457 65);"/>
+                    <Edge cubics="!457 65(;457,65 457,408 457,408q457 65 457 408);"/>
+                    <Edge cubics="!457 408(;457,408 422,408 422,408q457 408 422 408);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,33 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_assets game/_cabecas/simples" itemID="4e0d42cd-000002ef" sourceLibraryItemHRef="Symbol 1" lastModified="1309491917">
+  <timeline>
+    <DOMTimeline name="simples">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!56 -435S3[24 -440 1 -440!1 -440|0 -440!0 -440[-89 -439 -168 -401!-168 -401[-326 -326 -330 -140!-330 -140[-334 88 -255 248!-255 248[-165 429 1 440!1 440[165 427 254 248!254 248[333 88 329 -140!329 -140[326 -326 167 -401!167 -401[117 -425
+ 56 -435"/>
+                    <Edge fillStyle1="1" edges="
+!350 -141S2[355 118 258 283!258 283[161 448 0 460!0 460|-1 460!-1 460[-162 448 -259 283!-259 283[-355 118 -350 -141!-350 -141[-346 -338 -174 -419!-174 -419[-89 -459 -1 -460!-1 -460|1 -460!1 -460[10 -459 55 -455!55 -455[119 -444 173 -419
+!173 -419[345 -339 350 -141"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

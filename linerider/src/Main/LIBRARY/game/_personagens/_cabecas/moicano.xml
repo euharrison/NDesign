@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_cabecas/moicano" itemID="4e0d42f0-00000318" sourceLibraryItemHRef="game/_assets game/_cabecas/beerfest copy" lastModified="1309493162">
+  <timeline>
+    <DOMTimeline name="moicano">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="1.69972229003906" d="1.69972229003906" tx="-52.8" ty="-151.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!643 1369|690 1372!690 1372|678 1589!678 1589|631 1586!631 1586|643 1369"/>
+                        <Edge cubics="!643 1369(;643,1369 690,1372 690,1372p643 1369 690 1372);"/>
+                        <Edge cubics="!690 1372(;690,1372 678,1589 678,1589q690 1372 678 1589);"/>
+                        <Edge cubics="!678 1589(678,1589;678,1589 631,1586 631,1586q678 1589 631 1586)631,1586;"/>
+                        <Edge cubics="!631 1586(631,1586;631,1586 643,1369 643,1369q631 1586 643 1369);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="1.69972229003906" d="1.69972229003906" tx="-52.8" ty="-151.5"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!648 1369|610 1389!610 1389[569 1429 553 1529!553 1529|597 1535!597 1535[#275.8F #609.9A 632.5 1569.5!632.5 1569.5|648 1369"/>
+                        <Edge cubics="!648 1369(;648,1369 578,1369 553,1529q648 1369Q648 1369q610 1389Q569 1429q553 1529);"/>
+                        <Edge cubics="!553 1529(553,1529;553,1529 631,1526 633,1570q553 1529 597 1535Q630 1546q633 1570)633,1570;"/>
+                        <Edge cubics="!633 1570(;633,1570 648,1369 648,1369q633 1570 648 1369);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

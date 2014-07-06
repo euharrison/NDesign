@@ -1,0 +1,140 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/_cenario/preview personagem" itemID="4e0bfcf8-00000833" sourceLibraryItemHRef="Symbol 1" lastModified="1309408925">
+  <timeline>
+    <DOMTimeline name="preview personagem">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#A66BD7"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!47 1425/-208 1425!-208 1425/-59 1611!-59 1611/201 1611!201 1611/47 1425!353 1425/502 1611!502 1611/762 1611!762 1611/608 1425!608 1425/353 1425!1169 1425/914 1425!914 1425/1063 1611!1063 1611/1323 1611!1323 1611/1169 1425!-1211 1611
+/-921 1611!-921 1611/-1075 1425!-1075 1425/-1375 1425!-1375 1425/-1211 1611!-620 1611/-360 1611!-360 1611/-514 1425!-514 1425/-769 1425!-769 1425/-620 1611"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="
+!1397 1425/-1330 1425!-1330 1425/-1181 1611!-1181 1611/1583 1611!1583 1611/1397 1425"/>
+                        <Edge cubics="!-1330 1425(;-1330,1425 -1181,1611 -1181,1611q-1330 1425p-1181 1611);"/>
+                        <Edge cubics="!1583 1611(;1583,1611 1397,1425 1397,1425q1583 1611p1397 1425);"/>
+                        <Edge cubics="!-1181 1611(;-1181,1611 1583,1611 1583,1611q-1181 1611 1583 1611);"/>
+                        <Edge cubics="!1397 1425(;1397,1425 -1330,1425 -1330,1425q1397 1425 -1330 1425);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 5" color="#4FFFFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#A66BD7"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1439 -1378/1625 -1229!1625 -1229/1625 -969!1625 -969/1439 -1123!1439 -1123/1439 -1378!1439 -256/1625 -107!1625 -107/1625 153!1625 153/1439 -1!1439 -1/1439 -256!1439 -817/1625 -668!1625 -668/1625 -408!1625 -408/1439 -562!1439 -562/1439
+ -817!1625 714/1439 560!1439 560/1439 305!1439 305/1625 454!1625 454/1625 714!1625 1275/1439 1121!1439 1121/1439 866!1439 866/1625 1015!1625 1015/1625 1275"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!1625 -1229/1625 1575!1625 1575/1439 1397!1439 1397/1439 -1378!1439 -1378/1625 -1229"/>
+                        <Edge cubics="!1439 -1378(;1439,-1378 1625,-1229 1625,-1229q1439 -1378p1625 -1229);"/>
+                        <Edge cubics="!1625 1575(;1625,1575 1439,1397 1439,1397q1625 1575p1439 1397);"/>
+                        <Edge cubics="!1625 -1229(;1625,-1229 1625,1575 1625,1575q1625 -1229 1625 1575);"/>
+                        <Edge cubics="!1439 1397(;1439,1397 1439,-1378 1439,-1378q1439 1397 1439 -1378);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="5" joints="miter">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="
+!1330 -1330|1330 1330!1330 1330|-1330 1330!-1330 1330|-1330 -1330!-1330 -1330|1330 -1330"/>
+                        <Edge cubics="!-1330 -1330(;-1330,-1330 1330,-1330 1330,-1330q-1330 -1330 1330 -1330);"/>
+                        <Edge cubics="!1330 1330(;1330,1330 -1330,1330 -1330,1330q1330 1330 -1330 1330)-1330,1330;"/>
+                        <Edge cubics="!-1330 1330(;-1330,1330 -1330,-1330 -1330,-1330q-1330 1330 -1330 -1330);"/>
+                        <Edge cubics="!1330 -1330(;1330,-1330 1330,1330 1330,1330q1330 -1330 1330 1330)1330,1330;"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

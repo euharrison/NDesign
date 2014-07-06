@@ -1,0 +1,369 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/Ferramentas" itemID="4e127320-00000349" linkageExportForAS="true" linkageClassName="projeto.game.ui.Ferramentas" sourceLibraryItemHRef="Symbol 1" lastModified="1310959046" lastUniqueIdentifier="25" isSpriteSubclass="true">
+  <timeline>
+    <DOMTimeline name="Ferramentas">
+      <layers>
+        <DOMLayer name="pergunta fixa" color="#FF4FFF" autoNamed="false" layerType="folder">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pergunta" color="#9933CC" parentLayerIndex="0" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="pergunta" selected="true" width="403.35" height="18.4" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-414.95" ty="30"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>pergunta</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" size="16" bitmapSize="320" face="Whitney*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="numero" color="#FF4FFF" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="numero" width="52" height="29" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-481.95" ty="25"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" letterSpacing="1" size="28" bitmapSize="560" face="Knockout 27*" fillColor="#EEEEEE"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="display-fase.png" color="#808080" parentLayerIndex="0" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/display-fase.png">
+                  <matrix>
+                    <Matrix tx="-490.6" ty="2.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ferramentas" color="#FF800A" locked="true" autoNamed="false" layerType="folder">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="box help" color="#9933CC" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_ajuda/box ajuda completo" name="box_ajuda_completo" centerPoint3DX="181.25" centerPoint3DY="247.9">
+                  <matrix>
+                    <Matrix tx="-99.45" ty="2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="280.7" y="245.05"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="cursor" color="#4FFF4F" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/cursor" name="cursor" centerPoint3DX="490.05" centerPoint3DY="-22">
+                  <matrix>
+                    <Matrix tx="399.05" ty="-35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="typeNormal" color="#808080" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_tipos de pencil/pencil normal" name="typeNormal" centerPoint3DX="86.5" centerPoint3DY="86.5">
+                  <matrix>
+                    <Matrix tx="78" ty="78"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="typeAcelerado" color="#4F80FF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_tipos de pencil/pencil acelerado" name="typeAcelerado" centerPoint3DX="113.5" centerPoint3DY="86.5">
+                  <matrix>
+                    <Matrix tx="105" ty="78"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="typeDecorativo" color="#FF4F4F" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_tipos de pencil/pencil decorativo" name="typeDecorativo" centerPoint3DX="140.5" centerPoint3DY="86.5">
+                  <matrix>
+                    <Matrix tx="132" ty="78"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="typeMarker" color="#FF800A" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_tipos de pencil/pencil marker" name="typeMarker" centerPoint3DX="91.5" centerPoint3DY="92.5">
+                  <matrix>
+                    <Matrix tx="78" ty="78"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icones" color="#9933CC" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentas icones" name="icones" centerPoint3DX="253.5" centerPoint3DY="30">
+                  <matrix>
+                    <Matrix tx="73" ty="17"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="180.5" y="13"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="help" color="#FF4FFF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="help" centerPoint3DX="445.45" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="427.95" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="trash" color="#4FFFFF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="trash" centerPoint3DX="382.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="364.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="stopGame" color="#808080" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="stopGame" centerPoint3DX="342.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="324.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="playGame" color="#4F80FF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="playGame" centerPoint3DX="302.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="284.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="zoom" color="#FF4F4F" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="zoom" centerPoint3DX="262.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="244.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hand" color="#4FFF4F" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="hand" centerPoint3DX="222.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="204.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="erase" color="#9933CC" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="erase" centerPoint3DX="182.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="164.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="line" color="#FF800A" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="line" centerPoint3DX="142.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="124.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="pencil" color="#FF4FFF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/ferramentaBtn" name="pencil" centerPoint3DX="102.05" centerPoint3DY="48.5">
+                  <matrix>
+                    <Matrix tx="84.55" ty="31"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.05" y="-0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 21" color="#4FFFFF" parentLayerIndex="4" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape>
+                      <fills>
+                        <FillStyle index="1">
+                          <LinearGradient>
+                            <matrix>
+                              <Matrix a="-1.52587890625e-005" b="-0.04083251953125" c="0.0397186279296875" d="-3.0517578125e-005" tx="223.25" ty="31.55"/>
+                            </matrix>
+                            <GradientEntry color="#CCCCCC" ratio="0"/>
+                            <GradientEntry color="#AAAAAA" ratio="1"/>
+                          </LinearGradient>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!7711 -20/7890 162!7890 162/7890 1119!7890 1119/7707 1282!7707 1282/1205 1282!1205 1282/1040 1118!1040 1118/1040 158!1040 158/1209 -10!1209 -10/7711 -20"/>
+                        <Edge cubics="!7890 162(;7890,162 7890,1119 7890,1119q7890 162 7890 1119);"/>
+                        <Edge cubics="!1040 1118(;1040,1118 1040,158 1040,158q1040 1118 1040 158);"/>
+                        <Edge cubics="!1209 -10(;1209,-10 7711,-20 7711,-20q1209 -10 7711 -20);"/>
+                        <Edge cubics="!7707 1282(;7707,1282 1205,1282 1205,1282q7707 1282p1205 1282);"/>
+                        <Edge cubics="!1040 1118(;1040,1118 1205,1282 1205,1282q1040 1118 1205 1282);"/>
+                        <Edge cubics="!1040 158(;1040,158 1209,-10 1209,-10q1040 158 1209 -10);"/>
+                        <Edge cubics="!7890 162(;7890,162 7711,-20 7711,-20q7890 162 7711 -20);"/>
+                        <Edge cubics="!7890 1119(;7890,1119 7707,1282 7707,1282q7890 1119 7707 1282);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

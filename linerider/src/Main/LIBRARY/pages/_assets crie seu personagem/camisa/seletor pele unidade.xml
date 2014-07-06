@@ -1,0 +1,53 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/camisa/seletor pele unidade" itemID="4e056d15-0000039c" sourceLibraryItemHRef="Symbol 1" lastModified="1309409262">
+  <timeline>
+    <DOMTimeline name="seletor pele unidade">
+      <layers>
+        <DOMLayer name="Layer 1" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-0.55" ty="-0.5"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" strokeStyle="1" edges="!215 87[194 64 79 72!79 72[74 10 50 10!50 10[36 9 25 35!25 35[14 61 12 99!12 99[10 147 12 155!12 155[15 198 42 211!42 211[67 225 176 217!176 217[186 217 197 210!197 210[220 198 227 167!227 167[238 124 215 87"/>
+                    <Edge cubics="!215 87(;196,67 124,69 79,72q215 87Q194 64q79 72);"/>
+                    <Edge cubics="!79 72(79,72;76,36 65,10 50,10q79 72Q74 10q50 10);"/>
+                    <Edge cubics="!50 10(50,10;31,9 14,49 12,99q50 10Q36 9q25 35Q14 61q12 99)12,99;"/>
+                    <Edge cubics="!12 99(12,99;11,120 8,140 12,155q12 99Q10 147q12 155);"/>
+                    <Edge cubics="!12 155(;14,183 26,203 42,211q12 155Q15 198q42 211);"/>
+                    <Edge cubics="!42 211(;67,225 176,217 176,217q42 211Q67 225q176 217);"/>
+                    <Edge cubics="!176 217(176,217;176,217 215,216 227,167q176 217Q186 217q197 210Q220 198q227 167);"/>
+                    <Edge cubics="!227 167(;238,124 215,87 215,87q227 167Q238 124q215 87);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

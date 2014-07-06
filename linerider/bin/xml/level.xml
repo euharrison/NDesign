@@ -1,0 +1,152 @@
+<levels>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Curso federal, estadual, particular ou tecnológico?</pergunta>
+    <resposta x="210" y="455" tipo="EscolhaRoxo" label="TECNO-LÓGICO" value="tecnologico"/>
+    <resposta x="455" y="455" tipo="EscolhaVerde" label="PARTI-CULAR" value="particular"/>
+    <resposta x="705" y="455" tipo="EscolhaMagenta" label="ESTADUAL" value="estadual"/>
+    <resposta x="955" y="455" tipo="EscolhaAzul" label="FEDERAL" value="federal"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Design gráfico, digital, produto, moda ou interiores?</pergunta>
+    <resposta x="285" y="455" tipo="EscolhaLaranja" label="INTERI-ORES" value="interiores"/>
+    <resposta x="450" y="455" tipo="EscolhaPiscina" label="MODA" value="moda"/>
+    <resposta x="618" y="455" tipo="EscolhaVerdeLight" label="PRODUTO" value="produto"/>
+    <resposta x="785" y="455" tipo="EscolhaAzulLight" label="DIGITAL" value="digital"/>
+    <resposta x="953" y="455" tipo="EscolhaAmareloLight" label="GRÁFICO" value="grafico"/>
+  </level>
+  <level>
+    <startAt x="500" y="95"/>
+    <pergunta>Aulas práticas ou teóricas?</pergunta>
+    <resposta x="240" y="455" tipo="EscolhaAmareloLight" label="TEÓRICAS" value="teoricas"/>
+    <resposta x="767" y="455" tipo="EscolhaAzul" label="PRÁTICAS" value="praticas"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Buscar referências em livros, internet, pessoas, viagens?</pergunta>
+    <resposta x="685" y="455" tipo="EscolhaPiscina" label="INTERNET" value="internet"/>
+    <resposta x="810" y="385" tipo="EscolhaLaranja" label="LIVROS" value="livros"/>
+    <resposta x="910" y="290" tipo="EscolhaRoxo" label="VIAGENS" value="viagens"/>
+    <resposta x="965" y="172" tipo="EscolhaMagenta" label="PESSOAS" value="pessoas"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Procurar fórmulas do sucesso ou testar errando?</pergunta>
+    <resposta x="875" y="275" tipo="EscolhaVerdeLight" label="TESTAR" value="testar"/>
+    <resposta x="875" y="455" tipo="EscolhaVerde" label="FÓRMULAS" value="formulas"/>
+  </level>
+  <level>
+    <startAt x="500" y="95"/>
+    <pergunta>Experimentar mais no estágio ou na faculdade?</pergunta>
+    <resposta x="50" y="455" tipo="EscolhaPiscina" label="ESTÁGIO" value="estagio"/>
+    <resposta x="955" y="455" tipo="EscolhaRoxo" label="FACUL-DADE" value="faculdade"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Já focar no mercado ou explorar o meio acadêmico?</pergunta>
+    <resposta x="970" y="273" tipo="EscolhaMagenta" label="MERCADO" value="mercado"/>
+    <resposta x="878" y="455" tipo="EscolhaLaranja" label="ACADÊ-MICO" value="academico"/>
+  </level>
+  <level>
+    <startAt x="950" y="95" espelhado="true"/>
+    <pergunta>No NDesign: Repentina, festa, alojamento ou boteco?</pergunta>
+    <resposta x="50" y="455" tipo="EscolhaAmarelo" label="ALOJA-MENTO" value="alojamento"/>
+    <resposta x="300" y="455" tipo="EscolhaAzul" label="REPEN-TINA" value="repentina"/>
+    <resposta x="550" y="455" tipo="EscolhaAmareloLight" label="BOTECO" value="boteco"/>
+    <resposta x="800" y="455" tipo="EscolhaAzulLight" label="FESTA" value="festa"/>
+  </level>
+  <level>
+    <startAt x="950" y="95" espelhado="true"/>
+    <pergunta>Palestra, Mesa Redonda, Case, Oficina ou SePA?</pergunta>
+    <resposta x="50" y="455" tipo="EscolhaRoxo" label="SEPA" value="sepa"/>
+    <resposta x="220" y="455" tipo="EscolhaPiscina" label="OFICINA" value="oficina"/>
+    <resposta x="390" y="455" tipo="EscolhaVerdeLight" label="CASE" value="case"/>
+    <resposta x="560" y="455" tipo="EscolhaLaranja" label="MESA REDONDA" value="mesa-redonda"/>
+    <resposta x="730" y="455" tipo="EscolhaMagenta" label="PALESTRA" value="palestra"/>
+  </level>
+  <level>
+    <startAt x="950" y="95" espelhado="true"/>
+    <pergunta>Ir ao CoNE Design para mudar você, seu curso ou país?</pergunta>
+    <resposta x="160" y="250" tipo="EscolhaVerde" label="CURSO" value="curso"/>
+    <resposta x="50" y="455" tipo="EscolhaAzul" label="PAÍS" value="pais"/>
+    <resposta x="270" y="455" tipo="EscolhaAmareloLight" label="VOCÊ" value="voce"/>
+  </level>
+  <level>
+    <startAt x="950" y="95" espelhado="true"/>
+    <pergunta>Buscar conteúdo familiar para você ou totalmente novo?</pergunta>
+    <resposta x="125" y="273" tipo="EscolhaPiscina" label="NOVO" value="novo"/>
+    <resposta x="125" y="455" tipo="EscolhaLaranja" label="FAMÍLIA" value="familiar"/>
+  </level>
+  <level>
+    <startAt x="500" y="95"/>
+    <pergunta>Ensinar ou aprender?</pergunta>
+    <resposta x="50" y="455" tipo="EscolhaMagenta" label="APRENDER" value="aprender"/>
+    <resposta x="950" y="455" tipo="EscolhaRoxo" label="ENSINAR" value="ensinar"/>
+  </level>
+  <level>
+    <startAt x="950" y="95" espelhado="true"/>
+    <pergunta>Experiências c/ amigos, semi-conhecidos, pessoas novas?</pergunta>
+    <resposta x="50" y="350" tipo="EscolhaVerdeLight" label="NOVAS" value="novas"/>
+    <resposta x="190" y="320" tipo="EscolhaLaranja" label="CONHE-CIDOS" value="conhecidos"/>
+    <resposta x="330" y="290" tipo="EscolhaPiscina" label="AMIGOS" value="amigos"/>
+  </level>
+  <level>
+    <startAt x="950" y="240" espelhado="true"/>
+    <pergunta>Participar do N, colaborar com o N ou fazer um N?</pergunta>
+    <resposta x="50" y="155" tipo="EscolhaRoxo" label="FAZER" value="fazer"/>
+    <resposta x="50" y="305" tipo="EscolhaAmarelo" label="COLA-BORAR" value="colaborar"/>
+    <resposta x="50" y="455" tipo="EscolhaAzul" label="PARTI-CIPAR" value="participar"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Trabalhar só com design, mesclar ou migrar de área?</pergunta>
+    <resposta x="635" y="497" tipo="EscolhaPiscina" label="SÓ DESIGN" value="so-design"/>
+    <resposta x="795" y="590" tipo="EscolhaMagenta" label="MESCLAR" value="mesclar"/>
+    <resposta x="953" y="683" tipo="EscolhaVerde" label="MIGRAR" value="migrar"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Freelancer, contratado, sócio de empresa, professor?</pergunta>
+    <resposta x="400" y="605" tipo="EscolhaAmareloLight" label="FREE-LANCER" value="freelancer"/>
+    <resposta x="500" y="495" tipo="EscolhaAzulLight" label="CONTRA-TADO" value="contratado"/>
+    <resposta x="600" y="605" tipo="EscolhaAzul" label="SÓCIO" value="socio"/>
+    <resposta x="500" y="720" tipo="EscolhaLaranja" label="PROFES-SOR" value="professor"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Rodar muito o mercado ou se fixar em uma empresa?</pergunta>
+    <resposta x="795" y="590" tipo="EscolhaMagenta" label="RODAR" value="rodar"/>
+    <resposta x="950" y="500" tipo="EscolhaVerde" label="FIXAR" value="fixar"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Educar o cliente ou ser muito compreen$ivo?</pergunta>
+    <resposta x="500" y="497" tipo="EscolhaPiscina" label="COMPRE-EN$IVO" value="compreensivo"/>
+    <resposta x="500" y="715" tipo="EscolhaAmareloLight" label="EDUCAR" value="educar"/>
+  </level>
+  <level>
+    <startAt x="500" y="95"/>
+    <pergunta>Trabalhar no Brasil ou exterior?</pergunta>
+    <resposta x="950" y="520" tipo="EscolhaLaranja" label="BRASIL" value="brasil"/>
+    <resposta x="50" y="520" tipo="EscolhaRoxo" label="EXTERIOR" value="exterior"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Qual idade será seu ápice produtivo? 20, 30, 40, 50, 60+</pergunta>
+    <resposta x="510" y="630" tipo="EscolhaPiscina" label="20" value="20"/>
+    <resposta x="620" y="520" tipo="EscolhaAzulLight" label="30" value="30"/>
+    <resposta x="840" y="520" tipo="EscolhaAzul" label="40" value="40"/>
+    <resposta x="730" y="630" tipo="EscolhaAmareloLight" label="50" value="50"/>
+    <resposta x="950" y="630" tipo="EscolhaAmarelo" label="60+" value="60+"/>
+  </level>
+  <level>
+    <startAt x="50" y="95"/>
+    <pergunta>Ir ao próximo N para pensar, refletir, questionar tudo isso?</pergunta>
+    <resposta x="500" y="520" tipo="EscolhaNNot" label="" value="die"/>
+    <resposta x="350" y="670" tipo="EscolhaNNot" label="" value="die"/>
+    <resposta x="650" y="670" tipo="EscolhaNNot" label="" value="die"/>
+    <resposta x="500" y="820" tipo="EscolhaNNot" label="" value="die"/>
+    <resposta x="500" y="670" tipo="EscolhaN" label="" value="sim"/>
+  </level>
+</levels>

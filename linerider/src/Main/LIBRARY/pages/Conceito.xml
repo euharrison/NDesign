@@ -1,0 +1,174 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/Conceito" itemID="4dfcf822-000002a5" linkageExportForAS="true" linkageClassName="projeto.pages.Conceito" sourceLibraryItemHRef="pages/Home copy" lastModified="1310633127" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Conceito">
+      <layers>
+        <DOMLayer name="O conceito do NDesign Rio 021 é referente à escolhas e perguntas que o estudante de design deve fazer a si mesmo para tomar as decisões que darão rumo à sua vida. Para saber mais, leia o texto tema que está em nosso site, ou veja nosso vídeo.  O objetivo deste jogo é que o estudante comece um   ensaio sobre suas escolhas, na sua faculdade, na sua carreira, e inclusive em sua vida.  Ele não trará todas as respostas para uma trajetória  acadêmica impecável, ou de uma carreira de sucesso, ele apenas fará você pensar ou repensar, e se o fizer, seu objetivo foi atingido. " color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="332.55" height="207.2" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-1.6" ty="-36.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>O conceito do NDesign Rio 021 é referente à escolhas e perguntas que o estudante de design deve fazer a si mesmo para tomar as decisões que darão rumo à sua vida. Para saber mais, leia o texto </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" letterSpacing="0.2" lineSpacing="3" size="14" face="Whitney-Medium" fillColor="#58595B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>tema</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" letterSpacing="0.2" lineSpacing="3" size="14" face="Whitney-Bold" fillColor="#58595B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters> que está em nosso site, ou veja nosso </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" letterSpacing="0.2" lineSpacing="3" size="14" face="Whitney-Medium" fillColor="#58595B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>vídeo</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" letterSpacing="0.2" lineSpacing="3" size="14" face="Whitney-Bold" fillColor="#58595B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                    <DOMTextRun>
+                      <characters>.&#xD;&#xD;O objetivo deste jogo é que o estudante comece um   ensaio sobre suas escolhas, na sua faculdade, carreira e vida. Ele não trará todas as respostas de uma vida de sucesso, ele apenas fará você pensar ou repensar, e se o fizer, seu objetivo foi atingido. </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="justify" aliasText="false" letterSpacing="0.2" lineSpacing="3" size="14" face="Whitney-Medium" fillColor="#58595B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="AONDE VOCÊ PENSA QUE VAI?" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="331.75" height="162.7" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-1" ty="-226"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>AONDE VOCÊ&#xD;PENSA QUE VAI?</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1" lineSpacing="-18" size="88" bitmapSize="1760" face="Knockout-HTF27-JuniorBantamwt" fillColor="#17201B"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="conceito do nrio interativo" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="309.95" height="29.25" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="3" ty="-257"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>conceito do nrio interativo</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1.5" size="22" bitmapSize="440" face="Didot-HTF-L16-Light-Ital" fillColor="#939598"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="next_bt" color="#4F80FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets conceito/proximo" name="next_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="395" ty="-24"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40" y="40"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="video_bt" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets conceito/video strunck" name="video_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-388" ty="31.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="105" y="66.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tema_bt" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets conceito/tema" name="tema_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-184.5" ty="-142"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="41" y="41"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#68D2E7"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!80 -1380|6621 -1380!6621 -1380|6621 -1240!6621 -1240|80 -1240!80 -1240|80 -1380"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="conceito-titulo.png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-titulo.png">
+                  <matrix>
+                    <Matrix tx="-496" ty="-295"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/calca/seletor calca gomo" itemID="4e055ea8-00000245" sourceLibraryItemHRef="Symbol 1" lastModified="1309409215">
+  <timeline>
+    <DOMTimeline name="seletor calca gomo">
+      <layers>
+        <DOMLayer name="Layer 1" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!249 -604|497 -1143!497 -1143[259 -1249 -6 -1248!-6 -1248|4 -656!4 -656[132 -654 249 -604"/>
+                    <Edge cubics="!249 -604(;249,-604 497,-1143 497,-1143q249 -604 497 -1143);"/>
+                    <Edge cubics="!497 -1143(;343,-1211 172,-1248 -6,-1248q497 -1143Q259 -1249q-6 -1248);"/>
+                    <Edge cubics="!-6 -1248(;-6,-1248 4,-656 4,-656q-6 -1248 4 -656);"/>
+                    <Edge cubics="!4 -656(4,-656;91,-655 174,-636 249,-604q4 -656Q132 -654q249 -604);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

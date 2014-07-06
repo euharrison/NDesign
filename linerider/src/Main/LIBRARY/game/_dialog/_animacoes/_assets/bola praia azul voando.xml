@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/_animacoes/_assets/bola praia azul voando" itemID="4e0360aa-00000166" sourceFlashFilepath=".\home_linerider_CS4_3.fla" sourceLibraryItemHRef="bola praia azul voando" sourceLastModified="1308854605" lastModified="1308928645">
+  <timeline>
+    <DOMTimeline name="bola praia azul voando" currentFrame="49">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="19" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/Tween 13" name="" symbolType="graphic" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-12.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="19" duration="20" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/Tween 13" name="" symbolType="graphic" firstFrame="19" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-43.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="39" duration="5" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="-100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/Tween 13" name="" symbolType="graphic" firstFrame="39" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-12.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="44" duration="5" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065" acceleration="50">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/Tween 13" name="" selected="true" symbolType="graphic" firstFrame="44" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-6.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="49" tweenType="motion" motionTweenSync="true" motionTweenSnap="true" keyMode="24065">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/_assets/Tween 13" name="" symbolType="graphic" firstFrame="49" loop="loop">
+                  <matrix>
+                    <Matrix tx="0.5" ty="-10.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

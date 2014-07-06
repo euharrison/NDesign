@@ -1,0 +1,42 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_levels/escolhas/EscolhaVerde" itemID="4e23a17e-00000521" linkageExportForAS="true" linkageBaseClass="projeto.game.ui.Escolha" linkageClassName="EscolhaVerde" sourceLibraryItemHRef="Symbol 1" lastModified="1310964785" lastUniqueIdentifier="1">
+  <timeline>
+    <DOMTimeline name="EscolhaVerde">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-escolha-verde.png">
+                  <matrix>
+                    <Matrix tx="-36" ty="-36"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMDynamicText name="label" left="50.5" width="64" height="9" isSelectable="false" lineType="multiline">
+                  <matrix>
+                    <Matrix tx="-82.5" ty="-4.5"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>LABEL</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="2.2" size="10" bitmapSize="200" face="Arial*" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+                <DOMSymbolInstance libraryItemName="mc/hit" name="hit">
+                  <matrix>
+                    <Matrix a="0.399993896484375" d="0.399993896484375" tx="-10" ty="-10"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

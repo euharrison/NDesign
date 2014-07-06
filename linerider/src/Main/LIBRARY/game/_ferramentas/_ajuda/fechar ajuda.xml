@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_ferramentas/_ajuda/fechar ajuda" itemID="4e1eeaca-000004b2" sourceLibraryItemHRef="Symbol 1" symbolType="button" lastModified="1310650012">
+  <timeline>
+    <DOMTimeline name="fechar ajuda" currentFrame="3">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/hit" name="" centerPoint3DX="-5.5" centerPoint3DY="-3.45">
+                  <matrix>
+                    <Matrix a="1.19970703125" d="1.11798095703125" tx="-29.3" ty="-27.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-box-ajuda-fechar.png">
+                  <matrix>
+                    <Matrix tx="-28.5" ty="-27.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-box-ajuda-fechar-over.png">
+                  <matrix>
+                    <Matrix tx="-28.5" ty="-27.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

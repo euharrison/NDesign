@@ -1,0 +1,15 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/Jogo" itemID="4dfcf86b-000002ba" linkageExportForAS="true" linkageClassName="projeto.pages.Jogo" sourceLibraryItemHRef="pages/SeuPersonagem copy" lastModified="1310629733" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="Jogo">
+      <layers>
+        <DOMLayer name="next_bt" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,57 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/porcentagem" itemID="4e1d144e-000003c0" sourceLibraryItemHRef="Symbol 1" lastModified="1311043788">
+  <timeline>
+    <DOMTimeline name="porcentagem">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="texto" width="90.25" height="13" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="84.65" ty="69"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>00% </characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" bitmapSize="240" face="Whitney*"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true" outline="true" current="true" isSelected="true" useOutlineView="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="0" b="-0.0506591796875" c="0.1134033203125" d="0" tx="134.85" ty="13.1"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" alpha="0.698039215686274" ratio="0"/>
+                        <GradientEntry color="#FFFFFF" alpha="0" ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!5257 -2184S2/5257 3929!5257 3929/0 3929!0 3929|0 -2184!0 -2184/5257 -2184"/>
+                    <Edge cubics="!5257 3929(;5257,3929 0,3929 0,3929q5257 3929 0 3929);"/>
+                    <Edge cubics="!0 -2184(;0,-2184 5257,-2184 5257,-2184q0 -2184 5257 -2184);"/>
+                    <Edge cubics="!5257 3929(;5257,3929 5257,-2184 5257,-2184q5257 3929 5257 -2184);"/>
+                    <Edge cubics="!0 3929(;0,3929 0,-2184 0,-2184q0 3929 0 -2184);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

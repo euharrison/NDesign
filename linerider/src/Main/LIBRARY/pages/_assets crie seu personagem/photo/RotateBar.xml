@@ -1,0 +1,229 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/RotateBar" itemID="4e1bd3ff-0000039e" linkageExportForAS="true" linkageClassName="projeto.gui.RotateBar" sourceLibraryItemHRef="Symbol 1" lastModified="1310446591" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="RotateBar">
+      <layers>
+        <DOMLayer name="Layer 14" color="#808080" outline="true" useOutlineView="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!2679 1272|2679 1350!2679 1350|2601 1350!2679 1350|2679 1427!2757 1350|2679 1350"/>
+                    <Edge cubics="!2679 1272(;2679,1272 2679,1350 2679,1350q2679 1272 2679 1350)2679,1350;"/>
+                    <Edge cubics="!2679 1350(;2679,1350 2679,1427 2679,1427q2679 1350 2679 1427)2679,1427;"/>
+                    <Edge cubics="!2757 1350(;2757,1350 2679,1350 2679,1350q2757 1350 2679 1350);"/>
+                    <Edge cubics="!2679 1350(2679,1350;2679,1350 2601,1350 2601,1350q2679 1350 2601 1350);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.740402221679688" b="-0.0002288818359375" c="-0.0002288818359375" d="-0.740402221679688" tx="-884.8" ty="350.4"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!24962 6060[24912 6052 24871 6081!24871 6081[24831 6110 24823 6160!24823 6160[24814 6209 24844 6250!24844 6250[24874 6291 24923 6299!24923 6299[24974 6307 25013 6278!25013 6278[25054 6248 25062 6199!25062 6199|25101 6205!25101 6205[25090
+ 6271 25036 6310!25036 6310[24994 6341 24943 6341!24943 6341|24916 6339!24916 6339[24851 6328 24811 6274!24811 6274[24772 6220 24783 6154!24783 6154[24794 6088 24848 6049!24848 6049[24902 6010 24968 6020!24968 6020|24962 6060"/>
+                            <Edge cubics="!24943 6341(;24934,6341 24925,6340 24916,6339q24943 6341 24916 6339);"/>
+                            <Edge cubics="!24916 6339(;24874,6332 24837,6309 24811,6274q24916 6339Q24851 6328q24811 6274);"/>
+                            <Edge cubics="!24811 6274(;24786,6239 24776,6196 24783,6154q24811 6274Q24772 6220q24783 6154);"/>
+                            <Edge cubics="!24783 6154(;24797,6066 24880,6006 24968,6020q24783 6154Q24794 6088q24848 6049Q24902 6010q24968 6020);"/>
+                            <Edge cubics="!24968 6020(;24968,6020 24962,6060 24962,6060q24968 6020 24962 6060);"/>
+                            <Edge cubics="!24962 6060(;24930,6055 24898,6062 24871,6081q24962 6060Q24912 6052q24871 6081);"/>
+                            <Edge cubics="!24871 6081(;24845,6100 24828,6128 24823,6160q24871 6081Q24831 6110q24823 6160);"/>
+                            <Edge cubics="!24823 6160(;24817,6192 24825,6224 24844,6250q24823 6160Q24814 6209q24844 6250);"/>
+                            <Edge cubics="!24844 6250(;24863,6276 24891,6294 24923,6299q24844 6250Q24874 6291q24923 6299);"/>
+                            <Edge cubics="!24923 6299(;24955,6304 24987,6297 25013,6278q24923 6299Q24974 6307q25013 6278);"/>
+                            <Edge cubics="!25013 6278(;25039,6259 25057,6231 25062,6199q25013 6278Q25054 6248q25062 6199);"/>
+                            <Edge cubics="!25062 6199(;25062,6199 25101,6205 25101,6205q25062 6199 25101 6205);"/>
+                            <Edge cubics="!25101 6205(;25094,6248 25071,6285 25036,6310q25101 6205Q25090 6271q25036 6310)25036,6310;"/>
+                            <Edge cubics="!25036 6310(;25009,6330 24976,6341 24943,6341q25036 6310Q24994 6341q24943 6341);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.740402221679688" b="-0.0002288818359375" c="-0.0002288818359375" d="-0.740402221679688" tx="-884.8" ty="350.4"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!24947 5977|25044 6055!25044 6055|24928 6100!24928 6100|24947 5977"/>
+                            <Edge cubics="!24928 6100(;24928,6100 24947,5977 24947,5977q24928 6100 24947 5977);"/>
+                            <Edge cubics="!24947 5977(;24947,5977 25044,6055 25044,6055q24947 5977 25044 6055)25044,6055;"/>
+                            <Edge cubics="!25044 6055(;25044,6055 24928,6100 24928,6100q25044 6055 24928 6100);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.74078369140625" d="0.74078369140625" tx="-885.35" ty="-217.6"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!24962 6060[24912 6052 24871 6081!24871 6081[24831 6110 24823 6160!24823 6160[24814 6209 24844 6250!24844 6250[24874 6291 24923 6299!24923 6299[24974 6307 25013 6278!25013 6278[25054 6248 25062 6199!25062 6199|25101 6205!25101 6205[25090
+ 6271 25036 6310!25036 6310[24994 6341 24943 6341!24943 6341|24916 6339!24916 6339[24851 6328 24811 6274!24811 6274[24772 6220 24783 6154!24783 6154[24794 6088 24848 6049!24848 6049[24902 6010 24968 6020!24968 6020|24962 6060"/>
+                            <Edge cubics="!24943 6341(;24934,6341 24925,6340 24916,6339q24943 6341 24916 6339);"/>
+                            <Edge cubics="!24916 6339(;24874,6332 24837,6309 24811,6274q24916 6339Q24851 6328q24811 6274);"/>
+                            <Edge cubics="!24811 6274(;24786,6239 24776,6196 24783,6154q24811 6274Q24772 6220q24783 6154);"/>
+                            <Edge cubics="!24783 6154(;24797,6066 24880,6006 24968,6020q24783 6154Q24794 6088q24848 6049Q24902 6010q24968 6020);"/>
+                            <Edge cubics="!24968 6020(;24968,6020 24962,6060 24962,6060q24968 6020 24962 6060);"/>
+                            <Edge cubics="!24962 6060(;24930,6055 24898,6062 24871,6081q24962 6060Q24912 6052q24871 6081);"/>
+                            <Edge cubics="!24871 6081(;24845,6100 24828,6128 24823,6160q24871 6081Q24831 6110q24823 6160);"/>
+                            <Edge cubics="!24823 6160(;24817,6192 24825,6224 24844,6250q24823 6160Q24814 6209q24844 6250);"/>
+                            <Edge cubics="!24844 6250(;24863,6276 24891,6294 24923,6299q24844 6250Q24874 6291q24923 6299);"/>
+                            <Edge cubics="!24923 6299(;24955,6304 24987,6297 25013,6278q24923 6299Q24974 6307q25013 6278);"/>
+                            <Edge cubics="!25013 6278(;25039,6259 25057,6231 25062,6199q25013 6278Q25054 6248q25062 6199);"/>
+                            <Edge cubics="!25062 6199(;25062,6199 25101,6205 25101,6205q25062 6199 25101 6205);"/>
+                            <Edge cubics="!25101 6205(;25094,6248 25071,6285 25036,6310q25101 6205Q25090 6271q25036 6310)25036,6310;"/>
+                            <Edge cubics="!25036 6310(;25009,6330 24976,6341 24943,6341q25036 6310Q24994 6341q24943 6341);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.74078369140625" d="0.74078369140625" tx="-885.35" ty="-217.6"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!24947 5977|25044 6055!25044 6055|24928 6100!24928 6100|24947 5977"/>
+                            <Edge cubics="!24928 6100(;24928,6100 24947,5977 24947,5977q24928 6100 24947 5977);"/>
+                            <Edge cubics="!24947 5977(;24947,5977 25044,6055 25044,6055q24947 5977 25044 6055)25044,6055;"/>
+                            <Edge cubics="!25044 6055(;25044,6055 24928,6100 24928,6100q25044 6055 24928 6100);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="track" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/rotateBarTrack" name="track" centerPoint3DX="147.85" centerPoint3DY="69.8">
+                  <matrix>
+                    <Matrix tx="133.95" ty="67.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="124.65" y="4.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mascara" color="#FF800A" current="true" isSelected="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/rotateBarMascara" name="mascara" selected="true" centerPoint3DX="193.95" centerPoint3DY="146.4">
+                  <matrix>
+                    <Matrix a="0.999984741210938" b="-1.52587890625e-05" c="1.52587890625e-05" d="0.999984741210938" tx="133.95" ty="67.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fill" color="#FF4FFF" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/rotateBarFill" name="fill" centerPoint3DX="32.45" centerPoint3DY="65.8">
+                  <matrix>
+                    <Matrix tx="13.75" ty="-3.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.7" y="69.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/rotateBarBg" name="bg" centerPoint3DX="32.65" centerPoint3DY="65.8">
+                  <matrix>
+                    <Matrix tx="13.95" ty="-3.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="18.7" y="69.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

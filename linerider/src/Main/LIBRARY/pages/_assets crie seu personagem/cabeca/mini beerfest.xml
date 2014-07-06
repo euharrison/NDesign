@@ -1,0 +1,478 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/cabeca/mini beerfest" itemID="4e0d4b22-00000564" linkageExportForAS="true" linkageExportInFirstFrame="false" linkageIdentifier="minibeerfest" linkageBaseClass="seisd.display.ButtonReversible" linkageClassName="minibeerfest" sourceLibraryItemHRef="Symbol 1" lastModified="1310627351">
+  <timeline>
+    <DOMTimeline name="mini beerfest" currentFrame="4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-193.15" ty="-17.6"/>
+                          </matrix>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge strokeStyle="1" edges="!4233 467|4264 470!4264 470[4301 475 4331 490!4331 490[4430 535 4432 651!4432 651[4435 796 4384 894!4384 894[4329 998 4233 1004"/>
+                            <Edge cubics="!4233 467(;4233,467 4429,466 4432,651q4233 467Q4233 467q4264 470Q4301 475q4331 490Q4430 535q4432 651);"/>
+                            <Edge cubics="!4432 651(4432,651;4436,837 4365,995 4233,1004q4432 651Q4435 796q4384 894Q4329 998q4233 1004);"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-193.15" ty="-17.6"/>
+                          </matrix>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge strokeStyle="1" edges="!4234 467[4185 467 4136 490!4136 490[4037 535 4034 651!4034 651[4032 796 4083 894!4083 894[4138 998 4234 1004"/>
+                            <Edge cubics="!4234 467(;4234,467 4038,466 4034,651q4234 467Q4185 467q4136 490Q4037 535q4034 651);"/>
+                            <Edge cubics="!4034 651(;4031,837 4102,995 4234,1004q4034 651Q4032 796q4083 894Q4138 998q4234 1004);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-193.15" ty="-17.6"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#BCBEC0"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!4450 614S2|4018 614!4018 614[3988 352 4234 352!4234 352[4338 352 4393 404!4393 404[4462 470 4450 614"/>
+                        <Edge cubics="!4018 614(;3993,397 4114,352 4234,352q4018 614Q3988 352q4234 352);"/>
+                        <Edge cubics="!4234 352(;4353,352 4468,404 4450,614q4234 352Q4338 352q4393 404Q4462 470q4450 614);"/>
+                        <Edge cubics="!4450 614(;4450,614 4018,614 4018,614q4450 614 4018 614);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <matrix>
+                                <Matrix tx="-193.15" ty="-17.6"/>
+                              </matrix>
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#F9F19F"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!4603 549|4603 741!4603 741[4603 759 4581 772!4581 772[4558 785 4527 785!4527 785[4496 785 4473 772!4473 772[4451 759 4451 741!4451 741|4451 549!4451 549|4603 549"/>
+                                <Edge cubics="!4603 549(;4603,549 4603,741 4603,741q4603 549 4603 741);"/>
+                                <Edge cubics="!4603 741(;4603,765 4569,785 4527,785q4603 741Q4603 759q4581 772Q4558 785q4527 785);"/>
+                                <Edge cubics="!4527 785(;4485,785 4451,765 4451,741q4527 785Q4496 785q4473 772Q4451 759q4451 741);"/>
+                                <Edge cubics="!4451 741(;4451,741 4451,549 4451,549q4451 741 4451 549);"/>
+                                <Edge cubics="!4451 549(;4527,549 4527,549 4603,549q4451 549 4603 549);"/>
+                              </edges>
+                            </DOMShape>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <matrix>
+                                <Matrix tx="-193.15" ty="-17.6"/>
+                              </matrix>
+                              <strokes>
+                                <StrokeStyle index="1">
+                                  <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                    <fill>
+                                      <SolidColor/>
+                                    </fill>
+                                  </SolidStroke>
+                                </StrokeStyle>
+                              </strokes>
+                              <edges>
+                                <Edge strokeStyle="1" edges="!4603 549|4603 741!4603 741[4603 759 4581 772!4581 772[4558 785 4527 785!4527 785[4496 785 4473 772!4473 772[4451 759 4451 741!4451 741|4451 549"/>
+                                <Edge cubics="!4603 549(4603,549;4603,549 4603,741 4603,741p4603 549 4603 741)4603,741;"/>
+                                <Edge cubics="!4603 741(;4603,765 4569,785 4527,785q4603 741Q4603 759q4581 772Q4558 785q4527 785);"/>
+                                <Edge cubics="!4527 785(;4485,785 4451,765 4451,741q4527 785Q4496 785q4473 772Q4451 759q4451 741);"/>
+                                <Edge cubics="!4451 741(;4451,741 4451,549 4451,549q4451 741 4451 549);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-193.15" ty="-17.6"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FBEC55"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!4603 542[4603 557 4581 568!4581 568[4559 578 4527 578!4527 578[4495 578 4473 568!4473 568[4451 557 4451 542!4451 542[4451 526 4473 516!4473 516[4495 505 4527 505!4527 505[4559 505 4581 516!4581 516[4603 526 4603 542"/>
+                            <Edge cubics="!4603 542(;4603,562 4569,578 4527,578q4603 542Q4603 557q4581 568Q4559 578q4527 578);"/>
+                            <Edge cubics="!4527 578(;4485,578 4451,562 4451,542q4527 578Q4495 578q4473 568Q4451 557q4451 542);"/>
+                            <Edge cubics="!4451 542(;4451,521 4485,505 4527,505q4451 542Q4451 526q4473 516Q4495 505q4527 505)4527,505;"/>
+                            <Edge cubics="!4527 505(4527,505;4569,505 4603,521 4603,542q4527 505Q4559 505q4581 516Q4603 526q4603 542);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMGroup selected="true">
+                          <members>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <matrix>
+                                <Matrix tx="-193.15" ty="-17.6"/>
+                              </matrix>
+                              <fills>
+                                <FillStyle index="1">
+                                  <SolidColor color="#F9F19F"/>
+                                </FillStyle>
+                              </fills>
+                              <edges>
+                                <Edge fillStyle1="1" edges="!4014 549|4014 741!4014 741[4014 759 3992 772!3992 772[3970 785 3939 785!3939 785[3908 785 3885 772!3885 772[3863 759 3863 741!3863 741|3863 549!3863 549|4014 549"/>
+                                <Edge cubics="!4014 549(;4014,549 4014,741 4014,741q4014 549 4014 741);"/>
+                                <Edge cubics="!4014 741(4014,741;4014,765 3980,785 3939,785q4014 741Q4014 759q3992 772Q3970 785q3939 785)3939,785;"/>
+                                <Edge cubics="!3939 785(;3897,785 3863,765 3863,741q3939 785Q3908 785q3885 772Q3863 759q3863 741);"/>
+                                <Edge cubics="!3863 741(;3863,741 3863,549 3863,549q3863 741 3863 549);"/>
+                                <Edge cubics="!3863 549(;3938,549 3938,549 4014,549q3863 549 4014 549);"/>
+                              </edges>
+                            </DOMShape>
+                            <DOMShape selected="true" isDrawingObject="true">
+                              <matrix>
+                                <Matrix tx="-193.15" ty="-17.6"/>
+                              </matrix>
+                              <strokes>
+                                <StrokeStyle index="1">
+                                  <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                    <fill>
+                                      <SolidColor/>
+                                    </fill>
+                                  </SolidStroke>
+                                </StrokeStyle>
+                              </strokes>
+                              <edges>
+                                <Edge strokeStyle="1" edges="!4014 549|4014 741!4014 741[4014 759 3992 772!3992 772[3970 785 3939 785!3939 785[3908 785 3885 772!3885 772[3863 759 3863 741!3863 741|3863 549"/>
+                                <Edge cubics="!4014 549(4014,549;4014,549 4014,741 4014,741p4014 549 4014 741)4014,741;"/>
+                                <Edge cubics="!4014 741(;4014,765 3980,785 3939,785q4014 741Q4014 759q3992 772Q3970 785q3939 785);"/>
+                                <Edge cubics="!3939 785(;3897,785 3863,765 3863,741q3939 785Q3908 785q3885 772Q3863 759q3863 741);"/>
+                                <Edge cubics="!3863 741(;3863,741 3863,549 3863,549q3863 741 3863 549);"/>
+                              </edges>
+                            </DOMShape>
+                          </members>
+                        </DOMGroup>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-193.15" ty="-17.6"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FBEC55"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle1="1" strokeStyle="1" edges="!4014 542[4014 557 3992 568!3992 568[3970 578 3939 578!3939 578[3907 578 3885 568!3885 568[3863 557 3863 542!3863 542[3863 526 3885 516!3885 516[3907 505 3939 505!3939 505[3970 505 3992 516!3992 516[4014 526 4014 542"/>
+                            <Edge cubics="!4014 542(;4014,562 3980,578 3939,578q4014 542Q4014 557q3992 568Q3970 578q3939 578);"/>
+                            <Edge cubics="!3939 578(;3897,578 3863,562 3863,542q3939 578Q3907 578q3885 568Q3863 557q3863 542);"/>
+                            <Edge cubics="!3863 542(3863,542;3863,521 3897,505 3939,505q3863 542Q3863 526q3885 516Q3907 505q3939 505);"/>
+                            <Edge cubics="!3939 505(;3980,505 4014,521 4014,542q3939 505Q3970 505q3992 516Q4014 526q4014 542);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-193.15" ty="-17.6"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#BCBEC0"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!4451 578|4020 570!4020 570|4057 550!4057 550[4103 528 4154 517!4154 517[4315 483 4451 578"/>
+                            <Edge cubics="!4020 570(;4020,570 4233,426 4451,578q4020 570Q4020 570q4057 550Q4103 528q4154 517Q4315 483q4451 578);"/>
+                            <Edge cubics="!4451 578(;4235,574 4235,574 4020,570q4451 578 4020 570);"/>
+                          </edges>
+                        </DOMShape>
+                        <DOMShape isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-193.15" ty="-17.6"/>
+                          </matrix>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge strokeStyle="1" edges="!4020 570|4057 550!4057 550[4103 528 4154 517!4154 517[4315 483 4451 578"/>
+                            <Edge cubics="!4020 570(;4020,570 4233,426 4451,578q4020 570Q4020 570q4057 550Q4103 528q4154 517Q4315 483q4451 578);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-193.15" ty="-17.6"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!4516 543S4[4537 481 4527 430!4527 430[4509 327 4358 379"/>
+                        <Edge cubics="!4516 543(;4516,543 4599,295 4358,379q4516 543Q4537 481q4527 430Q4509 327q4358 379);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-193.15" ty="-17.6"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!3943 543S4[3922 481 3932 430!3932 430[3950 327 4101 379"/>
+                        <Edge cubics="!3943 543(;3943,543 3860,295 4101,379q3943 543Q3922 481q3932 430Q3950 327q4101 379)4101,379;"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-193.15" ty="-17.6"/>
+                      </matrix>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!4406 839S4|4445 884!4445 884[4480 936 4463 977!4463 977[4439 1035 4329 949!4329 949|4223 852"/>
+                        <Edge cubics="!4406 839(;4406,839 4490,912 4463,977q4406 839Q4406 839q4445 884Q4480 936q4463 977);"/>
+                        <Edge cubics="!4463 977(;4425,1069 4223,852 4223,852q4463 977Q4439 1035q4329 949Q4223 852q4223 852);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="4" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFFF.23, #FFFFFE.A5" startPointB="#FFFFFF.23, #FFFFFE.A5" strokeIndex1="0" strokeIndex2="1">
+                    <MorphCurves controlPointA="1.5, -0.9921875" anchorPointA="#3.DC, #FFFFFF.5F" controlPointB="1.5, -0.9921875" anchorPointB="#3.DC, #FFFFFF.5F" isLine="true"/>
+                    <MorphCurves controlPointA="#3.DC, #1.5F" anchorPointA="#3.DC, #3.5E" controlPointB="#3.DC, #1.5F" anchorPointB="#3.DC, #3.5E" isLine="true"/>
+                    <MorphCurves controlPointA="1.5, #3.5E" anchorPointA="#FFFFFF.23, #3.5E" controlPointB="1.5, #3.5E" anchorPointB="#FFFFFF.23, #3.5E" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.23, #1.02" anchorPointA="#FFFFFF.23, #FFFFFE.A5" controlPointB="#FFFFFF.23, #1.02" anchorPointB="#FFFFFF.23, #FFFFFE.A5" isLine="true"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFFF.23, #FFFFFE.A5" startPointB="#FFFFFF.23, #FFFFFE.A5" strokeIndex1="0" strokeIndex2="1" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="1.5, -0.9921875" anchorPointA="#3.DC, #FFFFFF.5F" controlPointB="1.5, -0.9921875" anchorPointB="#3.DC, #FFFFFF.5F" isLine="true"/>
+                    <MorphCurves controlPointA="#3.DC, #1.5F" anchorPointA="#3.DC, #3.5E" controlPointB="#3.DC, #1.5F" anchorPointB="#3.DC, #3.5E" isLine="true"/>
+                    <MorphCurves controlPointA="1.5, #3.5E" anchorPointA="#FFFFFF.23, #3.5E" controlPointB="1.5, #3.5E" anchorPointB="#FFFFFF.23, #3.5E" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.23, #1.02" anchorPointA="#FFFFFF.23, #FFFFFE.A5" controlPointB="#FFFFFF.23, #1.02" anchorPointB="#FFFFFF.23, #FFFFFE.A5" isLine="true"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFFF.23, #FFFFFE.A5" startPointB="#FFFFFF.57, #FFFFFE.C3" strokeIndex1="0" strokeIndex2="2" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="1.5, -0.9921875" anchorPointA="#3.DC, #FFFFFF.5F" controlPointB="#1.8A, -0.890625" anchorPointB="#3.BD, -0.546875" isLine="true"/>
+                    <MorphCurves controlPointA="#3.DC, #1.5F" anchorPointA="#3.DC, #3.5E" controlPointB="#3.BD, #1.5A" anchorPointB="#3.BD, 3.25" isLine="true"/>
+                    <MorphCurves controlPointA="1.5, #3.5E" anchorPointA="#FFFFFF.23, #3.5E" controlPointB="#1.8A, 3.25" anchorPointB="#FFFFFF.57, 3.25" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.23, #1.02" anchorPointA="#FFFFFF.23, #FFFFFE.A5" controlPointB="#FFFFFF.57, #1.02" anchorPointB="#FFFFFF.57, #FFFFFE.C3" isLine="true"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFFF.23, #FFFFFE.A5" startPointB="#FFFFFF.57, #FFFFFE.C3" strokeIndex1="0" strokeIndex2="2" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="1.5, -0.9921875" anchorPointA="#3.DC, #FFFFFF.5F" controlPointB="#1.8A, -0.890625" anchorPointB="#3.BD, -0.546875" isLine="true"/>
+                    <MorphCurves controlPointA="#3.DC, #1.5F" anchorPointA="#3.DC, #3.5E" controlPointB="#3.BD, #1.5A" anchorPointB="#3.BD, 3.25" isLine="true"/>
+                    <MorphCurves controlPointA="1.5, #3.5E" anchorPointA="#FFFFFF.23, #3.5E" controlPointB="#1.8A, 3.25" anchorPointB="#FFFFFF.57, 3.25" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFFF.23, #1.02" anchorPointA="#FFFFFF.23, #FFFFFE.A5" controlPointB="#FFFFFF.57, #1.02" anchorPointB="#FFFFFF.57, #FFFFFE.C3" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#B46DEC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!988 862|-221 862!-221 862|-221 -347!-221 -347|988 -161!988 -161|988 862"/>
+                    <Edge cubics="!-221 -347(;-221,-347 988,-161 988,-161q-221 -347 988 -161);"/>
+                    <Edge cubics="!988 -161(;988,-161 988,862 988,862q988 -161 988 862);"/>
+                    <Edge cubics="!-221 862(;-221,862 988,862 988,862q-221 862p988 862);"/>
+                    <Edge cubics="!-221 -347(-221,-347;-221,-347 -221,862 -221,862q-221 -347 -221 862)-221,862;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="4" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#B46DEC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle0="1" fillStyle1="1" strokeStyle="1" edges="!-169 -317S7|957 -140!957 -140|957 832!957 832|-169 832!-169 832|-169 -317"/>
+                    <Edge fillStyle1="1" edges="!-221 -347S2|988 -161!988 -161|988 862!988 862|-221 862!-221 862|-221 -347"/>
+                    <Edge cubics="!-221 -347(;-221,-347 988,-161 988,-161q-221 -347 988 -161);"/>
+                    <Edge cubics="!988 -161(;988,-161 988,862 988,862q988 -161 988 862);"/>
+                    <Edge cubics="!-221 862(;-221,862 988,862 988,862q-221 862p988 862);"/>
+                    <Edge cubics="!-221 -347(-221,-347;-221,-347 -221,862 -221,862q-221 -347 -221 862)-221,862;"/>
+                    <Edge cubics="!-169 -317(;-169,-317 957,-140 957,-140q-169 -317 957 -140);"/>
+                    <Edge cubics="!957 -140(;957,-140 957,832 957,832q957 -140 957 832);"/>
+                    <Edge cubics="!-169 832(;-169,832 957,832 957,832q-169 832p957 832);"/>
+                    <Edge cubics="!-169 -317(-169,-317;-169,-317 -169,832 -169,832q-169 -317 -169 832)-169,832;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" visible="false">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#B46DEC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!988 -161|988 862!988 862|-221 862!-221 862|-221 -347!-221 -347|988 -161"/>
+                    <Edge cubics="!-221 -347(;-221,-347 988,-161 988,-161q-221 -347 988 -161);"/>
+                    <Edge cubics="!988 -161(;988,-161 988,862 988,862q988 -161 988 862);"/>
+                    <Edge cubics="!-221 862(;-221,862 988,862 988,862q-221 862p988 862);"/>
+                    <Edge cubics="!-221 -347(-221,-347;-221,-347 -221,862 -221,862q-221 -347 -221 862)-221,862;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 4" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="5" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#F8F8F8"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="4" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#B46DEC"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!-221 -347|988 -161!988 -161|988 862!988 862|-221 862!-221 862|-221 -347"/>
+                    <Edge fillStyle0="1" fillStyle1="2" strokeStyle="1" edges="!-169 -317|957 -140!957 -140|957 832!957 832|-169 832!-169 832|-169 -317"/>
+                    <Edge cubics="!-221 -347(;-221,-347 988,-161 988,-161q-221 -347 988 -161);"/>
+                    <Edge cubics="!988 -161(;988,-161 988,862 988,862q988 -161 988 862);"/>
+                    <Edge cubics="!-221 862(;-221,862 988,862 988,862q-221 862p988 862);"/>
+                    <Edge cubics="!-221 -347(-221,-347;-221,-347 -221,862 -221,862q-221 -347 -221 862)-221,862;"/>
+                    <Edge cubics="!-169 -317(;-169,-317 957,-140 957,-140q-169 -317 957 -140);"/>
+                    <Edge cubics="!957 -140(;957,-140 957,832 957,832q957 -140 957 832);"/>
+                    <Edge cubics="!-169 832(;-169,832 957,832 957,832q-169 832p957 832);"/>
+                    <Edge cubics="!-169 -317(-169,-317;-169,-317 -169,832 -169,832q-169 -317 -169 832)-169,832;"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

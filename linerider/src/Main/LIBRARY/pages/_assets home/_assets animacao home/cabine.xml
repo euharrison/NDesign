@@ -1,0 +1,49 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/cabine" itemID="4d6ec01c-0000012e" sourceLibraryItemHRef="cabine" sourceLastModified="1299103772" lastModified="1299103772">
+  <timeline>
+    <DOMTimeline name="cabine">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#69F3E5"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!416 38|312 234!312 234|104 234!104 234|0 38!0 38|416 38"/>
+                        <Edge cubics="!416 38(;416,38 312,234 312,234p416 38q312 234);"/>
+                        <Edge cubics="!312 234(;312,234 104,234 104,234p312 234q104 234);"/>
+                        <Edge cubics="!104 234(;104,234 0,38 0,38p104 234q0 38);"/>
+                        <Edge cubics="!0 38(;208,38 208,38 416,38p0 38q416 38);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" weight="2.15" joints="miter" miterLimit="4">
+                            <fill>
+                              <SolidColor color="#B676EC"/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge strokeStyle="1" edges="!0 22|416 22"/>
+                        <Edge cubics="!0 22(;0,22 416,22 416,22q0 22 416 22);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
