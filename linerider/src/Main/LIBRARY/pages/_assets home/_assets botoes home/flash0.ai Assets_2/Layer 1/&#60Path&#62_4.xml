@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets botoes home/flash0.ai Assets_2/Layer 1/&lt;Path&gt;_4" itemID="4e03c549-000005a0" lastModified="1308869961">
+  <timeline>
+    <DOMTimeline name="&lt;Path&gt;_4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.014617919921875" d="-0.014617919921875" tx="12" ty="13.7"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!480 359|0 548!0 548|0 103!0 103|480 0!480 0|480 359"/>
+                    <Edge cubics="!480 359(;480,359 0,548 0,548q480 359 0 548);"/>
+                    <Edge cubics="!0 548(;0,548 0,103 0,103q0 548 0 103);"/>
+                    <Edge cubics="!0 103(;0,103 480,0 480,0q0 103 480 0);"/>
+                    <Edge cubics="!480 0(;480,0 480,359 480,359q480 0 480 359);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

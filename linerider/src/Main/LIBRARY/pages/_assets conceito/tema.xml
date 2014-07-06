@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets conceito/tema" itemID="4dfd3d71-00000363" sourceLibraryItemHRef="Symbol 1" symbolType="button" lastModified="1309409637">
+  <timeline>
+    <DOMTimeline name="tema">
+      <layers>
+        <DOMLayer name="Layer 3" color="#FF800A">
+          <frames>
+            <DOMFrame index="0" duration="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#00FFFF" alpha="0.498039215686275"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!7980 3260|8760 3260!8760 3260|8760 3700!8760 3700|7980 3700!7980 3700|7980 3260!30 0|1539 0!1539 0|1539 1500!1539 1500|30 1500!30 1500|30 0"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#68D2E7"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!8040 3620|8690 3620!8690 3620|8690 3660!8690 3660|8040 3660!8040 3660|8040 3620"/>
+                    <Edge cubics="!8040 3660(;8040,3660 8040,3620 8040,3620q8040 3660 8040 3620);"/>
+                    <Edge cubics="!8690 3620(8690,3620;8690,3620 8690,3660 8690,3660q8690 3620 8690 3660);"/>
+                    <Edge cubics="!8040 3620(;8040,3620 8690,3620 8690,3620q8040 3620 8690 3620)8690,3620;"/>
+                    <Edge cubics="!8690 3660(8690,3660;8690,3660 8040,3660 8040,3660q8690 3660 8040 3660)8040,3660;"/>
+                  </edges>
+                </DOMShape>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-tema-over-linhas.png">
+                  <matrix>
+                    <Matrix tx="35" ty="81"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-tema.png"/>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="1" duration="2" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-tema.png"/>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/conceito-tema-over.png copy">
+                  <matrix>
+                    <Matrix tx="1"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="3" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

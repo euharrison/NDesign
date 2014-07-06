@@ -1,0 +1,72 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/carrinho/seletor carrinho" itemID="4e1d2756-000003ec" sourceLibraryItemHRef="Symbol 1" lastModified="1310626912" lastUniqueIdentifier="24">
+  <timeline>
+    <DOMTimeline name="seletor carrinho">
+      <layers>
+        <DOMLayer name="skate" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/carrinho/skate_bt" name="skate" centerPoint3DX="35.65" centerPoint3DY="-35.9">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-71.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.55" y="35.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="treno" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/carrinho/treno_bt" name="treno" centerPoint3DX="-35.5" centerPoint3DY="-35.9">
+                  <matrix>
+                    <Matrix tx="-71.05" ty="-71.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.55" y="35.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="carrinhocompras" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/carrinho/carrinhocompras_bt" name="carrinhocompras" centerPoint3DX="-35.5" centerPoint3DY="35.25">
+                  <matrix>
+                    <Matrix tx="-71.05" ty="-0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.55" y="35.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bike" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/carrinho/bike_bt" name="bike" centerPoint3DX="35.65" centerPoint3DY="35.25">
+                  <matrix>
+                    <Matrix tx="0.1" ty="-0.3"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="35.55" y="35.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

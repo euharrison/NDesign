@@ -1,0 +1,227 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/CrieSeuPersonagem" itemID="4dfd35e3-00000264" linkageExportForAS="true" linkageClassName="projeto.pages.CrieSeuPersonagem" sourceLibraryItemHRef="pages/ComoJogar copy" lastModified="1310629626" lastUniqueIdentifier="26">
+  <timeline>
+    <DOMTimeline name="CrieSeuPersonagem">
+      <layers>
+        <DOMLayer name="PhotoEditor" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/PhotoEditor" name="seletorFoto" selected="true" centerPoint3DX="24.1" centerPoint3DY="-168.15">
+                  <matrix>
+                    <Matrix tx="-22" ty="-240"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="51.55" y="80.7"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletorPersonagem" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/carrinho/seletor carrinho" name="seletorPersonagem" selected="true" centerPoint3DX="-218.5" centerPoint3DY="184">
+                  <matrix>
+                    <Matrix tx="-305" ty="124"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletorCabeca" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/cabeca/seletor cabeca" name="seletorCabeca" selected="true" centerPoint3DX="318.8" centerPoint3DY="-134.55">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="197.95" ty="-195"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="264.55" y="60.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletorPele" color="#4FFF4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/camisa/seletor pele" name="seletorPele" selected="true" centerPoint3DX="-299.2" centerPoint3DY="-57.25">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="-307.05" ty="-65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="43.9" y="7.75"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="30" blurX="6" blurY="6" distance="2" strength="0.4"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletorCamisa" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/camisa/seletor camisa" name="seletorCamisa" selected="true" centerPoint3DX="-217.05" centerPoint3DY="-16">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="-280.05" ty="-79"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="40.1" y="0.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="30" blurX="6" blurY="6" distance="2" strength="0.4"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletorCalca" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/calca/seletor calca" name="seletorCalca" selected="true" centerPoint3DX="417" centerPoint3DY="107">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="353.95" ty="44"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="149.8" y="0.5"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter angle="30" blurX="6" blurY="6" distance="2" strength="0.4"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="nome_txt" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMInputText name="nome_txt" selected="true" width="213" height="29">
+                  <matrix>
+                    <Matrix tx="-84" ty="161"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SEU NOME</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1" lineSpacing="-18" size="25" bitmapSize="500" face="Knockout 27*" fillColor="#C581FF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMInputText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="next_bt" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/nome/next" name="next_bt" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="-97.05" ty="98"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="272.35" y="59"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="personagem-titulo.png" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" selected="true" libraryItemName="bmp/personagem-titulo.png">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="-496" ty="-295"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="preview personagem" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/_cenario/preview personagem" name="boxPreview" selected="true" centerPoint3DX="87.5" centerPoint3DY="77.5">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="21" ty="11"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="169.55" y="66.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon camisa" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/camisa/icon camisa" name="" selected="true" centerPoint3DX="-280.05" centerPoint3DY="-92.1">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="-310" ty="-110"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.6" y="17.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="icon calca" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/calca/icon calca" name="" selected="true" centerPoint3DX="354.5" centerPoint3DY="44.7">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="342" ty="29"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="162" y="15.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="linhas indicativas" color="#FF4F4F" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/_cenario/linhas indicativas" name="" selected="true" centerPoint3DX="31.25" centerPoint3DY="19.1">
+                  <matrix>
+                    <Matrix a="0.999923706054688" tx="-220.45" ty="-102.8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="344.55" y="121.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

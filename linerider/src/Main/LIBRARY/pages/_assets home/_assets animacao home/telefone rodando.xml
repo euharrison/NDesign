@@ -1,0 +1,84 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/telefone rodando" itemID="4dee9346-00000254" sourceLibraryItemHRef="Symbol 2" lastModified="1307480980" lastUniqueIdentifier="17">
+  <timeline>
+    <DOMTimeline name="telefone rodando" currentFrame="113">
+      <layers>
+        <DOMLayer name="telefone" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="14" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/telefone" name="" centerPoint3DX="279.85" centerPoint3DY="-142.9">
+                  <matrix>
+                    <Matrix tx="256.9" ty="-165.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.95" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="14" duration="15" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/telefone" name="" centerPoint3DX="280.85" centerPoint3DY="-141.05">
+                  <matrix>
+                    <Matrix a="-0.690155029296875" b="0.721038818359375" c="-0.721038818359375" d="-0.690155029296875" tx="312.35" ty="-143.75"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.9" y="22.65"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="29" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/telefone" name="" centerPoint3DX="276" centerPoint3DY="-136.9">
+                  <matrix>
+                    <Matrix a="0.39093017578125" b="-0.920394897460938" c="0.920394897460938" d="0.39093017578125" tx="249.75" ty="-130.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.9" y="22.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="33" duration="38" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/telefone" name="" centerPoint3DX="276.6" centerPoint3DY="-136.6">
+                  <matrix>
+                    <Matrix a="0.3052978515625" b="-0.951171875" c="0.951171875" d="0.3052978515625" tx="251" ty="-128.15"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.9" y="22.95"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="71" duration="39" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/telefone" name="" centerPoint3DX="287.3" centerPoint3DY="-145.1">
+                  <matrix>
+                    <Matrix a="-0.746826171875" b="0.662689208984375" c="-0.662689208984375" d="-0.746826171875" tx="312.25" ty="-140.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23" y="23"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="110" duration="13" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/telefone" name="" centerPoint3DX="271.7" centerPoint3DY="-145.8">
+                  <matrix>
+                    <Matrix a="0.999969482421875" b="0.0036468505859375" c="-0.0036468505859375" d="0.999969482421875" tx="256.95" ty="-165.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="22.9" y="23.25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

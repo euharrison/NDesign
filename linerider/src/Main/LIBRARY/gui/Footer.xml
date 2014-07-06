@@ -1,0 +1,911 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gui/Footer" itemID="4e1ea54a-000012da" linkageExportForAS="true" linkageClassName="projeto.gui.Footer" sourceLibraryItemHRef="Symbol 1" lastModified="1310632958" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Footer">
+      <layers>
+        <DOMLayer name="siteoficial" color="#FF4FFF" locked="true" outline="true" useOutlineView="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="mc/hit" name="siteoficial_bt" selected="true" centerPoint3DX="-79.6" centerPoint3DY="0.75">
+                  <matrix>
+                    <Matrix a="1.89700317382812" d="0.3179931640625" tx="-104.6" ty="-24.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="25" y="25"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="texto anti bug" color="#FF4F4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="7.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-489.5" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-482.5" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>a</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-476" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>s</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-470.15" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>e</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-463.65" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>a</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.15" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-457.15" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>d</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-450.25" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>o</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-440.05" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>n</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-433.25" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>o</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.75" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-423.05" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>g</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-416.5" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>a</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="10.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-410" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>m</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-400.05" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>e</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.35" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-390.15" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>L</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-384" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>i</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-380.35" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>n</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-373.55" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>e</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-367.05" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>r</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-362.1" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>i</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.15" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-358.45" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>d</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-351.5" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>e</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-345" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>r</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.1" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-336.65" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>/</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.1" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-326.35" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>P</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-319.45" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>r</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-314.5" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>o</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.15" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-307.7" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>d</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-300.8" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>u</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-294" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>z</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-288.05" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>i</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.15" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-284.35" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>d</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-277.4" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>o</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.15" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-267.2" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>p</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-260.25" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>o</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-253.45" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>r</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="10" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-245.1" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>©</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.1" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-231.9" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.05" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-225" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-217.15" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-212.2" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.35" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-203.9" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="9.45" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-195.75" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>O</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.95" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-186.55" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>N</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.95" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-177.8" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-169.1" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>e</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.35" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-159.25" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>C</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-151.1" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>a</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-144.6" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>r</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-139.65" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>i</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-136" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>o</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.4" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-129.2" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>c</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-123.05" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>a</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.1" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-113.15" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>/</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.95" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-102.85" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>N</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.95" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-94.1" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>D</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-85.4" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>e</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-78.95" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>s</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-73.1" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>i</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.75" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-69.4" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>g</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-62.85" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>n</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.5" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-52.65" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>R</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-45.35" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>i</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-41.65" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>o</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="8.05" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-31.45" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>0</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="7.1" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-23.6" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>2</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText selected="true" width="6.2" height="12.65" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-16.7" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>1</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="11" bitmapSize="220" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="texto original" color="#808080" locked="true" autoNamed="false" visible="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText selected="true" width="669.2" height="12.65" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-680.95" ty="-23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Baseado no game Linerider / Produzido por © 2011 CONDe Carioca / NDesign Rio 021</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="right" aliasText="false" autoKern="false" rotation="true" letterSpacing="1" lineSpacing="5.5" size="11" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

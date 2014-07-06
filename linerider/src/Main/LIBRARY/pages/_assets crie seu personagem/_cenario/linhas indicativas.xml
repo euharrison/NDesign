@@ -1,0 +1,137 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/_cenario/linhas indicativas" itemID="4e0bfc6e-0000082a" sourceLibraryItemHRef="Symbol 1" lastModified="1309408366">
+  <timeline>
+    <DOMTimeline name="linhas indicativas">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none">
+                        <fill>
+                          <SolidColor color="#D8D8DA"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!4863 933S4/4855 62!3493 1870/390 920!4855 3799/4863 4814!3502 2741/37 3980!6368 2396/10029 2773!6388 1536/8370 581"/>
+                    <Edge cubics="!4863 933(4863,933;4863,933 4855,62 4855,62q4863 933 4855 62)4855,62;"/>
+                    <Edge cubics="!3502 2741(3502,2741;3502,2741 37,3980 37,3980q3502 2741 37 3980)37,3980;"/>
+                    <Edge cubics="!3493 1870(3493,1870;3493,1870 390,920 390,920q3493 1870 390 920)390,920;"/>
+                    <Edge cubics="!4855 3799(4855,3799;4855,3799 4863,4814 4863,4814q4855 3799 4863 4814)4863,4814;"/>
+                    <Edge cubics="!6388 1536(6388,1536;6388,1536 8370,581 8370,581q6388 1536 8370 581)8370,581;"/>
+                    <Edge cubics="!6368 2396(6368,2396;6368,2396 10029,2773 10029,2773q6368 2396 10029 2773)10029,2773;"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="1.85" y="199"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!33 3943S1[18 3944 8 3957!8 3957[-1 3969 0 3984!0 3984[2 3999 14 4009!14 4009[26 4018 41 4017!41 4017[55 4015 65 4003!65 4003[71 3995 73 3986!73 3986[74 3981 73 3976!73 3976[72 3961 59 3951!59 3951[47 3941 33 3943"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="19.5" y="46"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle0="1" edges="!367 949S1[379 958 394 957!394 957[408 955 418 943!418 943[424 935 426 926!426 926[427 921 426 916!426 916[425 901 412 891!412 891[400 881 386 883!386 883[371 884 361 897!361 897[352 909 353 924!353 924[355 939 367 949"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!4888 14S2[4897 26 4896 41!4896 41[4894 56 4882 66!4882 66[4870 75 4855 74!4855 74[4841 72 4831 60!4831 60[4825 52 4823 43!4823 43[4822 38 4823 33!4823 33[4824 18 4837 8!4837 8[4849 -2 4863 0!4863 0[4878 1 4888 14"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!4895 4833S2[4896 4838 4895 4843!4895 4843[4894 4858 4881 4868!4881 4868[4869 4878 4855 4876!4855 4876[4840 4875 4830 4862!4830 4862[4821 4850 4822 4835!4822 4835[4824 4820 4836 4810!4836 4810[4848 4801 4863 4802!4863 4802[4877 4804 4887
+ 4816!4887 4816[4893 4824 4895 4833"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="501.45" y="138.65"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!10052 2802S2[10040 2811 10025 2810!10025 2810[10011 2808 10001 2796!10001 2796[9995 2788 9993 2779!9993 2779[9992 2774 9993 2769!9993 2769[9994 2754 10007 2744!10007 2744[10019 2734 10033 2736!10033 2736[10048 2737 10058 2750!10058 2750
+[10067 2762 10066 2777!10066 2777[10064 2792 10052 2802"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="418.5" y="29.05"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMShape selected="true">
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!8342 604S2[8336 596 8334 587!8334 587[8333 582 8334 577!8334 577[8335 562 8348 552!8348 552[8360 542 8374 544!8374 544[8389 545 8399 558!8399 558[8408 570 8407 585!8407 585[8405 600 8393 610!8393 610[8381 619 8366 618!8366 618[8352 616
+ 8342 604"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

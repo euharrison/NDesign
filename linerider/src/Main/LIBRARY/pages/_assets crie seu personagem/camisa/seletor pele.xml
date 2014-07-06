@@ -1,0 +1,69 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/camisa/seletor pele" itemID="4e056cf8-00000398" sourceLibraryItemHRef="Symbol 1" lastModified="1309495669" lastUniqueIdentifier="7">
+  <timeline>
+    <DOMTimeline name="seletor pele">
+      <layers>
+        <DOMLayer name="seletor pele unidade" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/camisa/seletor pele unidade" name="" centerPoint3DX="49.75" centerPoint3DY="7.75">
+                  <matrix>
+                    <Matrix tx="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.75" y="7.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletor pele unidade" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/camisa/seletor pele unidade" name="" centerPoint3DX="35.75" centerPoint3DY="15.75">
+                  <matrix>
+                    <Matrix tx="28" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.75" y="7.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletor pele unidade" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/camisa/seletor pele unidade" name="" centerPoint3DX="21.75" centerPoint3DY="15.75">
+                  <matrix>
+                    <Matrix tx="14" ty="8"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="7.75" y="7.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="seletor pele unidade" color="#4FFFFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/camisa/seletor pele unidade" name="" centerPoint3DX="7.75" centerPoint3DY="7.75">
+                  <transformationPoint>
+                    <Point x="7.75" y="7.75"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

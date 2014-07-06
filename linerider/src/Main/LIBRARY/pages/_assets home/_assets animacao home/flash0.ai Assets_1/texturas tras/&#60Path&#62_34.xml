@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/flash0.ai Assets_1/texturas tras/&lt;Path&gt;_34" itemID="4e02d729-00000b9a" lastModified="1308809001">
+  <timeline>
+    <DOMTimeline name="&lt;Path&gt;_34">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#69D2E7"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!485 210[355 206 292 129!292 129[249 77 244 0!244 0[237 78 195 130!195 130[132 207 0 210!0 210|1 211!1 211[132 214 195 290!195 290[237 342 244 420!244 420[249 343 292 291!292 291[354 214 484 211!484 211|485 210"/>
+                    <Edge cubics="!244 420(;249,349 287,216 484,211q244 420Q249 343q292 291Q354 214q484 211);"/>
+                    <Edge cubics="!484 211(;484,211 485,210 485,210q484 211 485 210);"/>
+                    <Edge cubics="!485 210(485,210;287,204 249,71 244,0q485 210Q355 206q292 129Q249 77q244 0);"/>
+                    <Edge cubics="!244 0(;238,71 200,205 0,210q244 0Q237 78q195 130Q132 207q0 210);"/>
+                    <Edge cubics="!0 210(;0,210 1,211 1,211q0 210 1 211);"/>
+                    <Edge cubics="!1 211(;200,215 238,349 244,420q1 211Q132 214q195 290Q237 342q244 420);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

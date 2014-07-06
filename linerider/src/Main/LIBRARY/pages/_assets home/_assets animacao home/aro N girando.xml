@@ -1,0 +1,36 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/aro N girando" itemID="4e03773f-000002fb" sourceLibraryItemHRef="Symbol 2" lastModified="1308933875" lastUniqueIdentifier="2">
+  <timeline>
+    <DOMTimeline name="aro N girando" currentFrame="296">
+      <layers>
+        <DOMLayer name="aro N rodando" color="#4FFF4F" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="296" tweenType="motion" motionTweenRotate="clockwise" motionTweenRotateTimes="1" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/aro N parado" name="" centerPoint3DX="-2.25" centerPoint3DY="-290.2">
+                  <matrix>
+                    <Matrix tx="-214.25" ty="-290.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="212" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="296" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/aro N parado" name="" centerPoint3DX="-2.5" centerPoint3DY="-290.1">
+                  <matrix>
+                    <Matrix tx="-214.5" ty="-290.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="212" y="0.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,32 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco frontal/skate_antebracoE" itemID="4e03d03f-0000052b" sourceLibraryItemHRef="Symbol 1" lastModified="1308978054">
+  <timeline>
+    <DOMTimeline name="skate_antebracoE">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco frontal/skate_antebracoE - camisa" name="camisa" centerPoint3DX="0.1" centerPoint3DY="-2.3">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="-10.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.75" y="8.2"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="game/_personagens/_assets boneco frontal/skate_antebracoE - mao" name="mao" centerPoint3DX="2" centerPoint3DY="5.8">
+                  <matrix>
+                    <Matrix tx="-2.65" ty="0.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="4.65" y="5.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

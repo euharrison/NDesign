@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/zoomBarTrack" itemID="4e053bdc-000002a6" sourceLibraryItemHRef="Symbol 1" lastModified="1308965852">
+  <timeline>
+    <DOMTimeline name="zoomBarTrack">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.86181640625" d="0.86181640625" tx="-1174.95" ty="-260.15"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!27367 6616|27267 6616!27267 6616|27267 6037!27267 6037|27367 6037!27367 6037|27367 6616"/>
+                        <Edge cubics="!27367 6616(27367,6616;27367,6616 27267,6616 27267,6616p27367 6616 27267 6616)27267,6616;"/>
+                        <Edge cubics="!27267 6616(;27267,6616 27267,6037 27267,6037p27267 6616 27267 6037);"/>
+                        <Edge cubics="!27267 6037(;27267,6037 27367,6037 27367,6037p27267 6037 27367 6037);"/>
+                        <Edge cubics="!27367 6037(;27367,6037 27367,6616 27367,6616p27367 6037 27367 6616);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

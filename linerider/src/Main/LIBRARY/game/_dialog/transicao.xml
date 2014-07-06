@@ -1,0 +1,190 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/transicao" itemID="4e128be7-00000583" sourceLibraryItemHRef="Symbol 1" lastModified="1310973034" lastUniqueIdentifier="6">
+  <timeline>
+    <DOMTimeline name="transicao">
+      <layers>
+        <DOMLayer name="numero" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="numero" fontRenderingMode="standard" width="79.05" height="48" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-270.5" ty="-93"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>000</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="3" lineSpacing="0" size="46" bitmapSize="920" face="Knockout 27*" fillColor="#EEEEEE"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="SUA ESCOLHA FOI FEITA..." color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="375.05" height="36.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-180" ty="-86"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>SUA ESCOLHA FOI FEITA...</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="36" bitmapSize="720" face="Knockout 27*" fillColor="#B1BC30"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="refazer" color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_botoes/refazer" name="refazer" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-3" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="-1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="replay" color="#FF4FFF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_botoes/replay" name="replay" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-155" ty="19"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="-1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="avancar" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_botoes/avancar" name="avancar" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="149" ty="21"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-0.1" y="-1.3"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="56.35" width="31.3" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-227.2" ty="56"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>replay</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="54.3" width="35.4" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-77.1" ty="56"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>refazer</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="52.05" width="39.9" height="13.8" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="76" ty="56"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>avançar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="transicao-fim-fase.png" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/transicao-fim-fase.png">
+                  <matrix>
+                    <Matrix tx="-284" ty="-122"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="transicao animacao" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/transicao animacao" name="" centerPoint3DX="-60.6" centerPoint3DY="-28.3">
+                  <matrix>
+                    <Matrix tx="-61.1" ty="-28.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="-0.55"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo rebaixado" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_fundo rebaixado" name="" centerPoint3DX="1121.5" centerPoint3DY="745.5">
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.5"/>
+                  </transformationPoint>
+                  <color>
+                    <Color alphaMultiplier="0.69921875"/>
+                  </color>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

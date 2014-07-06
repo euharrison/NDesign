@@ -1,0 +1,94 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/_animacoes/_assets/Tween 77" itemID="4e13eb7b-000002e1" sourceFlashFilepath=".\home_linerider_5.fla" sourceLibraryItemHRef="Tween 77" sourceLastModified="1309928315" symbolType="graphic" lastModified="1309928315">
+  <timeline>
+    <DOMTimeline name="Tween 77">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-220.6" ty="-317.8"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#F62E8D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!4256 6328[4256 6405 4311 6460!4311 6460[4366 6515 4443 6515"/>
+                    <Edge cubics="!4256 6328(;4256,6431 4340,6515 4443,6515q4256 6328Q4256 6405q4311 6460Q4366 6515q4443 6515);"/>
+                  </edges>
+                </DOMShape>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-220.6" ty="-317.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F62E8D"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!4448 6409[4404 6405 4377 6370!4377 6370[4350 6335 4355 6291!4355 6291[4360 6247 4395 6220!4395 6220[4430 6193 4473 6198!4473 6198[4517 6203 4544 6238!4544 6238[4572 6272 4567 6316!4567 6316[4562 6360 4527 6387!4527 6387[4492 6414 4448
+ 6409"/>
+                        <Edge cubics="!4448 6409(;4390,6403 4348,6350 4355,6291q4448 6409Q4404 6405q4377 6370Q4350 6335q4355 6291);"/>
+                        <Edge cubics="!4355 6291(;4362,6233 4415,6191 4473,6198q4355 6291Q4360 6247q4395 6220Q4430 6193q4473 6198)4473,6198;"/>
+                        <Edge cubics="!4473 6198(;4532,6205 4573,6258 4567,6316q4473 6198Q4517 6203q4544 6238Q4572 6272q4567 6316);"/>
+                        <Edge cubics="!4567 6316(;4560,6375 4507,6416 4448,6409q4567 6316Q4562 6360q4527 6387Q4492 6414q4448 6409);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-220.6" ty="-317.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFC17E"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4452 6378[4408 6373 4380 6347!4380 6347[4351 6321 4355 6290!4355 6290[4359 6259 4392 6240!4392 6240[4426 6222 4470 6227!4470 6227[4514 6232 4542 6258!4542 6258[4571 6284 4567 6315!4567 6315[4563 6346 4529 6365!4529 6365[4496 6383 4452
+ 6378"/>
+                        <Edge cubics="!4452 6378(;4394,6371 4350,6332 4355,6290q4452 6378Q4408 6373q4380 6347Q4351 6321q4355 6290);"/>
+                        <Edge cubics="!4355 6290(;4360,6248 4411,6220 4470,6227q4355 6290Q4359 6259q4392 6240Q4426 6222q4470 6227);"/>
+                        <Edge cubics="!4470 6227(;4528,6233 4572,6273 4567,6315q4470 6227Q4514 6232q4542 6258Q4571 6284q4567 6315);"/>
+                        <Edge cubics="!4567 6315(;4562,6357 4510,6385 4452,6378q4567 6315Q4563 6346q4529 6365Q4496 6383q4452 6378);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-220.6" ty="-317.8"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F62E8D"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!4457 6332[4414 6328 4384 6315!4384 6315[4354 6302 4355 6290!4355 6290[4357 6277 4389 6272!4389 6272[4421 6267 4465 6272!4465 6272[4508 6276 4539 6289!4539 6289[4569 6302 4567 6314!4567 6314[4566 6327 4533 6332!4533 6332[4501 6337 4457
+ 6332"/>
+                        <Edge cubics="!4457 6332(;4399,6326 4353,6306 4355,6290q4457 6332Q4414 6328q4384 6315Q4354 6302q4355 6290);"/>
+                        <Edge cubics="!4355 6290(;4357,6273 4406,6265 4465,6272q4355 6290Q4357 6277q4389 6272Q4421 6267q4465 6272);"/>
+                        <Edge cubics="!4465 6272(;4523,6278 4569,6298 4567,6314q4465 6272Q4508 6276q4539 6289Q4569 6302q4567 6314);"/>
+                        <Edge cubics="!4567 6314(;4565,6331 4516,6339 4457,6332q4567 6314Q4566 6327q4533 6332Q4501 6337q4457 6332);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/_animacoes/_assets/Tween 1" itemID="4e04abd2-00000397" symbolType="graphic" lastModified="1308928978">
+  <timeline>
+    <DOMTimeline name="Tween 1">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-58.7" ty="-83.6"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#CEDA3A"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!1274 1672[1274 1714 1245 1743!1245 1743[1215 1772 1174 1772!1174 1772[1132 1772 1103 1743!1103 1743[1074 1714 1074 1672!1074 1672[1074 1631 1103 1601!1103 1601[1132 1572 1174 1572!1174 1572[1215 1572 1245 1601!1245 1601[1274 1631 1274
+ 1672"/>
+                    <Edge cubics="!1274 1672(;1274,1728 1229,1772 1174,1772q1274 1672Q1274 1714q1245 1743Q1215 1772q1174 1772);"/>
+                    <Edge cubics="!1174 1772(;1118,1772 1074,1728 1074,1672q1174 1772Q1132 1772q1103 1743Q1074 1714q1074 1672);"/>
+                    <Edge cubics="!1074 1672(;1074,1617 1118,1572 1174,1572q1074 1672Q1074 1631q1103 1601Q1132 1572q1174 1572);"/>
+                    <Edge cubics="!1174 1572(;1229,1572 1274,1617 1274,1672q1174 1572Q1215 1572q1245 1601Q1274 1631q1274 1672);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

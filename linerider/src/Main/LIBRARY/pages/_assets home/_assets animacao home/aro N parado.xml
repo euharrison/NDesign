@@ -1,0 +1,61 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/aro N parado" itemID="4e037771-000002fe" sourceLibraryItemHRef="Symbol 2" lastModified="1308850033">
+  <timeline>
+    <DOMTimeline name="aro N parado">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-310.1" ty="-110.8"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="2" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#69F3E5"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!10442 1351[10804 1351 11059 1607!11059 1607[11315 1863 11315 2225!11315 2225[11315 2587 11059 2842!11059 2842[10804 3098 10442 3098!10442 3098[10080 3098 9824 2842!9824 2842[9568 2587 9568 2225!9568 2225[9568 1863 9824 1607!9824 1607
+[10080 1351 10442 1351"/>
+                    <Edge cubics="!11315 2225(;11315,2707 10924,3098 10442,3098q11315 2225Q11315 2587q11059 2842Q10804 3098q10442 3098);"/>
+                    <Edge cubics="!10442 3098(;9959,3098 9568,2707 9568,2225q10442 3098Q10080 3098q9824 2842Q9568 2587q9568 2225);"/>
+                    <Edge cubics="!9568 2225(;9568,1742 9959,1351 10442,1351q9568 2225Q9568 1863q9824 1607Q10080 1351q10442 1351);"/>
+                    <Edge cubics="!10442 1351(;10924,1351 11315,1742 11315,2225q10442 1351Q10804 1351q11059 1607Q11315 1863q11315 2225);"/>
+                  </edges>
+                </DOMShape>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-310.1" ty="-110.8"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <DashedStroke dash1="3" dash2="9" scaleMode="normal" weight="2" joints="bevel">
+                        <fill>
+                          <SolidColor color="#B676EC"/>
+                        </fill>
+                      </DashedStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!10395 1353[10757 1334 11026 1575!11026 1575[11295 1817 11314 2178!11314 2178[11334 2539 11092 2809!11092 2809[10850 3078 10489 3097!10489 3097[10127 3117 9858 2875!9858 2875[9589 2632 9570 2271!9570 2271[9551 1910 9792 1641!9792 1641
+[10034 1372 10395 1353"/>
+                    <Edge cubics="!11314 2178(;11340,2660 10970,3071 10489,3097q11314 2178Q11334 2539q11092 2809Q10850 3078q10489 3097);"/>
+                    <Edge cubics="!10489 3097(;10007,3123 9595,2753 9570,2271q10489 3097Q10127 3117q9858 2875Q9589 2632q9570 2271);"/>
+                    <Edge cubics="!9570 2271(;9544,1790 9913,1378 10395,1353q9570 2271Q9551 1910q9792 1641Q10034 1372q10395 1353);"/>
+                    <Edge cubics="!10395 1353(;10877,1327 11288,1696 11314,2178q10395 1353Q10757 1334q11026 1575Q11295 1817q11314 2178);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

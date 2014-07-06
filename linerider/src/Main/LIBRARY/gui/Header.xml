@@ -1,0 +1,155 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gui/Header" itemID="4dfcfa03-000002fa" linkageExportForAS="true" linkageClassName="projeto.gui.Header" sourceLibraryItemHRef="Symbol 1" lastModified="1310632440" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="Header">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/header-nrio-logo.png">
+                  <matrix>
+                    <Matrix tx="-483" ty="13.5"/>
+                  </matrix>
+                </DOMBitmapInstance>
+                <DOMSymbolInstance libraryItemName="gui/_assets header/twitter" name="twitter_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="302" ty="13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="gui/_assets header/facebook" name="facebook_bt" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="338" ty="13"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="gui/_assets header/ondeseraon2011" name="ondeseraon2011_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="393" ty="41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="gui/_assets header/oqueeon021" name="oqueeon021_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="428" ty="41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="gui/_assets header/paraviciados" name="paraviciados_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="463" ty="41"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="10.5" y="10.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="JOGUE NOSSOS OUTROS JOGOS /" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText width="185.9" height="24.3" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="202" ty="47"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>JOGUE NOSSOS OUTROS JOGOS /</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1" size="10" bitmapSize="200" face="Whitney-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="COMPARTILHE / " color="#9933CC" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText width="90.45" height="24.3" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="202" ty="18"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>COMPARTILHE / </characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="1" size="10" bitmapSize="200" face="Whitney-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="linha divisoria" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <DottedStroke scaleMode="normal" weight="2" sharpCorners="true">
+                        <fill>
+                          <SolidColor color="#FFFFFF"/>
+                        </fill>
+                      </DottedStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!3500 260|3500 1280"/>
+                    <Edge cubics="!3500 260(;3500,260 3500,1280 3500,1280q3500 260 3500 1280);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="siteoficial" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gui/_assets header/home_bt" name="home_bt" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-391.05" ty="26.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="31" y="14.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo" color="#9933CC" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="gui/_assets header/fundo" name="fundo" centerPoint3DX="500" centerPoint3DY="40.75">
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

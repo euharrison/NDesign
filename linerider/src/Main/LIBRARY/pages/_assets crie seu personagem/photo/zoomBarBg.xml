@@ -1,0 +1,37 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/zoomBarBg" itemID="4e053be7-000002aa" sourceLibraryItemHRef="Symbol 1" lastModified="1308965864">
+  <timeline>
+    <DOMTimeline name="zoomBarBg">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape isDrawingObject="true">
+                      <matrix>
+                        <Matrix a="0.861434936523438" d="0.861434936523438" tx="-1114.9" ty="-333.4"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#BBBEC0"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!29125 8180|25885 8180!25885 8180|25885 7740!25885 7740|29125 7740!29125 7740|29125 8180"/>
+                        <Edge cubics="!29125 8180(29125,8180;29125,8180 25885,8180 25885,8180p29125 8180 25885 8180);"/>
+                        <Edge cubics="!25885 8180(;25885,8180 25885,7740 25885,7740p25885 8180 25885 7740);"/>
+                        <Edge cubics="!25885 7740(;25885,7740 29125,7740 29125,7740p25885 7740 29125 7740);"/>
+                        <Edge cubics="!29125 7740(;29125,7740 29125,8180 29125,8180p29125 7740 29125 8180);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

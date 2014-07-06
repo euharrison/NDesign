@@ -1,0 +1,407 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets como jogar/_animacao/animacao" itemID="4e24fc59-000003da" sourceLibraryItemHRef="Symbol 1" lastModified="1311183559" lastUniqueIdentifier="5">
+  <timeline>
+    <DOMTimeline name="animacao" currentFrame="104">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" locked="true" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="55" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" duration="50" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="1.7" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!-4010 -1272[-3976 -1267 -3899 -1267!-3899 -1267[-3813 -1266 -3768 -1262!-3768 -1262[-3360 -1221 -2848 -984!-2848 -984[-2495 -820 -1919 -470!-1919 -470[-1207 -38 -1005 72!-1005 72[-500 346 -132 435!-132 435|-7 449!-7 449[87 455 178 450
+!178 450[233 446 286 437!286 437[590 392 761 220!761 220[1020 5 1307 156!1307 156[1595 309 1717 733!1717 733[1872 814 1975 858!1975 858[2068 899 2316 993!2316 993[2494 1061 2669 1125!2669 1125[3243 1331 3783 1393"/>
+                    <Edge cubics="!178 450(;365,437 595,385 761,220q178 450 286 437Q590 392q761 220);"/>
+                    <Edge cubics="!-4010 -1272(;-3944,-1262 -3861,-1271 -3768,-1262q-4010 -1272Q-3976 -1267q-3899 -1267Q-3813 -1266q-3768 -1262);"/>
+                    <Edge cubics="!-7 449(;56,453 117,453 178,450q-7 449Q87 455p178 450);"/>
+                    <Edge cubics="!-132 435(;-132,435 -7,449 -7,449q-132 435 -7 449);"/>
+                    <Edge cubics="!-132 435(;-1257,163 -2560,-1140 -3768,-1262q-132 435Q-500 346q-1005 72Q-1207 -38q-1919 -470Q-2495 -820q-2848 -984Q-3360 -1221q-3768 -1262);"/>
+                    <Edge cubics="!1717 733(;1928,843 1993,870 2316,993q1717 733Q1872 814q1975 858Q2068 899q2316 993);"/>
+                    <Edge cubics="!2316 993(;2432,1038 2548,1079 2669,1125q2316 993 2669 1125);"/>
+                    <Edge cubics="!2669 1125(;3064,1267 3434,1351 3783,1393q2669 1125Q3243 1331q3783 1393);"/>
+                    <Edge cubics="!761 220(;1105,-66 1554,165 1717,733q761 220Q1020 5q1307 156Q1595 309q1717 733);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="tyne" color="#9933CC" parentLayerIndex="0" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="55" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="55" duration="26" tweenType="motion" motionTweenOrientToPath="true" motionTweenSnap="true" keyMode="22273" acceleration="100">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/personagem home animado" name="" centerPoint3DX="-164.1" centerPoint3DY="-81.4">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.258804321289063" c="-0.258804321289063" d="0.965927124023438" tx="-4.2" ty="-112.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-146.55" y="93.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="81" duration="23" tweenType="motion" motionTweenOrientToPath="true" motionTweenSnap="true" keyMode="22273">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/personagem home animado" name="" selected="true" centerPoint3DX="16.95" centerPoint3DY="-1.7">
+                  <matrix>
+                    <Matrix a="0.976470947265625" b="-0.21246337890625" c="0.21246337890625" d="0.976470947265625" tx="144.8" ty="-102.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-146.8" y="93.9"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="104" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/personagem home animado" name="" centerPoint3DX="190.05" centerPoint3DY="46.05">
+                  <matrix>
+                    <Matrix a="0.965927124023438" b="0.258804321289063" c="-0.258804321289063" d="0.965927124023438" tx="350.35" ty="15.2"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="-146.7" y="93.8"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 6" color="#808080" locked="true" autoNamed="false" layerType="guide">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="51" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="1.7" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!-4010 -1272[-3979 -1267 -3899 -1268!-3899 -1268[-3816 -1268 -3768 -1262!-3768 -1262[-3257 -1197 -2722 -954!-2722 -954[-2342 -781 -1806 -443!-1806 -443[-1079 16 -963 82!-963 82[-498 347 -132 435!-132 435|-7 449!-7 449[87 455 178 450!178
+ 450[421 433 761 220!761 220[784 206 1150 395!1150 395[1522 587 1537 643!1537 643[1917 841 2316 993!2316 993[2494 1061 2669 1125!2669 1125[3243 1331 3783 1393"/>
+                    <Edge cubics="!178 450(;365,437 563,344 761,220q178 450Q421 433q761 220);"/>
+                    <Edge cubics="!-4010 -1272(;-3944,-1262 -3861,-1274 -3768,-1262q-4010 -1272Q-3979 -1267q-3899 -1268Q-3816 -1268q-3768 -1262);"/>
+                    <Edge cubics="!-7 449(;56,453 117,453 178,450q-7 449Q87 455p178 450);"/>
+                    <Edge cubics="!-132 435(;-132,435 -7,449 -7,449q-132 435 -7 449);"/>
+                    <Edge cubics="!-132 435(;-1257,163 -2260,-1070 -3768,-1262q-132 435Q-498 347q-963 82Q-1079 16q-1806 -443Q-2342 -781q-2722 -954Q-3257 -1197q-3768 -1262);"/>
+                    <Edge cubics="!1537 643(;1748,753 1993,870 2316,993q1537 643Q1917 841q2316 993);"/>
+                    <Edge cubics="!2316 993(;2432,1038 2548,1079 2669,1125q2316 993 2669 1125);"/>
+                    <Edge cubics="!2669 1125(;3064,1267 3434,1351 3783,1393q2669 1125Q3243 1331q3783 1393);"/>
+                    <Edge cubics="!761 220(;785,205 1515,560 1537,643q761 220Q784 206q1150 395Q1522 587q1537 643);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="lapis" color="#4F80FF" parentLayerIndex="2" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_cursores/pencil" name="" centerPoint3DX="-188.6" centerPoint3DY="-49.45">
+                  <matrix>
+                    <Matrix tx="-199.6" ty="-62.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="4" duration="49" tweenType="motion" motionTweenSnap="true" keyMode="22017">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_cursores/pencil" name="" centerPoint3DX="-188.6" centerPoint3DY="-49.45">
+                  <matrix>
+                    <Matrix tx="-199.6" ty="-62.45"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point y="-1"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="2" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_ferramentas/_cursores/pencil" name="" centerPoint3DX="200.15" centerPoint3DY="83.65">
+                  <matrix>
+                    <Matrix tx="189.15" ty="70.65"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="55" duration="50" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mascara" color="#4FFF4F" locked="true" outline="true" useOutlineView="true" autoNamed="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="32" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFEB.E6, -8.75" startPointB="#FFFFEB.E7, #FFFFF7.41" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="-17.796875, -8.75" anchorPointA="#FFFFF0.82, -8.75" controlPointB="-8.3359375, #FFFFF7.41" anchorPointB="#3.6D, #FFFFF7.41" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFF0.82, #FFFFFE.25" anchorPointA="#FFFFF0.82, #5.0A" controlPointB="#3.6D, -1.484375" anchorPointB="#3.6D, #5.C7" isLine="true"/>
+                    <MorphCurves controlPointA="-17.796875, #5.0A" anchorPointA="#FFFFEB.E6, #5.0A" controlPointB="-8.3359375, #5.C7" anchorPointB="#FFFFEB.E7, #5.C7" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFEB.E6, #FFFFFE.25" anchorPointA="#FFFFEB.E6, -8.75" controlPointB="#FFFFEB.E7, -1.484375" anchorPointB="#FFFFEB.E7, #FFFFF7.41" isLine="true"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFEB.E6, -8.75" startPointB="#FFFFEB.E7, #FFFFF7.41" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="-17.796875, -8.75" anchorPointA="#FFFFF0.82, -8.75" controlPointB="-8.3359375, #FFFFF7.41" anchorPointB="#3.6D, #FFFFF7.41" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFF0.82, #FFFFFE.25" anchorPointA="#FFFFF0.82, #5.0A" controlPointB="#3.6D, -1.484375" anchorPointB="#3.6D, #5.C7" isLine="true"/>
+                    <MorphCurves controlPointA="-17.796875, #5.0A" anchorPointA="#FFFFEB.E6, #5.0A" controlPointB="-8.3359375, #5.C7" anchorPointB="#FFFFEB.E7, #5.C7" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFEB.E6, #FFFFFE.25" anchorPointA="#FFFFEB.E6, -8.75" controlPointB="#FFFFEB.E7, -1.484375" anchorPointB="#FFFFEB.E7, #FFFFF7.41" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <matrix>
+                    <Matrix a="1.05357360839844" tx="13.8"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B575EC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="1.7" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!-4026 -2240S6|-4026 1290!-4026 1290|-5146 1290!-5146 1290|-5146 -2240!-5146 -2240|-4026 -2240"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="36" duration="18" tweenType="shape" keyMode="17922">
+              <MorphShape>
+                <morphSegments>
+                  <MorphSegment startPointA="#FFFFEB.E7, #FFFFF7.41" startPointB="#FFFFEB.E7, #FFFFF7.41" strokeIndex1="0" strokeIndex2="0">
+                    <MorphCurves controlPointA="-8.3359375, #FFFFF7.41" anchorPointA="#3.6D, #FFFFF7.41" controlPointB="-2.34375, #FFFFF7.41" anchorPointB="#F.68, #FFFFF7.41" isLine="true"/>
+                    <MorphCurves controlPointA="#3.6D, -1.484375" anchorPointA="#3.6D, #5.C7" controlPointB="#F.68, -1.25" anchorPointB="#F.68, #6.3E" isLine="true"/>
+                    <MorphCurves controlPointA="-8.3359375, #5.C7" anchorPointA="#FFFFEB.E7, #5.C7" controlPointB="-2.34375, #6.3E" anchorPointB="#FFFFEB.E7, #6.3E" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFEB.E7, -1.484375" anchorPointA="#FFFFEB.E7, #FFFFF7.41" controlPointB="#FFFFEB.E7, -1.25" anchorPointB="#FFFFEB.E7, #FFFFF7.41" isLine="true"/>
+                  </MorphSegment>
+                  <MorphSegment startPointA="#FFFFEB.E7, #FFFFF7.41" startPointB="#FFFFEB.E7, #FFFFF7.41" strokeIndex1="0" strokeIndex2="0" fillIndex1="0" fillIndex2="0">
+                    <MorphCurves controlPointA="-8.3359375, #FFFFF7.41" anchorPointA="#3.6D, #FFFFF7.41" controlPointB="-2.34375, #FFFFF7.41" anchorPointB="#F.68, #FFFFF7.41" isLine="true"/>
+                    <MorphCurves controlPointA="#3.6D, -1.484375" anchorPointA="#3.6D, #5.C7" controlPointB="#F.68, -1.25" anchorPointB="#F.68, #6.3E" isLine="true"/>
+                    <MorphCurves controlPointA="-8.3359375, #5.C7" anchorPointA="#FFFFEB.E7, #5.C7" controlPointB="-2.34375, #6.3E" anchorPointB="#FFFFEB.E7, #6.3E" isLine="true"/>
+                    <MorphCurves controlPointA="#FFFFEB.E7, -1.484375" anchorPointA="#FFFFEB.E7, #FFFFF7.41" controlPointB="#FFFFEB.E7, -1.25" anchorPointB="#FFFFEB.E7, #FFFFF7.41" isLine="true"/>
+                  </MorphSegment>
+                </morphSegments>
+                <morphHintsList/>
+              </MorphShape>
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B575EC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="1.7" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!877 -2239|877 1479!877 1479|-5145 1479!-5145 1479|-5145 -2239!-5145 -2239|877 -2239"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="54" duration="51" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isFloating="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B575EC"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="1.7" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="
+!3944 1598S6|-5145 1598!-5145 1598|-5145 -2239!-5145 -2239|3944 -2239!3944 -2239|3944 1598"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="caminho" color="#FF4F4F" parentLayerIndex="4" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="4" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="4" duration="101" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" weight="1.7" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="
+!-4010 -1272[-3944 -1262 -3768 -1262!-3768 -1262[-3393 -1261 -2891 -1034!-2891 -1034[-2537 -874 -1956 -515!-1956 -515[-1191 -41 -1019 55!-1019 55[-498 346 -132 435!-132 435|-7 449!-7 449[87 455 178 450!178 450[233 446 286 437!286 437
+[590 392 761 220!1522 643[1854 816 2316 993!2316 993[2494 1061 2669 1125!2669 1125[3243 1331 3783 1393"/>
+                    <Edge cubics="!178 450(;365,437 595,385 761,220q178 450 286 437Q590 392q761 220);"/>
+                    <Edge cubics="!-4010 -1272(;-3944,-1262 -3862,-1262 -3768,-1262q-4010 -1272Q-3944 -1262q-3768 -1262);"/>
+                    <Edge cubics="!-7 449(;56,453 117,453 178,450q-7 449Q87 455p178 450);"/>
+                    <Edge cubics="!-132 435(;-132,435 -7,449 -7,449q-132 435 -7 449);"/>
+                    <Edge cubics="!-132 435(;-1257,163 -2660,-1260 -3768,-1262q-132 435Q-498 346q-1019 55Q-1191 -41q-1956 -515Q-2537 -874q-2891 -1034Q-3393 -1261q-3768 -1262);"/>
+                    <Edge cubics="!1522 643(;1733,753 1993,870 2316,993q1522 643Q1854 816q2316 993);"/>
+                    <Edge cubics="!2316 993(;2432,1038 2548,1079 2669,1125q2316 993 2669 1125);"/>
+                    <Edge cubics="!2669 1125(;3064,1267 3434,1351 3783,1393q2669 1125Q3243 1331q3783 1393);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="objetivos" color="#4FFFFF" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="105" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B575EC"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#00ACEE"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!4129 1118[4129 1046 4179 995!4179 995[4230 945 4302 945!4302 945[4374 945 4424 995!4424 995[4475 1046 4475 1118!4475 1118[4475 1190 4424 1240!4424 1240[4374 1291 4302 1291!4302 1291[4230 1291 4179 1240!4179 1240[4129 1190 4129 1118"/>
+                    <Edge fillStyle1="2" edges="
+!970 628[970 556 1020 505!1020 505[1071 455 1143 455!1143 455[1215 455 1265 505!1265 505[1316 556 1316 628!1316 628[1316 700 1265 750!1265 750[1246 769 1225 781!1225 781[1188 801 1143 801!1143 801[1098 801 1061 781!1061 781[1039 769 1020
+ 750!1020 750[970 700 970 628"/>
+                    <Edge cubics="!1143 455(;1191,455 1231,472 1265,505q1143 455Q1215 455q1265 505);"/>
+                    <Edge cubics="!1020 505(;1054,472 1095,455 1143,455q1020 505Q1071 455q1143 455);"/>
+                    <Edge cubics="!1020 750(;987,716 970,676 970,628q1020 750Q970 700q970 628);"/>
+                    <Edge cubics="!1143 801(;1114,801 1088,795 1061,781q1143 801Q1098 801q1061 781);"/>
+                    <Edge cubics="!1061 781(;1049,775 1034,764 1020,750q1061 781Q1039 769q1020 750);"/>
+                    <Edge cubics="!1265 750(;1252,763 1239,773 1225,781q1265 750 1225 781);"/>
+                    <Edge cubics="!1225 781(;1200,794 1173,801 1143,801q1225 781Q1188 801q1143 801);"/>
+                    <Edge cubics="!1316 628(;1316,676 1299,716 1265,750q1316 628Q1316 700q1265 750);"/>
+                    <Edge cubics="!1265 505(;1299,539 1316,580 1316,628q1265 505Q1316 556q1316 628);"/>
+                    <Edge cubics="!970 628(;970,580 987,539 1020,505q970 628Q970 556q1020 505);"/>
+                    <Edge cubics="!4302 945(;4350,945 4390,962 4424,995q4302 945Q4374 945q4424 995);"/>
+                    <Edge cubics="!4179 995(;4213,962 4254,945 4302,945q4179 995Q4230 945q4302 945);"/>
+                    <Edge cubics="!4179 1240(;4146,1206 4129,1166 4129,1118q4179 1240Q4129 1190q4129 1118);"/>
+                    <Edge cubics="!4302 1291(;4254,1291 4213,1274 4179,1240q4302 1291Q4230 1291q4179 1240);"/>
+                    <Edge cubics="!4424 1240(;4390,1274 4350,1291 4302,1291q4424 1240Q4374 1291q4302 1291);"/>
+                    <Edge cubics="!4475 1118(;4475,1166 4458,1206 4424,1240q4475 1118Q4475 1190q4424 1240);"/>
+                    <Edge cubics="!4424 995(;4458,1029 4475,1070 4475,1118q4424 995Q4475 1046q4475 1118);"/>
+                    <Edge cubics="!4129 1118(;4129,1070 4146,1029 4179,995q4129 1118Q4129 1046q4179 995);"/>
+                  </edges>
+                </DOMShape>
+                <DOMStaticText fontRenderingMode="standard" width="10.05" height="16.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="52" ty="23"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>A</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.2" lineSpacing="0" size="14" bitmapSize="280" face="Whitney-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText fontRenderingMode="standard" width="8.05" height="16.1" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="211" ty="48"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>B</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" letterSpacing="0.2" lineSpacing="0" size="14" bitmapSize="280" face="Whitney-Medium" fillColor="#FFFFFF"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="hit" color="#9933CC" locked="true" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="105" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#B575EC" alpha="0"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="
+!-5142 -2955|5143 -2955!5143 -2955|5143 2923!5143 2923|-5142 2923!-5142 2923|-5142 -2955"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

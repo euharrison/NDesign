@@ -1,0 +1,30 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/camisa/seletor camisa gomo" itemID="4e0bf7e2-00000389" sourceLibraryItemHRef="pages/_assets crie seu personagem/seletor calca gomo copy" lastModified="1309409155">
+  <timeline>
+    <DOMTimeline name="seletor camisa gomo">
+      <layers>
+        <DOMLayer name="Isolation Mode" color="#0000FF" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!14 -1383|14 -926!14 -926[200 -922 372 -845!372 -845|570 -1256!570 -1256[306 -1379 14 -1383"/>
+                    <Edge cubics="!570 -1256(570,-1256;400,-1335 212,-1380 14,-1383q570 -1256Q306 -1379q14 -1383);"/>
+                    <Edge cubics="!14 -1383(14,-1383;14,-1383 14,-926 14,-926q14 -1383 14 -926);"/>
+                    <Edge cubics="!14 -926(14,-926;141,-923 262,-894 372,-845q14 -926Q200 -922q372 -845);"/>
+                    <Edge cubics="!372 -845(;372,-845 570,-1256 570,-1256q372 -845 570 -1256);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

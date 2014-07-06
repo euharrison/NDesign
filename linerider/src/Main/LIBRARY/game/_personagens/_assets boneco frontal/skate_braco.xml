@@ -1,0 +1,50 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco frontal/skate_braco" itemID="4e03d05a-00000530" sourceLibraryItemHRef="Symbol 1" lastModified="1308872794">
+  <timeline>
+    <DOMTimeline name="skate_braco">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!59 -107|60 107!60 107[61 131 38 149!38 149[21 160 0 160!0 160[-25 158 -42 143!-42 143[-59 127 -59 106!-59 106|-60 -107!-60 -107[-60 -129 -41 -145!-41 -145[-23 -160 0 -160!0 -160[25 -160 40 -143!40 -143[58 -131 59 -107"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!27 -129[15 -140 0 -139!0 -139[-14 -140 -24 -133!-24 -133[-38 -124 -37 -107!-37 -107|-38 105!-38 105[-38 119 -26 131!-26 131[-14 141 1 141!1 141[15 140 27 131!27 131[38 121 38 106!38 106|38 -106!38 -106[36 -120 27 -129"/>
+                    <Edge cubics="!38 -106(;36,-115 33,-123 27,-129q38 -106Q36 -120q27 -129);"/>
+                    <Edge cubics="!27 -129(;19,-136 10,-140 0,-139q27 -129Q15 -140q0 -139);"/>
+                    <Edge cubics="!40 -143(;52,-135 58,-123 59,-107q40 -143Q58 -131q59 -107);"/>
+                    <Edge cubics="!0 -160(;17,-160 30,-154 40,-143q0 -160Q25 -160q40 -143);"/>
+                    <Edge cubics="!1 141(;10,140 19,137 27,131q1 141Q15 140q27 131);"/>
+                    <Edge cubics="!27 131(;34,124 38,116 38,106q27 131Q38 121q38 106);"/>
+                    <Edge cubics="!60 107(;61,123 53,137 38,149q60 107Q61 131q38 149);"/>
+                    <Edge cubics="!38 106(;38,106 38,-106 38,-106q38 106 38 -106);"/>
+                    <Edge cubics="!59 -107(;59,-107 60,107 60,107q59 -107 60 107);"/>
+                    <Edge cubics="!-24 -133(;-33,-127 -38,-118 -37,-107q-24 -133Q-38 -124q-37 -107);"/>
+                    <Edge cubics="!-60 -107(;-60,-122 -54,-134 -41,-145q-60 -107Q-60 -129q-41 -145);"/>
+                    <Edge cubics="!-38 105(;-38,114 -34,123 -26,131q-38 105Q-38 119q-26 131);"/>
+                    <Edge cubics="!-42 143(;-53,132 -59,120 -59,106q-42 143Q-59 127q-59 106);"/>
+                    <Edge cubics="!0 160(;-17,159 -31,153 -42,143q0 160Q-25 158q-42 143);"/>
+                    <Edge cubics="!-37 -107(;-37,-107 -38,105 -38,105q-37 -107 -38 105);"/>
+                    <Edge cubics="!-59 106(;-59,106 -60,-107 -60,-107q-59 106 -60 -107);"/>
+                    <Edge cubics="!0 -139(;-9,-140 -17,-138 -24,-133q0 -139Q-14 -140q-24 -133);"/>
+                    <Edge cubics="!-26 131(;-18,138 -9,141 1,141q-26 131Q-14 141q1 141);"/>
+                    <Edge cubics="!-41 -145(;-29,-155 -15,-160 0,-160q-41 -145Q-23 -160q0 -160);"/>
+                    <Edge cubics="!38 149(;27,156 14,160 0,160q38 149Q21 160q0 160);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

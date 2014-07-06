@@ -1,0 +1,31 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/gaivotas e losangos.ai Assets/Layer 1/&lt;Path&gt;_4" itemID="4d90ec30-00000217" lastModified="1301343280">
+  <timeline>
+    <DOMTimeline name="&lt;Path&gt;_4">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <DashedStroke dash1="1" scaleMode="normal" weight="2">
+                        <fill>
+                          <SolidColor color="#69D2E7"/>
+                        </fill>
+                      </DashedStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!20 20|74 800"/>
+                    <Edge cubics="!20 20(;20,20 74,800 74,800q20 20 74 800);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

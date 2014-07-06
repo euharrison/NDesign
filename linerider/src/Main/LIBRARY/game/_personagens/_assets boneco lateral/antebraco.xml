@@ -1,0 +1,45 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco lateral/antebraco" itemID="4e1e73b5-00000564" sourceLibraryItemHRef="Symbol 1" lastModified="1310618549">
+  <timeline>
+    <DOMTimeline name="antebraco">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix a="0.629318237304688" b="0.777145385742188" c="-0.777145385742188" d="0.629318237304688" tx="12.25" ty="-268.6"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!3963 3468|4134 3604!4134 3604[4148 3615 4150 3634!4150 3634[4152 3652 4141 3666!4141 3666[4130 3680 4112 3682!4112 3682[4093 3684 4079 3673!4079 3673|3907 3537!3907 3537[3893 3526 3891 3508!3891 3508[3889 3489 3900 3475!3900 3475[3911
+ 3461 3930 3458!3930 3458[3948 3456 3963 3468"/>
+                    <Edge cubics="!4141 3666(;4126,3685 4098,3688 4079,3673q4141 3666Q4130 3680q4112 3682Q4093 3684q4079 3673);"/>
+                    <Edge cubics="!4079 3673(;4079,3673 3907,3537 3907,3537q4079 3673 3907 3537);"/>
+                    <Edge cubics="!3907 3537(;3888,3522 3885,3494 3900,3475q3907 3537Q3893 3526q3891 3508Q3889 3489q3900 3475);"/>
+                    <Edge cubics="!3900 3475(;3915,3456 3943,3452 3963,3468q3900 3475Q3911 3461q3930 3458Q3948 3456q3963 3468);"/>
+                    <Edge cubics="!3963 3468(;3963,3468 4134,3604 4134,3604q3963 3468 4134 3604);"/>
+                    <Edge cubics="!4134 3604(;4153,3619 4156,3647 4141,3666q4134 3604Q4148 3615q4150 3634Q4152 3652q4141 3666);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

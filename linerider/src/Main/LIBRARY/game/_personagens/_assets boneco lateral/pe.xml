@@ -1,0 +1,47 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco lateral/pe" itemID="4e1e73c4-0000056a" sourceLibraryItemHRef="Symbol 1" lastModified="1310618564">
+  <timeline>
+    <DOMTimeline name="pe">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-197.65" ty="-196.9"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge fillStyle1="1" strokeStyle="1" edges="!4001 3804|4001 4029!4001 4029|4070 4029!4070 4029[4088 4029 4101 4042!4101 4042[4114 4054 4114 4073!4114 4073[4114 4091 4101 4104!4101 4104[4088 4117 4070 4117!4070 4117|3912 4117!3912 4117|3912 3804!3912 3804[3912 3785 3925 3772!3925
+ 3772[3938 3759 3956 3759!3956 3759[3975 3759 3988 3772!3988 3772[4001 3785 4001 3804"/>
+                    <Edge cubics="!4070 4117(;4070,4117 3912,4117 3912,4117p4070 4117 3912 4117);"/>
+                    <Edge cubics="!3912 4117(;3912,4117 3912,3804 3912,3804q3912 4117 3912 3804);"/>
+                    <Edge cubics="!3912 3804(;3912,3779 3932,3759 3956,3759q3912 3804Q3912 3785q3925 3772Q3938 3759q3956 3759);"/>
+                    <Edge cubics="!3956 3759(;3981,3759 4001,3779 4001,3804q3956 3759Q3975 3759q3988 3772Q4001 3785q4001 3804);"/>
+                    <Edge cubics="!4001 3804(;4001,3804 4001,4029 4001,4029q4001 3804 4001 4029);"/>
+                    <Edge cubics="!4001 4029(;4001,4029 4070,4029 4070,4029q4001 4029 4070 4029);"/>
+                    <Edge cubics="!4070 4029(;4094,4029 4114,4048 4114,4073q4070 4029Q4088 4029q4101 4042Q4114 4054q4114 4073);"/>
+                    <Edge cubics="!4114 4073(;4114,4097 4094,4117 4070,4117q4114 4073Q4114 4091q4101 4104Q4088 4117q4070 4117);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

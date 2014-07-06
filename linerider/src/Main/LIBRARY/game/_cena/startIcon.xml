@@ -1,0 +1,219 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_cena/startIcon" itemID="4e13d302-00000517" sourceLibraryItemHRef="Symbol 1" lastModified="1311095906" lastUniqueIdentifier="10">
+  <timeline>
+    <DOMTimeline name="startIcon" currentFrame="84">
+      <layers>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="90" keyMode="9728">
+              <Actionscript>
+                <script><![CDATA[stop();]]></script>
+              </Actionscript>
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="6" name="skate" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="6" duration="12" name="skate_espelho" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" duration="14" name="carrinhocompras" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="32" duration="21" name="carrinhocompras_espelho" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="53" duration="6" name="treno" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="59" duration="13" name="treno_espelho" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" duration="6" name="bike" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="78" duration="11" name="bike_espelho" labelType="name" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="89" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_cena/start texto" name="" centerPoint3DY="85">
+                  <matrix>
+                    <Matrix tx="-16.5" ty="81"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.5" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="35" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_cena/start texto" name="" centerPoint3DX="7.6" centerPoint3DY="66.6">
+                  <matrix>
+                    <Matrix tx="-8.9" ty="62.6"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.5" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="19" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_cena/start texto" name="" centerPoint3DX="11.5" centerPoint3DY="75.25">
+                  <matrix>
+                    <Matrix tx="-5" ty="71.25"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.5" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="18" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_cena/start texto" name="" centerPoint3DX="-0.4" centerPoint3DY="89.35">
+                  <matrix>
+                    <Matrix tx="-16.9" ty="85.35"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="16.5" y="4"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fase-start-skate.png" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-skate.png">
+                  <matrix>
+                    <Matrix tx="-14.5" ty="71"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="6" duration="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-skate.png">
+                  <matrix>
+                    <Matrix a="-1" tx="14.5" ty="71"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="14.5" y="3"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="18" duration="72" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fase-start-compras.png" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="18" duration="14" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-compras.png">
+                  <matrix>
+                    <Matrix tx="-25" ty="20"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="32" duration="21" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-compras.png">
+                  <matrix>
+                    <Matrix a="-1" tx="39.1" ty="20"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.5" y="18.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="53" duration="37" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fase-start-treno.png" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="53" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="53" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-treno.png">
+                  <matrix>
+                    <Matrix tx="-12" ty="42"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="59" duration="13" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-treno.png">
+                  <matrix>
+                    <Matrix a="-1" tx="30.8" ty="42"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="23.5" y="11.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="72" duration="18" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fase-start-bike.png" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="72" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+            <DOMFrame index="72" duration="6" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-bike.png">
+                  <matrix>
+                    <Matrix tx="-29" ty="51"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+            <DOMFrame index="78" duration="12" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="bmp/fase-start-bike.png">
+                  <matrix>
+                    <Matrix a="-1" tx="27" ty="51"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="28" y="14.5"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

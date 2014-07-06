@@ -1,0 +1,24 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/personagem home animado" itemID="4e03724a-000002f9" sourceLibraryItemHRef="Symbol 2" lastModified="1311045935">
+  <timeline>
+    <DOMTimeline name="personagem home animado">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" libraryItemName="pages/_assets home/_assets animacao home/personagem_home.png">
+                  <matrix>
+                    <Matrix a="0.591461181640625" d="0.591461181640625" tx="-162.9" ty="47.1"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="27.45" y="41"/>
+                  </transformationPoint>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,43 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets botoes home/flash0.ai Assets_2/Layer 1/&lt;Path&gt;_5" itemID="4e03c549-0000059e" lastModified="1308869961">
+  <timeline>
+    <DOMTimeline name="&lt;Path&gt;_5">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <LinearGradient>
+                        <matrix>
+                          <Matrix a="-0.0044403076171875" d="-0.0044403076171875" tx="3.65" ty="10.4"/>
+                        </matrix>
+                        <GradientEntry color="#FFFFFF" ratio="0"/>
+                        <GradientEntry color="#C4C4C4" ratio="0.12156862745098"/>
+                        <GradientEntry color="#909090" ratio="0.247058823529412"/>
+                        <GradientEntry color="#646464" ratio="0.372549019607843"/>
+                        <GradientEntry color="#404040" ratio="0.498039215686275"/>
+                        <GradientEntry color="#242424" ratio="0.623529411764706"/>
+                        <GradientEntry color="#101010" ratio="0.749019607843137"/>
+                        <GradientEntry color="#040404" ratio="0.874509803921569"/>
+                        <GradientEntry ratio="1"/>
+                      </LinearGradient>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!0 359|146 415!146 415|146 61!146 61|0 0!0 0|0 359"/>
+                    <Edge cubics="!0 359(;0,359 146,415 146,415q0 359 146 415);"/>
+                    <Edge cubics="!146 415(;146,415 146,61 146,61q146 415 146 61);"/>
+                    <Edge cubics="!146 61(;146,61 0,0 0,0q146 61 0 0);"/>
+                    <Edge cubics="!0 0(;0,0 0,359 0,359q0 0 0 359);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

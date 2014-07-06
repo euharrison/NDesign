@@ -1,0 +1,62 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/Tween 110" itemID="4e1538c2-0000030f" symbolType="graphic" lastModified="1310013634">
+  <timeline>
+    <DOMTimeline name="Tween 110">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/losango tracejado" name="" selected="true" centerPoint3DX="3.8" centerPoint3DY="11.3">
+                          <matrix>
+                            <Matrix tx="-4.85" ty="-2.85"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="8.65" y="14.15"/>
+                          </transformationPoint>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-12.8" ty="-43.65"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" weight="0.5" joints="miter" miterLimit="4">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle0="1" strokeStyle="1" edges="!6 532|159 816!159 816|200 583!200 583|87 363!87 363|6 532"/>
+                            <Edge cubics="!159 816(;159,816 200,583 200,583p159 816 200 583);"/>
+                            <Edge cubics="!200 583(;200,583 87,363 87,363p200 583 87 363);"/>
+                            <Edge cubics="!87 363(;87,363 6,532 6,532p87 363 6 532);"/>
+                            <Edge cubics="!6 532(;6,532 159,816 159,816p6 532 159 816);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

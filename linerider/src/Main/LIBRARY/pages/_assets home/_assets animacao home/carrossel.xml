@@ -1,0 +1,300 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/carrossel" itemID="4e1147c3-00000845" sourceLibraryItemHRef="Symbol 1" lastModified="1309756036" lastUniqueIdentifier="11">
+  <timeline>
+    <DOMTimeline name="carrossel">
+      <layers>
+        <DOMLayer name="Layer 6" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 8" color="#FF4F4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cavalo" name="" centerPoint3DX="-12.4" centerPoint3DY="-1.05">
+                  <matrix>
+                    <Matrix tx="-12.9" ty="-1.55"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cavalo 2" name="" centerPoint3DX="12.25" centerPoint3DY="-2">
+                  <matrix>
+                    <Matrix tx="11.75" ty="-2.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cavalo" name="" centerPoint3DX="39.5" centerPoint3DY="2.45">
+                  <matrix>
+                    <Matrix tx="39" ty="1.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/cavalo 2" name="" centerPoint3DX="-38.2" centerPoint3DY="2.9">
+                  <matrix>
+                    <Matrix tx="-38.7" ty="2.4"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="0.5" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 10" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="&lt;Group&gt;" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/flash0.ai Assets_1/texturas tras/&lt;Group&gt;" name="" centerPoint3DX="0.45" centerPoint3DY="22.1">
+                  <matrix>
+                    <Matrix tx="-44.05" ty="12.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="44.5" y="9.15"/>
+                  </transformationPoint>
+                  <filters>
+                    <DropShadowFilter alpha="0.2" angle="269.999993169811" blurX="1.25760006904602" blurY="1.25760006904602" distance="0.865899980068207"/>
+                  </filters>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 12" color="#FF4FFF">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-314.55" ty="-276"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#F62E8D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!7081 5187|7081 6008"/>
+                    <Edge cubics="!7081 5187(;7081,5187 7081,6008 7081,6008q7081 5187 7081 6008);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 13" color="#4FFFFF">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-314.55" ty="-276"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#F62E8D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!6538 5135|6538 5956"/>
+                    <Edge cubics="!6538 5135(;6538,5135 6538,5956 6538,5956q6538 5135 6538 5956);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 14" color="#808080">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-314.55" ty="-276"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#F62E8D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!5527 5187|5527 6008"/>
+                    <Edge cubics="!5527 5187(5527,5187;5527,5187 5527,6008 5527,6008q5527 5187 5527 6008);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 15" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-314.55" ty="-276"/>
+                  </matrix>
+                  <strokes>
+                    <StrokeStyle index="1">
+                      <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                        <fill>
+                          <SolidColor color="#F62E8D"/>
+                        </fill>
+                      </SolidStroke>
+                    </StrokeStyle>
+                  </strokes>
+                  <edges>
+                    <Edge strokeStyle="1" edges="!6029 5135|6029 5956"/>
+                    <Edge cubics="!6029 5135(;6029,5135 6029,5956 6029,5956q6029 5135 6029 5956);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 16" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-314.55" ty="-276"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFC17E"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6755 5866|5845 5866!5845 5866|5845 5248!5845 5248|6755 5248!6755 5248|6755 5866"/>
+                    <Edge cubics="!5845 5248(;5845,5248 6755,5248 6755,5248q5845 5248 6755 5248);"/>
+                    <Edge cubics="!6755 5248(;6755,5248 6755,5866 6755,5866q6755 5248 6755 5866);"/>
+                    <Edge cubics="!6755 5866(;6755,5866 5845,5866 5845,5866q6755 5866 5845 5866);"/>
+                    <Edge cubics="!5845 5866(;5845,5866 5845,5248 5845,5248q5845 5866 5845 5248);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 17" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMShape isDrawingObject="true">
+                  <matrix>
+                    <Matrix tx="-314.55" ty="-276"/>
+                  </matrix>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFC17E"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!6622 5300[6488 5319 6300 5319!6300 5319[6112 5319 5978 5300!5978 5300[5845 5280 5845 5253!5845 5253[5845 5225 5978 5206!5978 5206[6111 5187 6300 5187!6300 5187[6489 5187 6622 5206!6622 5206[6755 5225 6755 5253!6755 5253[6755 5280 6622
+ 5300"/>
+                    <Edge cubics="!5845 5253(5845,5253;5845,5216 6049,5187 6300,5187q5845 5253Q5845 5225q5978 5206Q6111 5187q6300 5187);"/>
+                    <Edge cubics="!6300 5187(6300,5187;6551,5187 6755,5216 6755,5253q6300 5187Q6489 5187q6622 5206Q6755 5225q6755 5253);"/>
+                    <Edge cubics="!6755 5253(6755,5253;6755,5289 6551,5319 6300,5319q6755 5253Q6755 5280q6622 5300Q6488 5319q6300 5319);"/>
+                    <Edge cubics="!6300 5319(;6049,5319 5845,5289 5845,5253q6300 5319Q6112 5319q5978 5300Q5845 5280q5845 5253);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 18" color="#9933CC">
+          <frames>
+            <DOMFrame index="0" duration="40" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-314.55" ty="-276"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F62E8D"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!6943 5331[6678 5374 6302 5374!6302 5374[5927 5374 5662 5331!5662 5331[5396 5289 5396 5228!5396 5228[5396 5167 5662 5124!5662 5124[5927 5081 6302 5081!6302 5081[6678 5081 6943 5124!6943 5124[7209 5167 7209 5228!7209 5228[7209 5289 6943
+ 5331"/>
+                        <Edge cubics="!5396 5228(;5396,5147 5802,5081 6302,5081q5396 5228Q5396 5167q5662 5124Q5927 5081q6302 5081)6302,5081;"/>
+                        <Edge cubics="!6302 5081(;6803,5081 7209,5147 7209,5228q6302 5081Q6678 5081q6943 5124Q7209 5167q7209 5228);"/>
+                        <Edge cubics="!7209 5228(;7209,5309 6803,5374 6302,5374q7209 5228Q7209 5289q6943 5331Q6678 5374q6302 5374);"/>
+                        <Edge cubics="!6302 5374(6302,5374;5802,5374 5396,5309 5396,5228q6302 5374Q5927 5374q5662 5331Q5396 5289q5396 5228);"/>
+                      </edges>
+                    </DOMShape>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-314.55" ty="-276"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#F62E8D"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="
+!7209 5228|5396 5228!5396 5228|5396 5060!5396 5060[5396 4999 5662 4957!5662 4957[5927 4914 6302 4914!6302 4914[6678 4914 6943 4957!6943 4957[7209 4999 7209 5060!7209 5060|7209 5228"/>
+                        <Edge cubics="!5396 5228(;5396,5228 5396,5060 5396,5060q5396 5228 5396 5060);"/>
+                        <Edge cubics="!5396 5060(5396,5060;5396,4979 5802,4914 6302,4914q5396 5060Q5396 4999q5662 4957Q5927 4914q6302 4914);"/>
+                        <Edge cubics="!6302 4914(;6803,4914 7209,4979 7209,5060q6302 4914Q6678 4914q6943 4957Q7209 4999q7209 5060)7209,5060;"/>
+                        <Edge cubics="!7209 5060(7209,5060;7209,5060 7209,5228 7209,5228q7209 5060 7209 5228)7209,5228;"/>
+                        <Edge cubics="!7209 5228(7209,5228;6302,5228 6302,5228 5396,5228q7209 5228 5396 5228);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

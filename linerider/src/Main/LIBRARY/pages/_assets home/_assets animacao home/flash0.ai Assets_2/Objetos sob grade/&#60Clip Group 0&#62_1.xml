@@ -1,0 +1,74 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/flash0.ai Assets_2/Objetos sob grade/&lt;Clip Group 0&gt;_1" itemID="4e0397f8-00000345" lastModified="1308858360">
+  <timeline>
+    <DOMTimeline name="&lt;Clip Group 0&gt;_1">
+      <layers>
+        <DOMLayer name="Layer 4" color="#FF4FFF" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 2" color="#9933CC" locked="true" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FF0000"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="1" edges="!622 106[516 0 365 0!365 0[214 0 107 106!107 106[0 213 0 363!0 363[0 513 107 619!107 619|622 106"/>
+                    <Edge cubics="!622 106(;480,-35 249,-35 107,106q622 106Q516 0q365 0Q214 0q107 106);"/>
+                    <Edge cubics="!107 106(;-36,248 -36,477 107,619q107 106Q0 213q0 363Q0 513q107 619);"/>
+                    <Edge cubics="!107 619(;364,362 364,362 622,106q107 619 622 106);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 3" color="#FF800A" parentLayerIndex="1" locked="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape selected="true" isDrawingObject="true">
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor color="#FFFFFF"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle1="1" edges="!205 230|205 455!205 455[205 466 213 473!213 473[220 481 232 481!232 481[244 481 252 473!252 473[259 466 259 455!259 455|259 230!259 230[259 219 252 211!252 211[244 203 232 203!232 203[220 203 213 211!213 211[205 219 205 230!293 237|293
+ 448!293 448[293 477 276 496!276 496[260 514 232 514!232 514[205 514 188 496!188 496[170 477 170 448!170 448|170 237!170 237[170 207 188 189!188 189[205 171 232 171!232 171[260 171 276 189!276 189[293 207 293 237"/>
+                    <Edge cubics="!259 230(;259,216 248,203 232,203q259 230Q259 219q252 211Q244 203q232 203);"/>
+                    <Edge cubics="!232 203(;216,203 205,216 205,230q232 203Q220 203q213 211Q205 219q205 230);"/>
+                    <Edge cubics="!205 230(;205,230 205,455 205,455q205 230 205 455);"/>
+                    <Edge cubics="!205 455(;205,469 216,481 232,481q205 455Q205 466q213 473Q220 481q232 481);"/>
+                    <Edge cubics="!232 481(;248,481 259,469 259,455q232 481Q244 481q252 473Q259 466q259 455);"/>
+                    <Edge cubics="!259 455(;259,455 259,230 259,230q259 455 259 230);"/>
+                    <Edge cubics="!232 514(;196,514 170,487 170,448q232 514Q205 514q188 496Q170 477q170 448);"/>
+                    <Edge cubics="!170 448(;170,448 170,237 170,237q170 448 170 237);"/>
+                    <Edge cubics="!170 237(;170,197 196,171 232,171q170 237Q170 207q188 189Q205 171q232 171);"/>
+                    <Edge cubics="!232 171(;269,171 293,197 293,237q232 171Q260 171q276 189Q293 207q293 237);"/>
+                    <Edge cubics="!293 237(;293,237 293,448 293,448q293 237 293 448);"/>
+                    <Edge cubics="!293 448(;293,487 269,514 232,514q293 448Q293 477q276 496Q260 514q232 514);"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 1" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements/>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

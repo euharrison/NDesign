@@ -1,0 +1,38 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/Tween 47" itemID="4e042223-00000221" symbolType="graphic" lastModified="1308893731">
+  <timeline>
+    <DOMTimeline name="Tween 47">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMShape selected="true" isDrawingObject="true">
+                      <matrix>
+                        <Matrix tx="-521.55" ty="-59.4"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#B676EC"/>
+                        </FillStyle>
+                      </fills>
+                      <edges>
+                        <Edge fillStyle1="1" edges="!10286 1109|10577 1109!10577 1109|10497 1189!10497 1189|10577 1266!10577 1266|10286 1266!10286 1266|10286 1109"/>
+                        <Edge cubics="!10286 1266(;10286,1266 10286,1109 10286,1109q10286 1266 10286 1109);"/>
+                        <Edge cubics="!10286 1109(;10286,1109 10577,1109 10577,1109q10286 1109 10577 1109);"/>
+                        <Edge cubics="!10577 1109(;10577,1109 10497,1189 10497,1189q10577 1109 10497 1189);"/>
+                        <Edge cubics="!10497 1189(;10497,1189 10577,1266 10577,1266q10497 1189 10577 1266);"/>
+                        <Edge cubics="!10577 1266(;10577,1266 10286,1266 10286,1266q10577 1266 10286 1266);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,216 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_dialog/last" itemID="4e128be4-00000582" sourceLibraryItemHRef="telaTransicao copy" lastModified="1311097516" lastUniqueIdentifier="3">
+  <timeline>
+    <DOMTimeline name="last">
+      <layers>
+        <DOMLayer name="Layer 2" color="#9933CC" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_botoes/recomecar" name="recomecar" selected="true" symbolType="button">
+                  <matrix>
+                    <Matrix tx="36" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="twitter" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_botoes/twitter" name="twitter" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-162.45" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="inscrevase" color="#808080" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_botoes/inscrevase" name="inscrevase" symbolType="button">
+                  <matrix>
+                    <Matrix tx="157.5" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="facebook" color="#4F80FF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_botoes/facebook" name="facebook" symbolType="button">
+                  <matrix>
+                    <Matrix tx="-85.8" ty="14.5"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="numero" color="#FF800A" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMDynamicText name="numero" fontRenderingMode="standard" width="79.05" height="48" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-270.45" ty="-92.8"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>021</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" letterSpacing="3" lineSpacing="0" size="46" bitmapSize="920" face="Knockout 27*" fillColor="#EEEEEE"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMDynamicText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="ZEROU... WIN!" color="#FF4FFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText width="142.05" height="36.95" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-163.05" ty="-85"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>ZEROU... WIN!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" size="36" bitmapSize="720" face="Knockout 27*" fillColor="#F72E8A"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 7" color="#4F80FF">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMStaticText left="-6.85" width="157.7" height="14.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-194.2" ty="58"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>compartilhe esta experiência</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="13" bitmapSize="260" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="39.15" width="65.7" height="14.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="84" ty="58"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>inscreva-se!</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="13" bitmapSize="260" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="-27.35" width="229.4" height="27.6" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="7" ty="-79.05"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>Esperamos que tenha sido produtivo&#xD;este ensaio sobre escolhas na vida.</characters>
+                      <textAttrs>
+                        <DOMTextAttrs aliasText="false" rotation="true" letterSpacing="1" lineSpacing="0" bitmapSize="240" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+                <DOMStaticText left="42.85" width="58.3" height="14.95" autoExpand="true" isSelectable="false">
+                  <matrix>
+                    <Matrix tx="-33.5" ty="58"/>
+                  </matrix>
+                  <textRuns>
+                    <DOMTextRun>
+                      <characters>recomecar</characters>
+                      <textAttrs>
+                        <DOMTextAttrs alignment="center" aliasText="false" rotation="true" lineSpacing="0" size="13" bitmapSize="260" face="Whitney*" fillColor="#87898D"/>
+                      </textAttrs>
+                    </DOMTextRun>
+                  </textRuns>
+                </DOMStaticText>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="transicao-fim-fase.png" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMBitmapInstance name="" referenceID="" selected="true" libraryItemName="bmp/transicao-fim-jogo.png">
+                  <matrix>
+                    <Matrix tx="-284" ty="-122"/>
+                  </matrix>
+                </DOMBitmapInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="last animacao" color="#FF4F4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_animacoes/last animacao" name="" centerPoint3DX="-60.6" centerPoint3DY="-27.7">
+                  <matrix>
+                    <Matrix tx="-284" ty="-121.7"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="223.4" y="93.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fundo rebaixado" color="#4FFF4F" locked="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="game/_dialog/_fundo rebaixado" name="" centerPoint3DX="1121.5" centerPoint3DY="745.5">
+                  <transformationPoint>
+                    <Point x="-0.5" y="0.5"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,65 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/Tween 113" itemID="4e15393c-00000315" symbolType="graphic" lastModified="1310013756">
+  <timeline>
+    <DOMTimeline name="Tween 113">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/gaivotas e losangos.ai Assets/Layer 1/&lt;Path&gt;_4" name="" selected="true" blendMode="layer" centerPoint3DX="1.65" centerPoint3DY="12">
+                          <matrix>
+                            <Matrix tx="-0.7" ty="-8.5"/>
+                          </matrix>
+                          <transformationPoint>
+                            <Point x="2.35" y="20.5"/>
+                          </transformationPoint>
+                          <color>
+                            <Color alphaMultiplier="0.83984375"/>
+                          </color>
+                        </DOMSymbolInstance>
+                      </members>
+                    </DOMGroup>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix tx="-34.1" ty="-32.45"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <strokes>
+                            <StrokeStyle index="1">
+                              <SolidStroke scaleMode="normal" caps="none" weight="0.5" joints="miter" miterLimit="4">
+                                <fill>
+                                  <SolidColor/>
+                                </fill>
+                              </SolidStroke>
+                            </StrokeStyle>
+                          </strokes>
+                          <edges>
+                            <Edge fillStyle0="1" strokeStyle="1" edges="!688 499|752 249!752 249|688 18!688 18|612 258!612 258|688 499"/>
+                            <Edge cubics="!688 499(;688,499 752,249 752,249p688 499 752 249);"/>
+                            <Edge cubics="!752 249(;752,249 688,18 688,18p752 249 688 18);"/>
+                            <Edge cubics="!688 18(;688,18 612,258 612,258p688 18 612 258);"/>
+                            <Edge cubics="!612 258(;612,258 688,499 688,499p612 258 688 499);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

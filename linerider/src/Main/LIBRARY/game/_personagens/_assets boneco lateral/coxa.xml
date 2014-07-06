@@ -1,0 +1,52 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="game/_personagens/_assets boneco lateral/coxa" itemID="4e1e73bf-00000568" sourceLibraryItemHRef="Symbol 1" lastModified="1310618559">
+  <timeline>
+    <DOMTimeline name="coxa">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <matrix>
+                    <Matrix tx="44.85" ty="-27.1"/>
+                  </matrix>
+                  <members>
+                    <DOMShape>
+                      <matrix>
+                        <Matrix tx="44.85" ty="-27.1"/>
+                      </matrix>
+                      <fills>
+                        <FillStyle index="1">
+                          <SolidColor color="#FFFFFF"/>
+                        </FillStyle>
+                      </fills>
+                      <strokes>
+                        <StrokeStyle index="1">
+                          <SolidStroke scaleMode="normal" caps="none" joints="miter" miterLimit="4">
+                            <fill>
+                              <SolidColor/>
+                            </fill>
+                          </SolidStroke>
+                        </StrokeStyle>
+                      </strokes>
+                      <edges>
+                        <Edge fillStyle1="1" strokeStyle="1" edges="!-843 404S6|-844 678!-844 678[-844 701 -859 716!-859 716[-875 732 -898 733!-898 733[-918 733 -935 716!-935 716[-950 700 -950 678!-950 678|-949 403!-949 403[-949 382 -934 366!-934 366[-919 351 -897 351!-897 351[-875 351 -859 366!-859 366
+[-843 381 -843 404"/>
+                        <Edge cubics="!-898 733(;-926,732 -950,708 -950,678q-898 733Q-918 733q-935 716Q-950 700q-950 678);"/>
+                        <Edge cubics="!-950 678(;-950,678 -949,403 -949,403q-950 678 -949 403);"/>
+                        <Edge cubics="!-949 403(;-950,375 -927,351 -897,351q-949 403Q-949 382q-934 366Q-919 351q-897 351);"/>
+                        <Edge cubics="!-897 351(;-867,351 -844,375 -843,404q-897 351Q-875 351q-859 366Q-843 381q-843 404);"/>
+                        <Edge cubics="!-843 404(;-843,404 -844,678 -844,678q-843 404 -844 678);"/>
+                        <Edge cubics="!-844 678(;-844,707 -867,732 -898,733q-844 678Q-844 701q-859 716Q-875 732q-898 733);"/>
+                      </edges>
+                    </DOMShape>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

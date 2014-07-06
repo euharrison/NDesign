@@ -1,0 +1,34 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets home/_assets animacao home/Tween 106" itemID="4e1526e9-000002fd" symbolType="graphic" lastModified="1310009065">
+  <timeline>
+    <DOMTimeline name="Tween 106">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup selected="true">
+                  <transformationPoint>
+                    <Point x="8.5" y="13.9"/>
+                  </transformationPoint>
+                  <members>
+                    <DOMSymbolInstance libraryItemName="pages/_assets home/_assets animacao home/gaivotas e losangos.ai Assets/Layer 1/&lt;Path&gt;_5" name="" selected="true" blendMode="layer">
+                      <matrix>
+                        <Matrix tx="-9.65" ty="-15.15"/>
+                      </matrix>
+                      <transformationPoint>
+                        <Point x="17.55" y="28.8"/>
+                      </transformationPoint>
+                      <color>
+                        <Color alphaMultiplier="0.83984375"/>
+                      </color>
+                    </DOMSymbolInstance>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

@@ -1,0 +1,148 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="pages/_assets crie seu personagem/photo/ZoomBar" itemID="4e1bd406-0000039f" linkageExportForAS="true" linkageClassName="projeto.gui.ZoomBar" sourceLibraryItemHRef="Symbol 1" lastModified="1310446598" lastUniqueIdentifier="9">
+  <timeline>
+    <DOMTimeline name="ZoomBar">
+      <layers>
+        <DOMLayer name="Layer 8" color="#FF4F4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.86181640625" d="0.86181640625" tx="-1115.4" ty="-260.15"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="!28946 6322|29026 6322!29026 6322|29026 6355!29026 6355|28946 6355!28946 6355|28946 6435!28946 6435|28913 6435!28913 6435|28913 6355!28913 6355|28834 6355!28834 6355|28834 6322!28834 6322|28913 6322!28913 6322|28913 6243!28913 6243|28946
+ 6243!28946 6243|28946 6322"/>
+                            <Edge cubics="!28913 6435(;28913,6435 28913,6355 28913,6355p28913 6435 28913 6355);"/>
+                            <Edge cubics="!28913 6355(;28913,6355 28834,6355 28834,6355p28913 6355 28834 6355);"/>
+                            <Edge cubics="!28834 6355(;28834,6355 28834,6322 28834,6322p28834 6355 28834 6322);"/>
+                            <Edge cubics="!28834 6322(;28834,6322 28913,6322 28913,6322p28834 6322 28913 6322);"/>
+                            <Edge cubics="!28913 6322(;28913,6322 28913,6243 28913,6243p28913 6322 28913 6243);"/>
+                            <Edge cubics="!28913 6243(28913,6243;28913,6243 28946,6243 28946,6243p28913 6243 28946 6243);"/>
+                            <Edge cubics="!28946 6243(28946,6243;28946,6243 28946,6322 28946,6322p28946 6243 28946 6322)28946,6322;"/>
+                            <Edge cubics="!28946 6322(28946,6322;28946,6322 29026,6322 29026,6322p28946 6322 29026 6322);"/>
+                            <Edge cubics="!29026 6322(;29026,6322 29026,6355 29026,6355p29026 6322 29026 6355);"/>
+                            <Edge cubics="!29026 6355(;29026,6355 28946,6355 28946,6355p29026 6355 28946 6355);"/>
+                            <Edge cubics="!28946 6355(;28946,6355 28946,6435 28946,6435p28946 6355 28946 6435);"/>
+                            <Edge cubics="!28946 6435(;28946,6435 28913,6435 28913,6435p28946 6435 28913 6435);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="Layer 9" color="#4FFF4F">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMGroup>
+                  <members>
+                    <DOMGroup selected="true">
+                      <members>
+                        <DOMShape selected="true" isDrawingObject="true">
+                          <matrix>
+                            <Matrix a="0.86181640625" d="0.86181640625" tx="-1115.4" ty="-260.15"/>
+                          </matrix>
+                          <fills>
+                            <FillStyle index="1">
+                              <SolidColor color="#FFFFFF"/>
+                            </FillStyle>
+                          </fills>
+                          <edges>
+                            <Edge fillStyle1="1" edges="
+!25978 6357|25978 6336!25978 6336|26115 6336!26115 6336|26115 6357!26115 6357|25978 6357"/>
+                            <Edge cubics="!25978 6357(;25978,6357 25978,6336 25978,6336p25978 6357 25978 6336);"/>
+                            <Edge cubics="!25978 6336(;25978,6336 26115,6336 26115,6336p25978 6336 26115 6336);"/>
+                            <Edge cubics="!26115 6336(;26115,6336 26115,6357 26115,6357p26115 6336 26115 6357);"/>
+                            <Edge cubics="!26115 6357(;26115,6357 25978,6357 25978,6357p26115 6357 25978 6357);"/>
+                          </edges>
+                        </DOMShape>
+                      </members>
+                    </DOMGroup>
+                  </members>
+                </DOMGroup>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="track" color="#9933CC" current="true" isSelected="true" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/zoomBarTrack" name="track" centerPoint3DX="69.2" centerPoint3DY="12.45">
+                  <matrix>
+                    <Matrix tx="67.05"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="2.15" y="12.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="mascara" color="#FF800A" locked="true" autoNamed="false" visible="false" layerType="mask">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/zoomBarFill" name="mascara" selected="true" centerPoint3DX="53.8" centerPoint3DY="12.4">
+                  <matrix>
+                    <Matrix a="0.5" ty="2.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.8" y="9.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="fill" color="#FF4FFF" parentLayerIndex="3" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/zoomBarFill" name="fill" centerPoint3DX="69.8" centerPoint3DY="12.4">
+                  <matrix>
+                    <Matrix ty="2.95"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.8" y="9.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+        <DOMLayer name="bg" color="#4FFFFF" autoNamed="false">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMSymbolInstance libraryItemName="pages/_assets crie seu personagem/photo/zoomBarBg" name="bg" centerPoint3DX="69.75" centerPoint3DY="12.3">
+                  <matrix>
+                    <Matrix ty="2.85"/>
+                  </matrix>
+                  <transformationPoint>
+                    <Point x="69.75" y="9.45"/>
+                  </transformationPoint>
+                </DOMSymbolInstance>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>

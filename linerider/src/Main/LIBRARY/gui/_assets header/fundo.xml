@@ -1,0 +1,79 @@
+<DOMSymbolItem xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://ns.adobe.com/xfl/2008/" name="gui/_assets header/fundo" itemID="4dfcfbb7-00000308" sourceLibraryItemHRef="Symbol 1" lastModified="1308441512">
+  <timeline>
+    <DOMTimeline name="fundo">
+      <layers>
+        <DOMLayer name="Layer 1" color="#4FFF4F" current="true" isSelected="true">
+          <frames>
+            <DOMFrame index="0" keyMode="9728">
+              <elements>
+                <DOMShape>
+                  <fills>
+                    <FillStyle index="1">
+                      <SolidColor alpha="0.450980392156863"/>
+                    </FillStyle>
+                    <FillStyle index="2">
+                      <SolidColor alpha="0.4"/>
+                    </FillStyle>
+                    <FillStyle index="3">
+                      <SolidColor alpha="0.341176470588235"/>
+                    </FillStyle>
+                    <FillStyle index="4">
+                      <SolidColor alpha="0.298039215686275"/>
+                    </FillStyle>
+                    <FillStyle index="5">
+                      <SolidColor alpha="0.250980392156863"/>
+                    </FillStyle>
+                    <FillStyle index="6">
+                      <SolidColor alpha="0.2"/>
+                    </FillStyle>
+                    <FillStyle index="7">
+                      <SolidColor alpha="0.0470588235294118"/>
+                    </FillStyle>
+                    <FillStyle index="8">
+                      <SolidColor alpha="0.0901960784313725"/>
+                    </FillStyle>
+                    <FillStyle index="9">
+                      <SolidColor alpha="0.141176470588235"/>
+                    </FillStyle>
+                    <FillStyle index="10">
+                      <SolidColor color="#17201B"/>
+                    </FillStyle>
+                  </fills>
+                  <edges>
+                    <Edge fillStyle0="6" edges="!10000 1600|10000 1590"/>
+                    <Edge fillStyle0="6" fillStyle1="5" edges="!10000 1590|-9999 1590"/>
+                    <Edge fillStyle0="6" edges="!-9999 1590|-9999 1600"/>
+                    <Edge fillStyle0="6" fillStyle1="9" edges="!-9999 1600|10000 1600"/>
+                    <Edge fillStyle0="5" edges="!10000 1590|10000 1580"/>
+                    <Edge fillStyle0="5" fillStyle1="4" edges="!10000 1580|-9999 1580"/>
+                    <Edge fillStyle0="5" edges="!-9999 1580|-9999 1590"/>
+                    <Edge fillStyle0="4" edges="!10000 1580|10000 1570"/>
+                    <Edge fillStyle0="4" fillStyle1="3" edges="!10000 1570|-9999 1570"/>
+                    <Edge fillStyle0="4" edges="!-9999 1570|-9999 1580"/>
+                    <Edge fillStyle0="3" edges="!10000 1570|10000 1560"/>
+                    <Edge fillStyle0="3" fillStyle1="2" edges="!10000 1560|-9999 1560"/>
+                    <Edge fillStyle0="3" edges="!-9999 1560|-9999 1570"/>
+                    <Edge fillStyle0="2" edges="!10000 1560|10000 1550"/>
+                    <Edge fillStyle0="2" fillStyle1="1" edges="!10000 1550|-9999 1550"/>
+                    <Edge fillStyle0="2" edges="!-9999 1550|-9999 1560"/>
+                    <Edge fillStyle0="1" edges="!10000 1550|10000 1540"/>
+                    <Edge fillStyle0="1" fillStyle1="10" edges="!10000 1540|-9999 1540"/>
+                    <Edge fillStyle0="1" edges="!-9999 1540|-9999 1550"/>
+                    <Edge fillStyle0="7" edges="!-9999 1620|-9999 1630!-9999 1630|10000 1630!10000 1630|10000 1620"/>
+                    <Edge fillStyle0="7" fillStyle1="8" edges="!10000 1620|-9999 1620"/>
+                    <Edge fillStyle0="8" edges="!10000 1620|10000 1610"/>
+                    <Edge fillStyle0="8" fillStyle1="9" edges="!10000 1610|-9999 1610"/>
+                    <Edge fillStyle0="8" edges="!-9999 1610|-9999 1620"/>
+                    <Edge fillStyle0="9" edges="!10000 1610|10000 1600"/>
+                    <Edge fillStyle0="10" edges="!10000 1540|9999 0!9999 0|-10000 0!-10000 0|-9999 1540"/>
+                    <Edge fillStyle0="9" edges="!-9999 1600|-9999 1610"/>
+                  </edges>
+                </DOMShape>
+              </elements>
+            </DOMFrame>
+          </frames>
+        </DOMLayer>
+      </layers>
+    </DOMTimeline>
+  </timeline>
+</DOMSymbolItem>
