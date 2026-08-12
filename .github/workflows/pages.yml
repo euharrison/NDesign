@@ -2,7 +2,7 @@ name: Deploy Line Rider to GitHub Pages
 
 on:
   push:
-    branches: [master]
+    branches: [main]
     paths:
       - 'linerider-html5/**'
       - '.github/workflows/pages.yml'
