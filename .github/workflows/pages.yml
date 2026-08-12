@@ -1,0 +1,66 @@
+name: Deploy Line Rider to GitHub Pages
+
+on:
+  push:
+    branches: [master]
+    paths:
+      - 'linerider-html5/**'
+      - '.github/workflows/pages.yml'
+  # Lets you publish without waiting for a push, from the Actions tab.
+  workflow_dispatch:
+
+# Least privilege: read the code, mint an OIDC token, publish to Pages.
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Never let two deploys race; queue them instead of cancelling a live one.
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: linerider-html5
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          # planck requires Node >= 24.
+          node-version: '24'
+          cache: npm
+          cache-dependency-path: linerider-html5/package-lock.json
+
+      - name: Install
+        run: npm ci
+
+      - name: Test
+        run: npm test
+
+      # `npm run build` type-checks first, so a broken build never ships.
+      - name: Build
+        run: npm run build
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          # Paths here are relative to the workspace, not to `working-directory`.
+          path: linerider-html5/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

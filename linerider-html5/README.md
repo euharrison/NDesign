@@ -31,6 +31,16 @@ npm run lint
 npm run levels    # regenerate levels.ts from the original level.xml
 ```
 
+## Deploying
+
+The game is published to GitHub Pages at **https://euharrison.github.io/NDesign/** by
+[`.github/workflows/pages.yml`](../.github/workflows/pages.yml), which runs the tests, type-checks,
+builds, and uploads `dist/` whenever `linerider-html5/**` changes on `master`. It can also be run
+by hand from the Actions tab. Nothing built is committed.
+
+The bundle uses `base: './'`, so it works from the `/NDesign/` project-page subpath — and from any
+other subdirectory — without configuration.
+
 ## Playing
 
 | Action      | Input                                        |
