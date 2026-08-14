@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta
+      name="description"
+      content="Exploda os bloquinhos e faça o N parar em pé. Port HTML5 do jogo em Flash do NDesign."
+    />
+    <title>Bloquinhos · NDesign</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%238ecae6'/%3E%3Crect x='6' y='17' width='9' height='9' fill='%23d33f3f'/%3E%3Crect x='17' y='17' width='9' height='9' fill='%233a76c4'/%3E%3Crect x='11' y='6' width='10' height='10' fill='%23111214'/%3E%3C/svg%3E"
+    />
+  </head>
+  <body>
+    <div id="app">
+      <canvas id="stage" aria-label="Área de jogo"></canvas>
+
+      <header class="hud">
+        <div class="hud__panel">
+          <span class="hud__label" data-pack-title></span>
+          <span class="hud__level"><b data-level-number>01</b> <span data-level-name></span></span>
+        </div>
+        <div class="hud__panel hud__panel--right">
+          <span class="hud__clock" data-clock>00:00</span>
+          <span class="hud__password" data-password hidden></span>
+        </div>
+
+        <nav class="toolbar" aria-label="Controles">
+          <button
+            class="tool"
+            data-action="retry"
+            title="Reiniciar a fase (R)"
+            aria-label="Reiniciar"
+          >
+            <svg viewBox="0 0 24 24">
+              <path d="M4 9h11a5 5 0 0 1 0 10h-6M4 9l4-4M4 9l4 4" />
+            </svg>
+          </button>
+          <button class="tool" data-action="levels" title="Fases e senhas" aria-label="Fases">
+            <svg viewBox="0 0 24 24">
+              <rect x="4" y="4" width="7" height="7" />
+              <rect x="13" y="4" width="7" height="7" />
+              <rect x="4" y="13" width="7" height="7" />
+              <rect x="13" y="13" width="7" height="7" />
+            </svg>
+          </button>
+          <button class="tool" data-action="help" title="Como jogar (?)" aria-label="Como jogar">
+            <svg viewBox="0 0 24 24">
+              <circle cx="12" cy="12" r="9" />
+              <path d="M9.5 9.5a2.5 2.5 0 1 1 3.4 2.3c-.6.3-.9.8-.9 1.5v.4" />
+              <circle cx="12" cy="17" r="1.1" stroke="none" />
+            </svg>
+          </button>
+        </nav>
+      </header>
+
+      <div class="overlay" data-overlay hidden>
+        <!-- Próxima fase -->
+        <section class="card" data-dialog="won" hidden>
+          <span class="card__badge">Fase concluída</span>
+          <h2 class="card__title">O N ficou de pé!</h2>
+          <p class="card__hint" data-won-time></p>
+          <div class="card__actions">
+            <button class="btn" data-action="retry-dialog">Repetir</button>
+            <button class="btn btn--primary" data-action="next">Próxima fase</button>
+          </div>
+        </section>
+
+        <!-- Tentar novamente -->
+        <section class="card" data-dialog="lost" hidden>
+          <span class="card__badge card__badge--warn">Que pena</span>
+          <h2 class="card__title">O N caiu fora da tela.</h2>
+          <p class="card__hint">Explodir de baixo para cima costuma dar mais controle.</p>
+          <div class="card__actions">
+            <button class="btn btn--primary" data-action="retry-dialog">Tentar novamente</button>
+          </div>
+        </section>
+
+        <!-- Final -->
+        <section class="card" data-dialog="finished" hidden>
+          <span class="card__badge">Fim de jogo</span>
+          <h2 class="card__title">Você derrubou tudo!</h2>
+          <p class="card__hint" data-final-time></p>
+          <div class="card__actions">
+            <button class="btn" data-action="levels">Outras fases</button>
+            <button class="btn btn--primary" data-action="restart">Jogar de novo</button>
+          </div>
+        </section>
+
+        <!-- Fases e senhas -->
+        <section class="card card--wide" data-dialog="levels" hidden>
+          <h2 class="card__title">Fases</h2>
+          <div class="packs" data-packs></div>
+          <ol class="levels" data-levels></ol>
+          <form class="password" data-password-form>
+            <label for="password-input">Senha</label>
+            <input
+              id="password-input"
+              name="password"
+              type="text"
+              maxlength="12"
+              autocomplete="off"
+              spellcheck="false"
+              placeholder="ADERRUBA"
+            />
+            <button class="btn" type="submit">Ir</button>
+          </form>
+          <p class="password__error" data-password-error hidden>Senha não encontrada.</p>
+          <div class="card__actions">
+            <button class="btn btn--primary" data-action="close">Fechar</button>
+          </div>
+        </section>
+
+        <!-- Ajuda -->
+        <section class="card card--wide" data-dialog="help" hidden>
+          <h2 class="card__title">Como jogar</h2>
+          <ul class="help">
+            <li>Clique num bloquinho para explodi-lo. Só os coloridos somem.</li>
+            <li>A bomba recarrega por meio segundo depois de cada explosão.</li>
+            <li>O <b>N</b> preto não pode ser destruído — ele precisa parar em pé na tela.</li>
+            <li>Se o N sair pela lateral, a fase acaba e você tenta de novo.</li>
+            <li>Blocos verdes quicam, os de gelo escorregam, e o de vidro quase não aparece.</li>
+          </ul>
+          <p class="card__hint">
+            Atalhos: <kbd>R</kbd> reinicia · <kbd>Esc</kbd> fecha · <kbd>?</kbd> ajuda
+          </p>
+          <div class="card__actions">
+            <button class="btn btn--primary" data-action="close">Fechar</button>
+          </div>
+        </section>
+      </div>
+    </div>
+
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>
