@@ -12,7 +12,8 @@
     "test:watch": "vitest",
     "lint": "eslint .",
     "format": "prettier --write .",
-    "levels": "node scripts/convert-levels.mjs"
+    "levels": "node scripts/convert-levels.mjs",
+    "fla": "node scripts/read-fla.mjs"
   },
   "dependencies": {
     "planck": "^1.5.0"

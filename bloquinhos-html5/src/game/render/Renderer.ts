@@ -162,6 +162,9 @@ export class Renderer {
     for (let x = -STAGE_WIDTH; x < STAGE_WIDTH * 2; x += chao.width) {
       ctx.drawImage(chao, x, top);
     }
+
+    // The cloud shadows land on the grass, so they go on after it.
+    this.background.drawShadows(ctx, chao.height);
   }
 
   private drawBlock(ctx: CanvasRenderingContext2D, block: Block, hovered: boolean): void {

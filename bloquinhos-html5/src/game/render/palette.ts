@@ -36,6 +36,9 @@ export const N_BLUE = '#00a6e5';
 /** Below `chao.gif`, matching the darkest tone in its bottom row. */
 export const GROUND_BELOW = '#728b03';
 
+/** Centre of the `sombra nuvens` radial gradient, from the .fla. */
+export const SHADOW = 'rgba(3, 77, 25, 1)';
+
 export const SKY_TOP = '#8ecae6';
 export const SKY_BOTTOM = '#dff1f7';
 export const MOUNTAIN = '#7ea86b';

@@ -19,7 +19,7 @@ No plugin: TypeScript, a `<canvas>`, a physics engine — and the original 2010 
 | Deep links  | SWFAddress                      | dropped                                      |
 | Levels      | `Level.as` × 2                  | Generated `src/game/levels/levels.ts`        |
 | Persistence | PHP e-mail form                 | `localStorage`                               |
-| Tests       | —                               | Vitest (26 tests)                            |
+| Tests       | —                               | Vitest (32 tests)                            |
 
 ## Running it
 
@@ -31,6 +31,9 @@ npm run preview   # serve the built bundle
 npm test          # unit + physics tests
 npm run lint
 npm run levels    # regenerate levels.ts from the original Level.as files
+
+# read one of the original .fla files (both formats; see "Reading the .fla files")
+npm run fla -- "../bloquinhos/primeiro jogo/assets.fla" --scripts
 ```
 
 ## Deploying
@@ -84,12 +87,34 @@ because the win condition depends on it.
 
 **The N has to come to rest standing on the `Rio021` pedestal, without touching the ground.**
 
-This is what `checkVictory` was for. The flag is declared in `Jogo.as` but never assigned there —
-it was set from a movie clip's timeline, inside a `.fla` whose zip central directory is corrupt and
-cannot be read — and `_checkingVictory()` only tests `NFound.IsSleeping()` once it is armed.
-Landing on the pedestal is what arms it. The level data backs this up: every one of the 42 levels
-declares **exactly one** `Rio021` block (31 standing on the ground, 11 built up into the
-structure), and it is the only decorative block that appears everywhere.
+This is what `checkVictory` was for. The flag is declared in `Jogo.as` but never assigned there, and
+`_checkingVictory()` only tests `NFound.IsSleeping()` once it is armed.
+
+The `.fla` files turned out to be readable after all (see below), and the `N` symbol's timeline is
+the missing half of that logic:
+
+| Frame | Label      | Script                                                            |
+| ----- | ---------- | ----------------------------------------------------------------- |
+| 0     | `start`    | —                                                                 |
+| 1     | `wait`     | `checkVictory = false; var lose:Boolean = false; stop();`         |
+| 2     | `checkWin` | `checkVictory = true; stop();`                                    |
+| 21    |            | `endLevel('win');` — after a 19-frame celebration                 |
+| 23    | `lose`     | — 16 frames of the N shattering, over a `som vidro` (glass) sound |
+| 39    |            | `endLevel('lose');`                                               |
+
+So the clip parks on `wait` with the check disarmed, and something has to move it to `checkWin`.
+That the losing branch **shatters the N like glass** is the strongest hint at what: the N breaking
+is a physical event, not an off-screen one, which fits "it must not hit the ground".
+
+What is _not_ in the repository is the call that arms it. There is no `gotoAndStop('checkWin')`, no
+`nextFrame`, and no second `.play()` in any `.as` file or in any of the six `.fla` files, in either
+format — and `m_world.SetContactListener()` is handed a plain `b2ContactListener`, whose methods
+are empty. As committed, this source cannot win a level. The arming lived in a build state that
+never made it into the repo.
+
+The level data settles the rest: every one of the 42 levels declares **exactly one** `Rio021` block
+(31 standing on the ground, 11 built up into the structure), and it is the only decorative block
+that appears everywhere.
 
 It also makes the game a puzzle. Demolishing every destructible block lands the N on its pedestal
 in only 13 of the 42 levels and drops it on the ground in 23, so brute force is not a solution.
@@ -101,7 +126,7 @@ Three smaller departures:
 
 - A short dwell is required before the win registers, so a one-frame sleep mid-collapse cannot
   award the level by accident.
-- The N must be *above* the pedestal's centre, so resting against its side does not count. Across
+- The N must be _above_ the pedestal's centre, so resting against its side does not count. Across
   all 42 levels this never rejects a contact that would otherwise have registered.
 - Losing also triggers if the N falls far below the ground, which the original could not detect —
   it only watched the horizontal bounds.
@@ -115,14 +140,14 @@ The original bitmaps survive in [`../bloquinhos/primeiro jogo/images`](<../bloqu
 and the port uses them. Their sizes are what proves they are the real sprites rather than
 lookalikes:
 
-| Bitmap                       | Size    | Why it fits                                                       |
-| ---------------------------- | ------- | ----------------------------------------------------------------- |
-| `fundo.jpg`                  | 1000×557 | The stage is 1000×580 and the ground slab's top edge is at y=557. |
-| `chao.gif`                   | 1000×13  | Exactly the strip between the slab's top and its bottom.          |
-| `n.gif`                      | 60×60    | Every `N` block in all 42 levels is 60×60.                        |
-| `rio021.gif`                 | 90×30    | Every `Rio021` block is 90×30.                                    |
-| `montanhas.png`              | 1060×56  | 60px of slack for the ±5px the mountains drift.                   |
-| `nuvem1`…`nuvem5`            | 286×132 → 90×48 | Largest to smallest, matching the depths in `Fundo.as`.   |
+| Bitmap            | Size            | Why it fits                                                       |
+| ----------------- | --------------- | ----------------------------------------------------------------- |
+| `fundo.jpg`       | 1000×557        | The stage is 1000×580 and the ground slab's top edge is at y=557. |
+| `chao.gif`        | 1000×13         | Exactly the strip between the slab's top and its bottom.          |
+| `n.gif`           | 60×60           | Every `N` block in all 42 levels is 60×60.                        |
+| `rio021.gif`      | 90×30           | Every `Rio021` block is 90×30.                                    |
+| `montanhas.png`   | 1060×56         | 60px of slack for the ±5px the mountains drift.                   |
+| `nuvem1`…`nuvem5` | 286×132 → 90×48 | Largest to smallest, matching the depths in `Fundo.as`.           |
 
 `Decode()` backs this up: `Chao`, `N`, `Rio021` and `Preto` are the only symbols instantiated
 without a size suffix, and they are exactly the four that shipped a loose bitmap. The coloured
@@ -131,16 +156,31 @@ existed inside the `.fla`, so those stay flat colours drawn from their collision
 one unsized symbol used for blocks up to 2055×480, so its 60×60 tile repeats.
 
 The parallax follows `Fundo.as` exactly: 50px of travel across the stage width and 20px across its
-height, divided by 1, 3, 3, 5 and 15 for the clouds and 10 for the mountains. What could not be
-recovered is *where* each cloud sat — those x/y values lived on the `Fundo` movie clip's timeline
-inside the unreadable `.fla` — so the positions in `Background.ts` are a reconstruction. The
-balloon, bird and UFO are placed on the same footing: the bitmaps ship with the game and the bird
-carries the N logo, but nothing in the ActionScript says where they went.
+height, divided by 1, 3, 3, 5 and 15 for the clouds and 10 for the mountains. The cloud positions
+are the `Fundo` symbol's own instance matrices, read out of the `.fla` (see below) — Flash
+registers each cloud at its centre, which is why `Background.ts` stores centres and offsets by half
+the bitmap when drawing. The `sombra nuvens` shadows are in there too: a radial gradient from
+`#034D19` to transparent, masked by the `chao` bitmap so they only ever show on the grass.
+
+`balao.png`, `ovni.png` and `passaro.png` are **not** used. They sit in the `.fla` library, but the
+`Fundo` timeline never places them in either game, and `balao` is not referenced anywhere at all.
 
 Two smaller notes. `fundo.jpg` carries a faint stock-photo watermark; it is in the original asset
 and is left alone. `FUNDO-novo-jogo.jpg` is not used — it is the same sky photo with the grass
 flattened in (no pixel differs by more than 18/255 from `fundo.jpg`), so it would have cost 62 kB
 for no visible difference.
+
+### Reading the `.fla` files
+
+They are not all the same format, and none of them are beyond reach:
+
+| File                                                   | Format       | How to read it                                                                                                                           |
+| ------------------------------------------------------ | ------------ | ---------------------------------------------------------------------------------------------------------------------------------------- |
+| `para viciados/Main.fla`, `assets.fla`                 | ZIP / XFL    | Central directory is damaged; scan for `PK\x03\x04` local headers and inflate each entry (`-15` window). All 57 and 105 entries recover. |
+| `primeiro jogo/*.fla`, `para viciados/botao_jogar.fla` | OLE compound | `olefile` opens them directly. Timeline scripts and labels are UTF-16LE inside the `S <n>` streams.                                      |
+
+`scripts/read-fla.mjs` does both. That is where the `Fundo` layout above came from, and the frame
+structure of the `N` symbol described under the win condition.
 
 The bitmaps load after the first frame and swap in when they decode, so a slow connection delays
 the artwork but never the game — the vector fallback is still there underneath.
