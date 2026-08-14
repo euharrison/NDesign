@@ -36,8 +36,8 @@ npm run levels    # regenerate levels.ts from the original Level.as files
 
 Published to GitHub Pages at **https://euharrison.github.io/NDesign/bloquinhos/** by
 [`.github/workflows/pages.yml`](../.github/workflows/pages.yml), which builds both games and
-publishes them together. Line Rider keeps the site root so its existing URL still works; this game
-sits in `/bloquinhos/`. The bundle uses `base: './'`, so it runs from any subdirectory.
+publishes them together under the landing page in [`../site`](../site). The bundle uses
+`base: './'`, so it runs from any subdirectory.
 
 ## Playing
 

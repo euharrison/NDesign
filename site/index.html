@@ -1,0 +1,272 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      name="description"
+      content="Jogos feitos para o NDesign Rio 021, originalmente em Flash e agora portados para HTML5."
+    />
+    <title>Jogos do NDesign</title>
+    <link
+      rel="icon"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='7' fill='%23111214'/%3E%3Ctext x='16' y='23' font-family='system-ui,sans-serif' font-size='20' font-weight='700' fill='%23fff' text-anchor='middle'%3EN%3C/text%3E%3C/svg%3E"
+    />
+
+    <style>
+      :root {
+        --ink: #14181d;
+        --muted: #6b7480;
+        --line: #e3e6ea;
+        --paper: #fbfbf9;
+        --accent: #f62e8d;
+
+        color-scheme: light;
+      }
+
+      * {
+        box-sizing: border-box;
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        padding: clamp(28px, 7vw, 80px) 20px;
+        background: var(--paper);
+        color: var(--ink);
+        font-family:
+          "Segoe UI",
+          system-ui,
+          -apple-system,
+          sans-serif;
+        line-height: 1.55;
+      }
+
+      .wrap {
+        max-width: 760px;
+        margin: 0 auto;
+      }
+
+      header {
+        margin-bottom: clamp(28px, 5vw, 48px);
+      }
+
+      .eyebrow {
+        display: inline-block;
+        padding: 4px 11px;
+        border-radius: 999px;
+        background: #111214;
+        color: #fff;
+        font-size: 11px;
+        font-weight: 700;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+      }
+
+      h1 {
+        margin: 16px 0 10px;
+        font-size: clamp(28px, 6vw, 44px);
+        line-height: 1.1;
+        letter-spacing: -0.02em;
+      }
+
+      .lede {
+        margin: 0;
+        max-width: 52ch;
+        color: var(--muted);
+        font-size: clamp(15px, 2vw, 17px);
+      }
+
+      .games {
+        display: grid;
+        gap: 16px;
+        grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      }
+
+      .game {
+        display: flex;
+        flex-direction: column;
+        border: 1px solid var(--line);
+        border-radius: 16px;
+        background: #fff;
+        overflow: hidden;
+        text-decoration: none;
+        color: inherit;
+        transition:
+          transform 0.18s ease,
+          box-shadow 0.18s ease,
+          border-color 0.18s ease;
+      }
+
+      .game:hover,
+      .game:focus-visible {
+        transform: translateY(-3px);
+        border-color: #c9ced4;
+        box-shadow: 0 12px 30px rgba(15, 25, 35, 0.12);
+      }
+
+      .game:focus-visible {
+        outline: 3px solid var(--accent);
+        outline-offset: 2px;
+      }
+
+      .thumb {
+        display: block;
+        width: 100%;
+        height: auto;
+        border-bottom: 1px solid var(--line);
+      }
+
+      .game__body {
+        padding: 18px 20px 20px;
+      }
+
+      .game h2 {
+        margin: 0 0 6px;
+        font-size: 19px;
+      }
+
+      .game p {
+        margin: 0 0 12px;
+        color: var(--muted);
+        font-size: 14px;
+      }
+
+      .cta {
+        font-size: 14px;
+        font-weight: 700;
+        color: var(--accent);
+      }
+
+      .game:hover .cta::after,
+      .game:focus-visible .cta::after {
+        transform: translateX(3px);
+      }
+
+      .cta::after {
+        /* Non-breaking space: a plain one collapses against the label. */
+        content: "\00a0→";
+        display: inline-block;
+        transition: transform 0.18s ease;
+      }
+
+      footer {
+        margin-top: clamp(30px, 6vw, 54px);
+        padding-top: 20px;
+        border-top: 1px solid var(--line);
+        color: var(--muted);
+        font-size: 13px;
+      }
+
+      footer a {
+        color: inherit;
+      }
+
+      @media (prefers-reduced-motion: reduce) {
+        * {
+          transition: none !important;
+        }
+      }
+    </style>
+  </head>
+
+  <body>
+    <div class="wrap">
+      <header>
+        <span class="eyebrow">NDesign Rio 021</span>
+        <h1>Jogos do NDesign</h1>
+        <p class="lede">
+          Dois jogos feitos para o encontro de 2010–2011, originalmente em
+          Flash. O plugin morreu, os jogos não: foram portados para HTML5 e
+          rodam direto no navegador.
+        </p>
+      </header>
+
+      <main class="games">
+        <a class="game" href="./linerider/">
+          <svg
+            class="thumb"
+            viewBox="0 0 400 150"
+            role="img"
+            aria-label="Traço descendo até alvos coloridos"
+          >
+            <rect width="400" height="150" fill="#fbfbf9" />
+            <path
+              d="M20 32 L170 96 L300 118"
+              stroke="#111"
+              stroke-width="3"
+              fill="none"
+              stroke-linecap="round"
+            />
+            <path
+              d="M300 118 L380 128"
+              stroke="#f62e8d"
+              stroke-width="3"
+              fill="none"
+              stroke-linecap="round"
+            />
+            <circle cx="150" cy="86" r="9" fill="#111" />
+            <circle cx="150" cy="86" r="4" fill="#fff" />
+            <circle cx="236" cy="126" r="16" fill="#7b3fa0" />
+            <circle cx="300" cy="126" r="16" fill="#3aa63a" />
+            <circle cx="364" cy="126" r="16" fill="#1b5fd0" />
+          </svg>
+          <div class="game__body">
+            <h2>Line Rider</h2>
+            <p>
+              Desenhe o caminho e leve o personagem até a resposta. 21
+              perguntas, quatro veículos e muita queda.
+            </p>
+            <span class="cta">Jogar</span>
+          </div>
+        </a>
+
+        <a class="game" href="./bloquinhos/">
+          <svg
+            class="thumb"
+            viewBox="0 0 400 150"
+            role="img"
+            aria-label="Torre de bloquinhos com o N no topo"
+          >
+            <rect width="400" height="150" fill="#8ecae6" />
+            <circle cx="72" cy="38" r="18" fill="#fff" />
+            <circle cx="98" cy="44" r="13" fill="#fff" />
+            <circle cx="320" cy="32" r="15" fill="#fff" />
+            <rect y="126" width="400" height="24" fill="#6f9c3c" />
+            <rect x="168" y="14" width="46" height="34" fill="#111214" />
+            <text
+              x="191"
+              y="39"
+              font-family="system-ui, sans-serif"
+              font-size="25"
+              font-weight="700"
+              fill="#fff"
+              text-anchor="middle"
+            >
+              N
+            </text>
+            <rect x="160" y="48" width="62" height="22" fill="#5cb85c" />
+            <rect x="150" y="70" width="82" height="20" fill="#8b5a2b" />
+            <rect x="156" y="90" width="30" height="36" fill="#3a76c4" />
+            <rect x="196" y="90" width="30" height="36" fill="#7b4397" />
+          </svg>
+          <div class="game__body">
+            <h2>Bloquinhos</h2>
+            <p>
+              Exploda os blocos e faça o N parar em pé sem cair da tela. 42
+              fases entre os dois jogos originais.
+            </p>
+            <span class="cta">Jogar</span>
+          </div>
+        </a>
+      </main>
+
+      <footer>
+        Código dos jogos originais e dos ports em
+        <a href="https://github.com/euharrison/NDesign"
+          >github.com/euharrison/NDesign</a
+        >.
+      </footer>
+    </div>
+  </body>
+</html>
