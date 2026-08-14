@@ -60,7 +60,7 @@
         <!-- Próxima fase -->
         <section class="card" data-dialog="won" hidden>
           <span class="card__badge">Fase concluída</span>
-          <h2 class="card__title">O N ficou de pé!</h2>
+          <h2 class="card__title">O N parou em cima do RIO 021!</h2>
           <p class="card__hint" data-won-time></p>
           <div class="card__actions">
             <button class="btn" data-action="retry-dialog">Repetir</button>
@@ -71,8 +71,8 @@
         <!-- Tentar novamente -->
         <section class="card" data-dialog="lost" hidden>
           <span class="card__badge card__badge--warn">Que pena</span>
-          <h2 class="card__title">O N caiu fora da tela.</h2>
-          <p class="card__hint">Explodir de baixo para cima costuma dar mais controle.</p>
+          <h2 class="card__title">O N não parou em cima do RIO 021.</h2>
+          <p class="card__hint">Ele não pode encostar no chão nem sair da tela.</p>
           <div class="card__actions">
             <button class="btn btn--primary" data-action="retry-dialog">Tentar novamente</button>
           </div>
@@ -119,8 +119,11 @@
           <ul class="help">
             <li>Clique num bloquinho para explodi-lo. Só os coloridos somem.</li>
             <li>A bomba recarrega por meio segundo depois de cada explosão.</li>
-            <li>O bloco do <b>N</b> não pode ser destruído — ele precisa parar em pé na tela.</li>
-            <li>Se o N sair pela lateral, a fase acaba e você tenta de novo.</li>
+            <li>
+              O bloco do <b>N</b> não pode ser destruído — ele precisa parar em pé em cima do bloco
+              <b>RIO 021</b>.
+            </li>
+            <li>Se o N encostar no chão ou sair da tela, a fase acaba e você tenta de novo.</li>
             <li>Blocos verdes quicam, os de gelo escorregam, e o de vidro quase não aparece.</li>
           </ul>
           <p class="card__hint">

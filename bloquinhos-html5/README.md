@@ -1,8 +1,9 @@
 # Bloquinhos · NDesign — HTML5 port
 
 A modern web port of the Flash/ActionScript 3 block-demolition game that lives in
-[`../bloquinhos`](../bloquinhos). Blow up the coloured blocks so the **N** settles without sliding
-off the screen. 42 levels across the two original games.
+[`../bloquinhos`](../bloquinhos). Blow up the coloured blocks so the **N** comes to rest standing
+on the **RIO 021** block, without ever touching the ground. 42 levels across the two original
+games.
 
 No plugin: TypeScript, a `<canvas>`, a physics engine — and the original 2010 artwork.
 
@@ -42,8 +43,8 @@ publishes them together under the landing page in [`../site`](../site). The bund
 ## Playing
 
 Click a block to blow it up. The bomb then recharges for half a second — the ring around the
-crosshair shows the wait. The **N** block cannot be destroyed: it has to come to rest somewhere on
-screen. If it slides off the side, the level is over.
+crosshair shows the wait. The **N** block cannot be destroyed: it has to come to rest standing on
+the **RIO 021** block. If it touches the ground or slides off the screen, the level is over.
 
 Green blocks bounce, ice blocks slide, and the glass block is nearly invisible but perfectly solid.
 
@@ -79,19 +80,34 @@ iterations, density `1` for every block, the 2000×14 ground slab at (500, 564) 
 restitution `0.3`, and per-block friction/restitution from the level table. Sleeping is left on,
 because the win condition depends on it.
 
-**One rule had to be inferred.** The original tested `NFound.IsSleeping()` but only when a
-`checkVictory` flag was set, and that flag is never assigned in any `.as` file — it was set from a
-movie clip's timeline, inside a `.fla` whose zip central directory is corrupt and cannot be read.
-Arming the check on the player's first demolition is the only reading that works: the stacks start
-settled, so an unguarded test would award the level before the player touched anything. There's a
-test (`lets an untouched stack come to rest`) that pins this down.
+### The win condition
 
-Two smaller departures:
+**The N has to come to rest standing on the `Rio021` pedestal, without touching the ground.**
+
+This is what `checkVictory` was for. The flag is declared in `Jogo.as` but never assigned there —
+it was set from a movie clip's timeline, inside a `.fla` whose zip central directory is corrupt and
+cannot be read — and `_checkingVictory()` only tests `NFound.IsSleeping()` once it is armed.
+Landing on the pedestal is what arms it. The level data backs this up: every one of the 42 levels
+declares **exactly one** `Rio021` block (31 standing on the ground, 11 built up into the
+structure), and it is the only decorative block that appears everywhere.
+
+It also makes the game a puzzle. Demolishing every destructible block lands the N on its pedestal
+in only 13 of the 42 levels and drops it on the ground in 23, so brute force is not a solution.
+
+The first-demolition guard stays, because one level ("Mosh") starts with the N already on its
+pedestal and would otherwise be won on frame one.
+
+Three smaller departures:
 
 - A short dwell is required before the win registers, so a one-frame sleep mid-collapse cannot
   award the level by accident.
+- The N must be *above* the pedestal's centre, so resting against its side does not count. Across
+  all 42 levels this never rejects a contact that would otherwise have registered.
 - Losing also triggers if the N falls far below the ground, which the original could not detect —
   it only watched the horizontal bounds.
+
+What is not proven: that all 42 levels are still solvable under this rule. That would mean solving
+42 puzzles, and brute force does not do it by design.
 
 ### Art
 

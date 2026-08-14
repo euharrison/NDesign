@@ -1,6 +1,6 @@
 import { describe, expect, it } from 'vitest';
 
-import { PIXELS_PER_METER } from '../src/game/core/constants';
+import { GROUND, PIXELS_PER_METER } from '../src/game/core/constants';
 import { Engine } from '../src/game/core/Engine';
 import { PACKS } from '../src/game/levels/levels';
 import type { Level } from '../src/game/levels/types';
@@ -158,6 +158,88 @@ describe('Engine', () => {
       simulate(engine, 3);
 
       expect(engine.nPosition.y).toBeGreaterThan(startY);
+    });
+  });
+
+  describe('the victory pedestal', () => {
+    it('gives every level exactly one Rio021 block', () => {
+      for (const pack of PACKS) {
+        for (const level of pack.levels) {
+          const pedestals = level.blocks.filter((block) => block.material.startsWith('Rio021'));
+          expect(pedestals, `${pack.id}/${level.name}`).toHaveLength(1);
+        }
+      }
+    });
+
+    it('never sinks the pedestal below the ground', () => {
+      // 31 of the 42 sit straight on the ground; the other 11 are built into
+      // the structure, as high as y=77 in "Cristo".
+      const groundTop = GROUND.y - GROUND.height / 2;
+
+      for (const pack of PACKS) {
+        for (const level of pack.levels) {
+          const pedestal = level.blocks.find((block) => block.material.startsWith('Rio021'))!;
+          const bottom = pedestal.y + pedestal.height / 2;
+          expect(bottom, `${pack.id}/${level.name}`).toBeLessThanOrEqual(groundTop + 0.5);
+        }
+      }
+    });
+
+    it('finds the pedestal when a level loads, and drops it on clear', () => {
+      const engine = new Engine();
+      engine.load(firstLevel());
+
+      expect(engine.target).not.toBeNull();
+      expect(engine.target).not.toBe(engine.n);
+
+      engine.clear();
+      expect(engine.target).toBeNull();
+    });
+
+    it('does not count an untouched stack as standing on the pedestal', () => {
+      const engine = new Engine();
+      engine.load(firstLevel());
+
+      simulate(engine, 6);
+
+      // It has settled, but on its own tower rather than on the Rio021 — this
+      // is the case that used to be scored as a win.
+      expect(engine.nAtRest).toBe(true);
+      expect(engine.nOnTarget).toBe(false);
+      expect(engine.nOnGround).toBe(false);
+    });
+
+    it('reports the N on the pedestal once the tower between them is gone', () => {
+      const engine = new Engine();
+      engine.load(firstLevel());
+
+      for (const block of [...engine.blocks]) {
+        if (block.spec.destroyable) engine.demolishAt({ x: block.spec.x, y: block.spec.y });
+      }
+      simulate(engine, 6);
+
+      expect(engine.nOnTarget).toBe(true);
+      expect(engine.nOnGround).toBe(false);
+      expect(engine.nAtRest).toBe(true);
+    });
+
+    it('reports the N on the ground when the pedestal goes too', () => {
+      const engine = new Engine();
+      engine.load(firstLevel());
+
+      for (const block of [...engine.blocks]) {
+        if (block.spec.name !== 'N') engine.world.destroyBody(block.body);
+      }
+      engine.blocks.splice(
+        0,
+        engine.blocks.length,
+        ...engine.blocks.filter((block) => block.spec.name === 'N'),
+      );
+      engine.target = null;
+      simulate(engine, 6);
+
+      expect(engine.nOnGround).toBe(true);
+      expect(engine.nOnTarget).toBe(false);
     });
   });
 
