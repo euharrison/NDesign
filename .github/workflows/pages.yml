@@ -1,10 +1,11 @@
-name: Deploy Line Rider to GitHub Pages
+name: Deploy games to GitHub Pages
 
 on:
   push:
     branches: [main]
     paths:
       - 'linerider-html5/**'
+      - 'bloquinhos-html5/**'
       - '.github/workflows/pages.yml'
   # Lets you publish without waiting for a push, from the Actions tab.
   workflow_dispatch:
@@ -23,9 +24,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    defaults:
-      run:
-        working-directory: linerider-html5
 
     steps:
       - uses: actions/checkout@v4
@@ -35,24 +33,39 @@ jobs:
           # planck requires Node >= 24.
           node-version: '24'
           cache: npm
-          cache-dependency-path: linerider-html5/package-lock.json
-
-      - name: Install
-        run: npm ci
-
-      - name: Test
-        run: npm test
+          cache-dependency-path: |
+            linerider-html5/package-lock.json
+            bloquinhos-html5/package-lock.json
 
       # `npm run build` type-checks first, so a broken build never ships.
-      - name: Build
-        run: npm run build
+      - name: Build Line Rider
+        working-directory: linerider-html5
+        run: |
+          npm ci
+          npm test
+          npm run build
+
+      - name: Build Bloquinhos
+        working-directory: bloquinhos-html5
+        run: |
+          npm ci
+          npm test
+          npm run build
+
+      # Line Rider stays at the site root so its existing URL keeps working;
+      # Bloquinhos is published beside it. Both bundles use `base: './'`, so
+      # they run from any depth.
+      - name: Assemble the site
+        run: |
+          mkdir -p _site/bloquinhos
+          cp -r linerider-html5/dist/. _site/
+          cp -r bloquinhos-html5/dist/. _site/bloquinhos/
 
       - uses: actions/configure-pages@v5
 
       - uses: actions/upload-pages-artifact@v3
         with:
-          # Paths here are relative to the workspace, not to `working-directory`.
-          path: linerider-html5/dist
+          path: _site
 
   deploy:
     needs: build
