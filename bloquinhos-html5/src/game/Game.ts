@@ -186,25 +186,30 @@ export class Game {
   };
 
   /**
-   * Win once the N has settled, lose once it leaves the stage.
+   * The N has to come to rest standing on the `Rio021` pedestal. Touching the
+   * ground loses, and so does leaving the stage.
    *
-   * The original gated its `IsSleeping()` test behind a `checkVictory` flag set
-   * outside the ActionScript we have (it lived in a movie clip's timeline, and
-   * the .fla is unreadable). Arming it on the first demolition is the only
-   * reading that works: the stacks start at rest, so an unguarded test would
-   * hand you the level before you touched it.
+   * This is what `checkVictory` was for. The flag is declared in `Jogo.as` but
+   * never assigned there — it was set from a movie clip's timeline, inside a
+   * .fla whose zip directory is corrupt — and `_checkingVictory()` only tests
+   * `NFound.IsSleeping()` once it is armed. Landing on the pedestal is what
+   * arms it: every one of the 42 levels declares exactly one `Rio021` block —
+   * 31 standing on the ground, the other 11 built up into the structure.
+   *
+   * The first-demolition guard stays because one level ("Mosh") starts with the
+   * N already on its pedestal, and would otherwise be won on frame one.
    */
   private checkOutcome(elapsed: number): void {
     const { x, y } = this.engine.nPosition;
 
-    if (x > LOSE_X_MAX || x < LOSE_X_MIN || y > LOSE_Y) {
+    if (x > LOSE_X_MAX || x < LOSE_X_MIN || y > LOSE_Y || this.engine.nOnGround) {
       this.setState('lost');
       return;
     }
 
     if (this.demolished === 0) return;
 
-    if (this.engine.nAtRest) {
+    if (this.engine.nAtRest && this.engine.nOnTarget) {
       this.restingFor += elapsed;
       if (this.restingFor >= VICTORY_DWELL) this.win();
     } else {

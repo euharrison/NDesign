@@ -25,10 +25,19 @@ export const MATERIALS: Record<Material, MaterialStyle> = {
   Transparente: { fill: 'rgba(255,255,255,0.14)', edge: 'rgba(255,255,255,0.55)', ghost: true },
   Gelo: { fill: '#bfe6f2', edge: '#7fb8cc', alpha: 0.85 },
   Chao: { fill: '#6f9c3c', edge: '#4d6e28' },
-  N: { fill: '#111214', edge: '#000000' },
-  Rio021: { fill: '#f0f0ec', edge: '#b8b6ad' },
-  Rio021_90Graus: { fill: '#f0f0ec', edge: '#b8b6ad' },
+  N: { fill: '#f5f5f5', edge: '#c9c5b8' },
+  Rio021: { fill: '#f5f5f5', edge: '#b8b6ad' },
+  Rio021_90Graus: { fill: '#f5f5f5', edge: '#b8b6ad' },
 };
+
+/** The brand blue, sampled from `n.gif`. */
+export const N_BLUE = '#00a6e5';
+
+/** Below `chao.gif`, matching the darkest tone in its bottom row. */
+export const GROUND_BELOW = '#728b03';
+
+/** Centre of the `sombra nuvens` radial gradient, from the .fla. */
+export const SHADOW = 'rgba(3, 77, 25, 1)';
 
 export const SKY_TOP = '#8ecae6';
 export const SKY_BOTTOM = '#dff1f7';

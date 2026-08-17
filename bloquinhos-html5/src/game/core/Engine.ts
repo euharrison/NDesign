@@ -40,6 +40,12 @@ export class Engine {
   /** The N logo — the block that has to survive. */
   n: Body | null = null;
 
+  /**
+   * The `Rio021` pedestal the N has to end up on. Every one of the 42 levels
+   * declares exactly one — 31 on the ground, 11 raised into the structure.
+   */
+  target: Body | null = null;
+
   private accumulator = 0;
 
   constructor() {
@@ -78,6 +84,7 @@ export class Engine {
 
       this.blocks.push({ body, spec });
       if (spec.name === 'N') this.n = body;
+      if (spec.material.startsWith('Rio021')) this.target = body;
     }
   }
 
@@ -85,6 +92,7 @@ export class Engine {
     for (const { body } of this.blocks) this.world.destroyBody(body);
     this.blocks.length = 0;
     this.n = null;
+    this.target = null;
     this.accumulator = 0;
   }
 
@@ -144,6 +152,40 @@ export class Engine {
   /** `NFound.IsSleeping()` — the original's victory test. */
   get nAtRest(): boolean {
     return this.n ? !this.n.isAwake() : false;
+  }
+
+  /** Bodies the N is currently touching. */
+  private *nContacts(): Generator<Body> {
+    if (!this.n) return;
+
+    for (let edge = this.n.getContactList(); edge; edge = edge.next) {
+      if (edge.contact.isTouching() && edge.other) yield edge.other;
+    }
+  }
+
+  /**
+   * True while the N is standing on the `Rio021` pedestal — touching it, with
+   * its centre above the pedestal's, so resting against the side does not read
+   * as landing on top.
+   */
+  get nOnTarget(): boolean {
+    const { n, target } = this;
+    if (!n || !target) return false;
+
+    for (const other of this.nContacts()) {
+      if (other === target) return n.getPosition().y < target.getPosition().y;
+    }
+
+    return false;
+  }
+
+  /** True while the N is touching the ground slab, which loses the level. */
+  get nOnGround(): boolean {
+    for (const other of this.nContacts()) {
+      if (other === this.ground) return true;
+    }
+
+    return false;
   }
 
   get destroyableCount(): number {
